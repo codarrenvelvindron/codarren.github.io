@@ -20,7 +20,8 @@ On that day, I felt quite relieved. I thought i'd have to code some markdown to 
 
 ## Jekyll now is your quick and elegant solution
 If you want to create your personal brand with your own domain name.
-And freely hosted on github servers. You'll have to pay for the domain name though (or if you don't mind using something like: codarrenvelvindron.github.io). The repository can be found here:
+And freely hosted on github servers. You'll have to pay for the domain name though (or if you don't mind using something like: codarrenvelvindron.github.io). 
+The repository can be found here:
 [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
 ## Setting it up
