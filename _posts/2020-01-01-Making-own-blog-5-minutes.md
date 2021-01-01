@@ -61,5 +61,5 @@ The purpose here is to give it an identity.
  This step is optional, you may like the github.io domain (it's free!)
  Else, if you're like me:
   - Grab your own domain name at godaddy.com
- 
+ [domain_name godaddy](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/godaddy_new_domain.png)
  
