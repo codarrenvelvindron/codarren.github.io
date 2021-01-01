@@ -27,10 +27,10 @@ The repository can be found here:
 ## Setting it up
 I'll show you how to:
 1. Setup your own blog hosted on Github pages
-2. Customize your
-2. Get your own domain name/use your existing
-3. Link your custom domain to your github.io
-4. Publish your first blog post
+2. Customize your blog
+3. Get your own domain name/use your existing
+4. Link your custom domain to your github.io
+5. Publish your own 
 5. Use markdown (it's super easy! [Markdown Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  
  ## 1. Setup your own blog hosted on Github pages
@@ -45,7 +45,7 @@ I'll show you how to:
  doing **Settings** > Repository Name > Rename
  The name should be like such: githubusername.github.io.
  In my case, it is codarrenvelvindron.github.io
- [rename repo](https://raw.githubusercontent.com/codarrenvelvindron/codarrenvelvindron.github.io/images/renam_repo.png "github rename repo")
+ [rename repo](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/renam_repo.png "github rename repo")
  - Heading over to username.github.io, your page should be already visible ! or at least the forked page of the original author.
  
 
