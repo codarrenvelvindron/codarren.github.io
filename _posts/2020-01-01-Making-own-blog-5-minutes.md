@@ -8,7 +8,8 @@ published: true
 After a few years off the map. I came to the realization that many people need help. If you can be of any use to the universe, why not!
 
 ## Why I stopped blogging ?
-Let's start with the obvious. My aim has always been to share what I know. But... time is limited. Using wordpress, is almost a sysadmin full time job. I'd have to install updates to wordpress and make sure that any plugin is up-to-date.
+Let's start with the obvious.
+My aim has always been to share what I know. But... time is limited. Using wordpress, is almost a sysadmin full time job. I'd have to install updates to wordpress and make sure that any plugin is up-to-date.
 
 Wordpress and most CMS I have tried are a pain in the ass to say the least.
 
