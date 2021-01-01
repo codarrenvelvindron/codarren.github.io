@@ -24,7 +24,7 @@ Wordpress and most CMS I have tried are a pain in the ass to say the least.
 ## Why I resumed blogging ?
 Once I had a conversation with my buddy Kishan Takoordyal and I explained my predicament.
 
-I want to blog, everyday.
+I want to write and share, everyday.
 
 He pointed out that there are already solutions available to my problem.
 
