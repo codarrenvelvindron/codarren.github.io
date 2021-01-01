@@ -28,6 +28,7 @@ I want to blog, everyday.
 
 He pointed out that there are already solutions available to my problem.
 
+
 On that day, I felt quite relieved.
 
 I thought i'd have to code some markdown to html interpreter (laughs).
