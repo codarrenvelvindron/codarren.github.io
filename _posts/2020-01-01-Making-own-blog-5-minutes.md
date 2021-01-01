@@ -61,7 +61,7 @@ The purpose here is to give it an identity.
  This step is optional, you may like the github.io domain (it's free!)
  Else, if you're like me:
   - Grab your own domain name for around $10 at [Godaddy](https://godaddy.com)
- ![domain_name godaddy](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/godaddy_new_domain.png)
+![domain_name godaddy]https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/godaddy_new_domain.png)
  - If you already own a domain name, proceed to next step.
  
  ## 4. Link your custom domain to your github.io
@@ -69,10 +69,10 @@ The purpose here is to give it an identity.
  - Go to your fork, in my case: https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/
  - Hop to: Settings > Github Pages > **Custom Domain **
  - Change to your custom domain and click on **save**
-  ![custom domain github](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/custom_domain_github.png)
+  ![custom domain github]https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/custom_domain_github.png)
  - Next, we customize the domain on our dns provider.
  - Add a new DNS record,having, name:**blog** of type:**CNAME** and pointing to **username.github.io** (should match your username).
- ![cname creation](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/cname_creation.png)
+ ![cname creation]https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/cname_creation.png)
  - Save your newly created CNAME (it's basically an alias to the github.io domain)
 
 ## 5. Publish your first blog post
