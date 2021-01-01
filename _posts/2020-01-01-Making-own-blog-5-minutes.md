@@ -45,14 +45,14 @@ I'll show you how to:
  doing **Settings** > Repository Name > Rename
  The name should be like such: githubusername.github.io.
  In my case, it is codarrenvelvindron.github.io
- [rename repo](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/renam_repo.png "github rename repo")
+ ![rename repo](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/renam_repo.png "github rename repo")
  - Heading over to username.github.io, your page should be already visible ! or at least the forked page of the original author.
  
 ## 2. Customize your blog
 The purpose here is to give it an identity.
  - Go back to your fork
  - Edit the file: _config.yml
- [config_yml](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/config_yml.png "config_yml jekyll")
+ ![config_yml](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/config_yml.png "config_yml jekyll")
  - Most important is to change the : name, description and avatar to your own.
  - Commit the changes and refresh the page.
  - Now, your blog is starting to take shape.
@@ -61,5 +61,5 @@ The purpose here is to give it an identity.
  This step is optional, you may like the github.io domain (it's free!)
  Else, if you're like me:
   - Grab your own domain name at godaddy.com
- [domain_name godaddy](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/godaddy_new_domain.png)
+ ![domain_name godaddy](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/godaddy_new_domain.png)
  
