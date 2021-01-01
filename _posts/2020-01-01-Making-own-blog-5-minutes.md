@@ -78,14 +78,6 @@ The purpose here is to give it an identity.
 ## 5. Publish your first blog post
  - using markdown - it's super easy![Markdown Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-```
-Basically it's one # for a title
-# Day 1: Creating your free blog under 5 minutes
-
-Two hashes for each subheader
-## 4. Link your custom domain to your github.io
-```
-
  
 And Voilà ! We are done !
  
