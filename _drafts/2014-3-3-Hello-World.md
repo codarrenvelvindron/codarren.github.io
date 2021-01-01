@@ -48,5 +48,9 @@ I'll show you how to:
  [rename repo](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/renam_repo.png "github rename repo")
  - Heading over to username.github.io, your page should be already visible ! or at least the forked page of the original author.
  
-
+## 2. Customize your blog
+The purpose here is to give it an identity.
+- Go back to your fork
+- Edit the file: _config.yml
+ [config_yml](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/config_yml.png "config_yml jekyll")
  
