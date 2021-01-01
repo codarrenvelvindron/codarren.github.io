@@ -42,9 +42,9 @@ I'll show you how to:
  - Fork the [Barry Clark Jekyll-now project](https://github.com/barryclark/jekyll-now)
  to your own repository.
  - Rename your project by going to your own fork,
- doing **Settings** > Repository Name > Rename
- The name should be like such: githubusername.github.io.
- In my case, it is codarrenvelvindron.github.io
+ doing **Settings** > **Repository Name** > **Rename**
+ - The name should be like such: githubusername.github.io.
+ - In my case, it is codarrenvelvindron.github.io
  ![rename repo](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/renam_repo.png "github rename repo")
  - Heading over to username.github.io, your page should be already visible ! or at least the forked page of the original author.
  
