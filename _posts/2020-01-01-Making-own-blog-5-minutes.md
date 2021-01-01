@@ -78,6 +78,8 @@ The purpose here is to give it an identity.
  - Save your newly created CNAME (it's basically an alias to the github.io domain)
 
 ## 5. Publish your first blog post
+ - Create a new markdown file under: **_posts** folder.
+![blogpost jekyll-now](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/first-post.png)
  - using markdown - it's super easy - [Markdown Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ```
