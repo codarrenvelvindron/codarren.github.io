@@ -86,7 +86,6 @@ Two hashes for each subheader
 ## 4. Link your custom domain to your github.io
 ```
 
-![publish_blog](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/publish_blog.png)
  
 And Voilà ! We are done !
  
