@@ -15,9 +15,7 @@ Let's start with the obvious.
 
 My aim has always been to share what I know or at least improve on what already exists.
 
-But... time is limited.
-
-Using wordpress, is almost a sysadmin full time job.
+But... time is limited. And using wordpress, is almost a sysadmin full time job.
 
 I'd have to install updates to wordpress and make sure that any plugin is up-to-date.
 
