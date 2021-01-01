@@ -6,7 +6,6 @@ published: true
 
 ## Yes, I am back to blogging.
 After a few years off the map.
-
 I came to the realization that many people need help.
 
 If you can be of any use to the universe, why not!
@@ -14,7 +13,7 @@ If you can be of any use to the universe, why not!
 ## Why I stopped blogging ?
 Let's start with the obvious.
 
-My aim has always been to share what I know.
+My aim has always been to share what I know or at least improve on what already exists.
 
 But... time is limited.
 
