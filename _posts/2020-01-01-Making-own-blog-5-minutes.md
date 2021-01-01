@@ -52,19 +52,19 @@ I'll show you how to:
 The purpose here is to give it an identity.
  - Go back to your fork
  - Edit the file: _config.yml
- ![config_yml](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/config_yml.png "config_yml jekyll")
+![config_yml](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/config_yml.png)
  - Most important is to change the : name, description and avatar to your own.
  - Commit the changes and refresh the page.
  - Now, your blog is starting to take shape.
  
- ## 3. Get your own domain name/use your existing
+## 3. Get your own domain name/use your existing
  This step is optional, you may like the github.io domain (it's free!)
  Else, if you're like me:
   - Grab your own domain name for around $10 at [Godaddy](https://godaddy.com)
 ![domain_name godaddy]https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/godaddy_new_domain.png)
  - If you already own a domain name, proceed to next step.
  
- ## 4. Link your custom domain to your github.io
+## 4. Link your custom domain to your github.io
  - We configure the domain name on github side first
  - Go to your fork, in my case: https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/
  - Hop to: Settings > Github Pages > **Custom Domain **
