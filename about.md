@@ -2,14 +2,21 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+As you might have inferred from my blog posts.
+
+I work as a sysadmin as my day job.
+
+Currently, I am a Technical Leader for Orange Business Services
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Areas of high interest to me are Automation and Security.
+
 
 ### Contact me
+If you'd like to connect, I'm mostly reachable on Linkedin.
 
-[email@domain.com](mailto:email@domain.com)
+[devildron@gmmail.com](mailto:devildron@gmmail.com)
