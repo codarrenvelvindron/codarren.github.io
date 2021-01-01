@@ -32,7 +32,6 @@ I'll show you how to:
 3. Get your own domain name/use your existing
 4. Link your custom domain to your github.io
 5. Publish your first blog post
- - using markdown (it's super easy![Markdown Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  
 ## 1. Setup your own blog hosted on Github pages
  Login to your github account.
