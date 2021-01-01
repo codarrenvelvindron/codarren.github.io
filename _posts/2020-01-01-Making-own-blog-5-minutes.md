@@ -5,26 +5,46 @@ published: true
 ---
 
 ## Yes, I am back to blogging.
-After a few years off the map. I came to the realization that many people need help. If you can be of any use to the universe, why not!
+After a few years off the map.
+
+I came to the realization that many people need help.
+
+If you can be of any use to the universe, why not!
 
 ## Why I stopped blogging ?
 Let's start with the obvious.
-My aim has always been to share what I know. But... time is limited. Using wordpress, is almost a sysadmin full time job. I'd have to install updates to wordpress and make sure that any plugin is up-to-date.
+
+My aim has always been to share what I know.
+
+But... time is limited.
+
+Using wordpress, is almost a sysadmin full time job.
+
+I'd have to install updates to wordpress and make sure that any plugin is up-to-date.
 
 Wordpress and most CMS I have tried are a pain in the ass to say the least.
 
 ## Why I resumed blogging ?
-Once I had a conversation with my buddy Kishan Takoordyal and I explained my predicament. I want to blog, everyday.
+Once I had a conversation with my buddy Kishan Takoordyal and I explained my predicament.
+
+I want to blog, everyday.
+
 He pointed out that there are already solutions available to my problem.
 
-On that day, I felt quite relieved. I thought i'd have to code some markdown to html interpreter (laughs).
+On that day, I felt quite relieved.
+
+I thought i'd have to code some markdown to html interpreter (laughs).
 
 ## Jekyll now is your quick and elegant solution
 If you want to create your personal brand with your own domain name.
+
 And freely hosted on github servers.
-You'll have to pay for the domain name though (or if you don't mind using something like: codarrenvelvindron.github.io). 
+
+You'll have to pay for the domain name though (or if you don't mind using something like: codarrenvelvindron.github.io).
+
 The repository can be found here:
-[Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[Jekyll Now repository](https://github.com/barryclark/jekyll-now)
+ on GitHub.
 
 ## Setting it up
 I'll show you how to:
