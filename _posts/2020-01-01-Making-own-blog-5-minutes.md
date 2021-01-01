@@ -30,8 +30,8 @@ I'll show you how to:
 2. Customize your blog
 3. Get your own domain name/use your existing
 4. Link your custom domain to your github.io
-5. Publish your own 
-5. Use markdown (it's super easy! [Markdown Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+5. Publish your first blog post
+ - using markdown (it's super easy! [Markdown Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  
  ## 1. Setup your own blog hosted on Github pages
  Login to your github account.
@@ -71,6 +71,10 @@ The purpose here is to give it an identity.
  - Change to your custom domain and click on **save**
   ![custom domain github](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/custom_domain_github.png)
  - Next, we customize the domain on our dns provider.
- - Add a new DNS record,having, name:**blog** of type:**CNAME**.
+ - Add a new DNS record,having, name:**blog** of type:**CNAME** and pointing to **username.github.io** (should match your username).
  ![cname creation](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/custom_domain_github.png)
+ - Save your newly created CNAME (it's basically an alias to the github.io domain)
+
+## 5. Publish your first blog post
+ - using markdown (it's super easy! [Markdown Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  
