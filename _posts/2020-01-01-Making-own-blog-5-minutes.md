@@ -66,7 +66,7 @@ The purpose here is to give it an identity.
  - If you already own a domain name, proceed to next step.
  
 ## 4. Link your custom domain to your github.io
- - We configure the domain name on github side first
+ - We start with github first
  - Go to your fork, in my case: https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/
  - Hop to: Settings > Github Pages > **Custom Domain **
  - Change to your custom domain and click on **save**
