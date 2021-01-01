@@ -52,7 +52,7 @@ I'll show you how to:
 The purpose here is to give it an identity.
  - Go back to your fork
  - Edit the file: _config.yml
- ![config_yml](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/config_yml.png "config_yml jekyll")
+ ![config_yml]https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/config_yml.png "config_yml jekyll")
  - Most important is to change the : name, description and avatar to your own.
  - Commit the changes and refresh the page.
  - Now, your blog is starting to take shape.
