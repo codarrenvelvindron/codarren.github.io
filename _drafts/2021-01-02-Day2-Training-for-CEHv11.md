@@ -39,5 +39,8 @@ Once he figures that one out, we need to have something else prepared for him.
 
 
 ## Being Certified
-The syllabus of CEH is very hands on:
+The syllabus of CEH is hands on:
+
 [CEHv11](https://www.eccouncil.org/wp-content/uploads/2020/09/CEHv11-Brochure.pdf)
+![CEHv11 Syllabus](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/cehv11_syllabus.png "CEH v11")
+cehv11_syllabus.png
