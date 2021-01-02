@@ -37,6 +37,7 @@ If that version is not up-to-date, that's already a possible entry point.
 
 ## Being Certified
 The syllabus of [CEHv11](https://www.eccouncil.org/wp-content/uploads/2020/09/CEHv11-Brochure.pdf) is hands on:
+
 ![CEHv11 Syllabus](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/cehv11_syllabus.png "CEH v11")
 
 ## How is the course going ?
