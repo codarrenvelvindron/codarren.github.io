@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Day 2: Training to be a Certified Ethical Hacker'
-published: false
+published: true
 ---
 
 ## Yes, it's different this time
@@ -14,9 +14,9 @@ For me, the number one quality that any good sec guy needs to have is:
  **Attention to detail**
 
 ## Why?
-It's what the bad guys will see first.
+It's what the bad guys see first.
 
-They are looking for it right ? The devil is in the details.
+They are looking for it right ? They say the devil is in the details.
 
 If you as someone in the blue team (Defense) wants to counter the red team (Offense).
 
@@ -30,6 +30,8 @@ Now, that's a tricky one.
 
 When you have defenses put in place, you will have the tendency to attack what you already have.
 
+Or to think that everything is OK.
+
 That is not the proper way, you need to try real hard to find the loopholes.
 
 
@@ -37,7 +39,14 @@ Simple things like stray headers, can reveal your webserver's version.
 
 If that version is not up-to-date, that's already a possible entry point.
 
-## Being Certified
+And this is something that is very easy to check.
+ - Try to install [wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg/related). It's available as a browser extension.
+ - Go to [Google](https://google.com)
+ - Click on wappalyzer and see that the only header google is leaking is that it is sitting on Google Web Server
+ - Now what do we know of Google Web Server?
+ - Nothing ? Yes, security by obscurity !
+ 
+ ## Being Certified
 The syllabus of [CEHv11](https://www.eccouncil.org/wp-content/uploads/2020/09/CEHv11-Brochure.pdf) is hands on:
 
 ![CEHv11 Syllabus](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/cehv11_syllabus.png "CEH v11")
