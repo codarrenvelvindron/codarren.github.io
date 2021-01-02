@@ -33,6 +33,7 @@ When you have defenses put in place, you will have the tendency to attack what y
 That is not the proper way, you need to try real hard to find the loopholes.
 
 Simple things like stray headers, can reveal your webserver's version.
+
 If that version is not up-to-date, that's already a possible entry point.
 
 ## Being Certified
