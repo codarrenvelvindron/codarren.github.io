@@ -33,5 +33,10 @@ That is not the proper way, you need to try real hard to find the loopholes.
 
 See, the attacker does not know what you have in place.
 
-But by poking a little bit, he will be able to make a map of your defenses. Once he figures that one out. He is already one step ahead.
+But by poking a little bit, he will be able to make a map of your defenses. 
 
+Once he figures that one out, we need to have something else prepared for him.
+
+
+## Being Certified
+The syllabus of CEH is what 
