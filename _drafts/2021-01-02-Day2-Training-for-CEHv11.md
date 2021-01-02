@@ -32,6 +32,7 @@ When you have defenses put in place, you will have the tendency to attack what y
 
 That is not the proper way, you need to try real hard to find the loopholes.
 
+
 Simple things like stray headers, can reveal your webserver's version.
 
 If that version is not up-to-date, that's already a possible entry point.
@@ -52,10 +53,13 @@ If that motivation doesn't come from there, it has to come from somewhere else.
 My plan is simple.
 
  - To document every step of the course with a blog post.
-
+ 
 This is sure to help me stay motivated and hungry for more.
 
- - Not listening blindly to the tutors but questioning them (after proper research ofc!)
+ - To try every command
+ 
+This is how I started as a SysAdmin
 
- - Not expecting too much from the tutors.
+ - Not expecting much from the lectures
+ 
 Most of the effort has to come from you.
