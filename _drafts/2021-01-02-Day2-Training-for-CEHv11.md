@@ -1,6 +1,8 @@
 ---
+layout: post
+title: 'Day 2: Training to be a Certified Ethical Hacker'
 published: false
 ---
-## Day 2: Training for CEHv11
 
+## Yes, I'll be sitting for an exam soon
 
