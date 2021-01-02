@@ -52,14 +52,17 @@ If that motivation doesn't come from there, it has to come from somewhere else.
 ## Doing it my way.
 My plan is simple.
 
- - To document every step of the course with a blog post.
+ - Document every step of the course with a blog post.
  
 This is sure to help me stay motivated and hungry for more.
 
- - To try every command
+ - Try/Test every command
  
 This is how I started as a SysAdmin
 
  - Not expecting much from the lectures
  
 Most of the effort has to come from you.
+
+## Wish me luck
+“Luck is a dividend of sweat. The more you sweat, the luckier you get.” – Ray Kroc
