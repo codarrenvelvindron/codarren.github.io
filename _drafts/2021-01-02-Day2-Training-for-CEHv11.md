@@ -36,11 +36,8 @@ Simple things like stray headers, can reveal your webserver's version.
 If that version is not up-to-date, that's already a possible entry point.
 
 ## Being Certified
-The syllabus of CEH is hands on:
-
-[CEHv11](https://www.eccouncil.org/wp-content/uploads/2020/09/CEHv11-Brochure.pdf)
+The syllabus of [CEHv11](https://www.eccouncil.org/wp-content/uploads/2020/09/CEHv11-Brochure.pdf) is hands on:
 ![CEHv11 Syllabus](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/cehv11_syllabus.png "CEH v11")
-cehv11_syllabus.png
 
 ## How is the course going ?
 It's going quite fast but lectures can become quite boring.
