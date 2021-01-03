@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Here's an idea: A publisher bot
