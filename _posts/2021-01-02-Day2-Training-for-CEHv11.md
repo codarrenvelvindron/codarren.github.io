@@ -46,7 +46,7 @@ And this is something that is very easy to check.
  - Now what do we know of Google Web Server?
  - Nothing ? Yes, security by obscurity !
  
- ## Being Certified
+## Being Certified
 The syllabus of [CEHv11](https://www.eccouncil.org/wp-content/uploads/2020/09/CEHv11-Brochure.pdf) is hands on:
 
 ![CEHv11 Syllabus](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/cehv11_syllabus.png "CEH v11")
