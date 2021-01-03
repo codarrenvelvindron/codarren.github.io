@@ -19,4 +19,4 @@ Areas of high interest to me are Automation and Security.
 ### Contact me
 If you'd like to connect, I'm mostly reachable on Linkedin.
 
-[devildron@gmmail.com](mailto:devildron@gmmail.com)
+[devildron@gmail.com](mailto:devildron@gmail.com)
