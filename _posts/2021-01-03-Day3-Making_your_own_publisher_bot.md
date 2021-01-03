@@ -6,6 +6,7 @@ published: true
 
 ## Here's an idea: A publisher bot
 ![robot editor](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/robot-eic-rm-vrge.webp "robot editor")
+
 I have been thinking about this since yesterday.
 
 ## One blog post a day, keeps the neurones at play
