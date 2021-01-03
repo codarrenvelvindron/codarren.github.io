@@ -18,3 +18,5 @@ And there would be a publisher bot that would post it everyday.
 1. A main updated repository
 2. A server to host the bot
 3. A way to sync
+
+
