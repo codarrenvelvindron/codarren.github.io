@@ -45,7 +45,9 @@ And this is something that is very easy to check.
  - Click on wappalyzer and see that the only header google is leaking is that it is sitting on Google Web Server
  - Now what do we know of Google Web Server?
  - Nothing ? Yes, security by obscurity !
- 
+ - Now, go to your own blog/website, and do the same.
+ - The more information wappalyzer finds,the more you are leaking to the outside world.
+
 ## Being Certified
 The syllabus of [CEHv11](https://www.eccouncil.org/wp-content/uploads/2020/09/CEHv11-Brochure.pdf) is hands on:
 
