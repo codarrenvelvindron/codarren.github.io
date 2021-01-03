@@ -41,13 +41,13 @@ We could self host this if willing to keep that PC powered on.
 
  - After determining the date and checking if a blog post was already published on that date(today).
 
- - If not found, the bot the bot would add the necessary formatting to publish the post.
+ - If not found, the bot would add the necessary formatting to publish the post.
 
  - Formatting done, the file would then be committed.
 
  - Automatic sync happens.
  
- - Blog is updated with the newly publication !
+ - Blog is updated with the new publication !
 
 ## 3. Getting fancy
 After the post is published, we can do what we want.
