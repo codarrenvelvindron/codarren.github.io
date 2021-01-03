@@ -1,6 +1,7 @@
 ---
 published: false
 ---
+
 ## Here's an idea: A publisher bot
 I have been thinking about this since yesterday.
 ​
