@@ -2,6 +2,8 @@
 published: false
 ---
 
+# Making your own publisher bot
+
 ## Here's an idea: A publisher bot
 I have been thinking about this since yesterday.
 
