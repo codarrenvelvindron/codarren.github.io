@@ -59,3 +59,7 @@ I'm guessing a curl will do using the access token and profile ID of the social 
 
 ## Challenge accepted
 More than one blog post per day ? Yes, we can.
+
+
+## Credits
+ - Robot image - https://www.theverge.com/2011/10/6/2473569/eeple-media-group-robot-editors
