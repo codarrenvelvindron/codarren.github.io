@@ -1,4 +1,6 @@
 ---
+layout: post
+title: 'Day 3: Making your own publisher bot'
 published: true
 ---
 
