@@ -39,12 +39,14 @@ You naturally wake up early.
 
 Now, you got two choices
  - Get up and do stuff
+ 
  OR
+ 
  - Oversleep it because you can.
  
- Once you oversleep, you feel worse than before.
+Once you oversleep, there is no going back, you feel worse than before.
  
- And again, you know that you should have got up in the first place.
+And again, you know that you should have got up in the first place.
  
 ## "Early to bed and early to rise, makes a man healthy, wealthy, and wise" ~Benjamin Franklin
 I've tried both.
@@ -55,3 +57,6 @@ I find that waking up at 5 a.m makes me:
  3. Happier
  
 Try it and see for yourself !
+
+## Credits:
+[Sleeping kid](https://www.stopbreathethink.com/can-mindful-parenting-help-kids-sleep-better/funny)
