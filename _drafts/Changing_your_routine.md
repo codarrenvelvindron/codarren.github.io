@@ -46,12 +46,12 @@ Now, you got two choices
  
  And again, you know that you should have got up in the first place.
  
- ## "Early to bed and early to rise, makes a man healthy, wealthy, and wise" ~Benjamin Franklin
- I've tried both.
+## "Early to bed and early to rise, makes a man healthy, wealthy, and wise" ~Benjamin Franklin
+I've tried both.
  
- I find that waking up at 5 a.m makes me:
+I find that waking up at 5 a.m makes me:
  1. More productive
  2. Less forgetful
  3. Happier
  
- Try it and see for yourself !
+Try it and see for yourself !
