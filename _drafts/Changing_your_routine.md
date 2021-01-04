@@ -2,6 +2,7 @@
 published: false
 ---
 ## I changed my daily routine and why should you
+![Sleeping kid](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/kid_sleeping_small.jpg)
 Today, I decided to reorganize my daily schedule for the days to come.
 
 ## Are you listening ?
