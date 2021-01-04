@@ -59,4 +59,4 @@ I find that waking up at 5 a.m makes me:
 Try it and see for yourself !
 
 ## Credits:
-[Sleeping kid](https://www.stopbreathethink.com/can-mindful-parenting-help-kids-sleep-better/funny)
+[Sleeping kid](https://www.stopbreathethink.com/can-mindful-parenting-help-kids-sleep-better/funny-face-of-child-sleeping-on-king-bed/)
