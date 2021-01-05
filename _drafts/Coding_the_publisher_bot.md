@@ -32,7 +32,7 @@ Guess what ? It's ready
 ```
 cp -p ~/Downloads/publisher_bot_v7.sh /tmp/
 ```
-- Clone remote repository (your jekyll blog) in the same folder (/tmp/)
+- Clone remote repository (your jekyll blog) in the same folder (/tmp/) as the script
 ```
 cd /tmp/
 git clone [git@github.com:codarrenvelvindron/codarrenvelvindron.github.io.git]
