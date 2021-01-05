@@ -25,4 +25,9 @@ Guess what ? It's ready
 ## What the Publisher can't do?
  - Publish to Linkedin and Twitter (Work in progress)
  
- - 
+## How to use it ?
+- If you already have a blog that uses jekyll-now it works out of the box
+
+- Copy the script to a directory (say /tmp)
+
+- 
