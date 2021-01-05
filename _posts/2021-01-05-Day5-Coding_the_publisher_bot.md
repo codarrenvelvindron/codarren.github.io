@@ -69,4 +69,4 @@ chmod +x publisher_bot_v7.sh
 <script src="https://gist.github.com/codarrenvelvindron/7074b20f4913a088a6a47db3a29d651e.js"></script>
 
 ## Credits
- - Robot image - https://www.theverge.com/2011/10/6/2473569/eeple-media-group-robot-editors
+ - [Robot image](https://www.theverge.com/2011/10/6/2473569/eeple-media-group-robot-editors)
