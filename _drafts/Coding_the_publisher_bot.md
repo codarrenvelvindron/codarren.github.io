@@ -28,6 +28,12 @@ Guess what ? It's ready
 ## How to use it ?
 - If you already have a blog that uses jekyll-now it works out of the box
 
-- Copy the script to a directory (say /tmp)
-
-- 
+- Copy the script after downloading to a directory (say /tmp)
+```
+cp -p ~/Downloads/publisher_bot_v7.sh /tmp/
+```
+- Clone remote repository (your jekyll blog) in the same folder (/tmp/)
+```
+cd /tmp/
+git clone [git@github.com:codarrenvelvindron/codarrenvelvindron.github.io.git]
+```
