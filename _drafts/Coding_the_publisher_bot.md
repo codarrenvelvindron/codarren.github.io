@@ -43,7 +43,6 @@ git clone [git@github.com:codarrenvelvindron/codarrenvelvindron.github.io.git]
 ```
 #Naming convention should follow this:
 #Words in title separated by underscores
-#e.g. Making_your_own_publisher_bot
-edit the file with something like prose.io (this is what i use)
+#e.g. Making_your_own_publisher_bot.md
+#edit the file with something like prose.io (this is what i use)
 ```
-
