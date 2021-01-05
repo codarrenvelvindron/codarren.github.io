@@ -33,6 +33,14 @@ Guess what ? It's ready
 cp -p ~/Downloads/publisher_bot_v7.sh /tmp/
 ```
 
+
+- Modify those lines as per your requirements in the script
+```
+#User modifiable
+github_blog_reponame=codarrenvelvindron.github.io #your blog repo name = locally cloned
+start_date='2020-12-31' #this is the date you started blogging
+```
+
 - Clone remote repository (your jekyll blog) in the same folder (/tmp/) as the script
 ```
 cd /tmp/
@@ -46,3 +54,5 @@ git clone [git@github.com:codarrenvelvindron/codarrenvelvindron.github.io.git]
 #e.g. Making_your_own_publisher_bot.md
 #edit the file with something like prose.io (this is what i use)
 ```
+
+- After draft is done, run the script
