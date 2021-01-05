@@ -60,3 +60,6 @@ git clone [git@github.com:codarrenvelvindron/codarrenvelvindron.github.io.git]
 chmod +x publisher_bot_v7.sh
 ./publisher_bot_v7.sh
 ```
+
+## Code
+<script src="https://gist.github.com/codarrenvelvindron/7074b20f4913a088a6a47db3a29d651e.js"></script>
