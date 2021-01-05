@@ -8,6 +8,8 @@ published: true
 
 A few days ago, I blogged about that publisher bot [idea](https://blog.codarren.com/Day3-Making_your_own_publisher_bot/).
 Guess what ? It's ready
+![robot editor](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/robot-eic-rm-vrge.webp "robot editor")
+
 
 ## What can the Publisher bot do?
  - Sync local clone to remote git repo (the blog)
