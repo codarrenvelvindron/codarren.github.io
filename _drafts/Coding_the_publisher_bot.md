@@ -3,6 +3,7 @@ published: false
 ---
 
 ## The publisher bot is taking shape
+![robot editor](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/robot-eic-rm-vrge.webp "robot editor")
 
 A few days ago, I blogged about that publisher bot [idea](https://blog.codarren.com/Day3-Making_your_own_publisher_bot/).
 Guess what ? It's ready
