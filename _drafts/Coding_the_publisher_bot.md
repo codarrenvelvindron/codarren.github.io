@@ -38,7 +38,7 @@ cp -p ~/Downloads/publisher_bot_v7.sh /tmp/
 ```
 #User modifiable
 github_blog_reponame=codarrenvelvindron.github.io #your blog repo name = locally cloned
-start_date='2020-12-31' #this is the date you started blogging
+start_date='2020-12-31' #this is the date you started blogging, it serves as a Day counter
 ```
 
 - Clone remote repository (your jekyll blog) in the same folder (/tmp/) as the script
@@ -56,3 +56,7 @@ git clone [git@github.com:codarrenvelvindron/codarrenvelvindron.github.io.git]
 ```
 
 - After draft is done, run the script
+```
+chmod +x publisher_bot_v7.sh
+./publisher_bot_v7.sh
+```
