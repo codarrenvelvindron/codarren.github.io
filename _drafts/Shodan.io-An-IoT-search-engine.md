@@ -62,6 +62,15 @@ It is being leaked to you and the whole world !
 
 ![shodan results](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/ubnt_railway.png)
 
+## Remediation
+ - Change all default passwords
+ 
+ - Check if your device is vulnerable
+ 
+Just doing a quick google search on your device and any OS running on top of it.
+
+Typing in your public IP on a web server outside of the home network could work too.
+ 
 ## Credits
 [iot definition](https://www.zdnet.com/article/what-is-the-internet-of-things-everything-you-need-to-know-about-the-iot-right-now/#:~:text=The%20Internet%20of%20Things%2C%20or,all%20collecting%20and%20sharing%20data.)
 
