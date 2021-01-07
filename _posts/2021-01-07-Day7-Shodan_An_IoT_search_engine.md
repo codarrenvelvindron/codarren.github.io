@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 7: Shodan an IoT search engine
+title: 'Day 7: Shodan an IoT search engine'
 published: true
 ---
 ## IoT, or insecuriTy
