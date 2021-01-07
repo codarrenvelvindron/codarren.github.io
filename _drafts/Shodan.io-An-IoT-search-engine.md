@@ -60,6 +60,9 @@ And you are even able to see a screenshot of the picture that the IP camera is l
 It is being leaked to you and the whole world !
 
 
-[shodan results](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/ubnt_railway.png)
+![shodan results](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/ubnt_railway.png)
+
 ## Credits
 [iot definition](https://www.zdnet.com/article/what-is-the-internet-of-things-everything-you-need-to-know-about-the-iot-right-now/#:~:text=The%20Internet%20of%20Things%2C%20or,all%20collecting%20and%20sharing%20data.)
+
+[featured image- internet of insecure things](https://hackernoon.com/internet-of-things-insecurity-is-our-fault-827a9261973d)
