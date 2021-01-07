@@ -1,0 +1,54 @@
+---
+published: false
+---
+## IoT, or insecurity
+
+_The Internet of Things, or IoT, refers to the billions of physical devices around the world that are now connected to the internet, all collecting and sharing data._
+
+## A little history
+Since manufacturers of appliances and technology are in competition.
+
+They have to invest in software development to remain competitive.
+
+This means that a company making a refrigerator for example, may be able to do more than just cooling down/preserving your food.
+
+## My silly example
+Suppose, Samzung, is a refrigerator manufacturer.
+
+They create a smart fridge that does more than what it's supposed to do.
+
+This Samzung Smarttec, can also make your coffee.
+
+Now, you find this feature useful and are using it everyday.
+
+What happens if, the software that is allowing the fridge to make your coffee can be tampered with ?
+
+## Malicious Neighbour
+Your neighbour knows you bought the new Samzung, and is at a close enough distance to be able to connect to the Fridge.
+
+No authentication, he is able to make a cup of coffee, without your consent.
+
+Scary right ?
+
+## Who is the culprit ?
+In my opinion, the manufacturers are the culprits.
+
+Their code is flawed. Anyone can access your refrigerator.
+
+## Shodan is a powerful search engine
+And shodan was build specifically for these type of open devices.
+
+## Using shodan.io
+ - Head over to the main website using your web browser:
+
+[Click here](https://shodan.io) --> No this is not a click bait 
+
+ - Once on the website, we need to register an account.
+ - Once logged in, type this line in the search bar:
+![shodan ubnt](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/shodan_search.png)
+ ```
+ Server: UBNT Streaming Server v1.2
+ ```
+ 
+## Credits
+[iot definition](https://www.zdnet.com/article/what-is-the-internet-of-things-everything-you-need-to-know-about-the-iot-right-now/#:~:text=The%20Internet%20of%20Things%2C%20or,all%20collecting%20and%20sharing%20data.)
