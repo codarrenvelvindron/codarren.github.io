@@ -1,7 +1,9 @@
 ---
 published: false
 ---
-## Have you ever spoke in public ?
+## Have you ever spoken in public ?
+![Public Speaking image](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/getty_614138202_2000133520009280253_328692_50.jpg)
+
 Well you should.
 
 ## The Beginning
@@ -43,6 +45,7 @@ In that year, I delivered the best speech.
 ## The secret
 I added a personal touch to that one.
 
+[![Taken scene](https://bestclassicbands.com/wp-content/uploads/2016/01/Liam-Neeson-Taken.jpg)](https://www.youtube.com/watch?v=jZOywn1qArI)
 I did a readaptation of the ever famous movie line in the movie [Taken](https://www.imdb.com/title/tt0936501/), where i said:
 
 "I don't know who you are, I don't know what you want. 
@@ -64,3 +67,6 @@ And your comeback would be: "Talk is cheap, show me the code" ~ Linus Torvalds.
 If you got a good idea, go sign up for [Devcon 2021](https://sessionize.com/developers-conference-2021---mau).
 
 Call for speakers is ending on the 20 Jan 2021 !
+
+## Credits
+[Public Speaking featured image](https://www.incimages.com/uploaded_files/image/1920x1080/getty_614138202_2000133520009280253_328692.jpg)
