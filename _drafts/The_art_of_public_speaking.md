@@ -38,7 +38,7 @@ I prepared, 3 months in advance.
 
 Even if my throat was bad in that year, it wouldn't matter.
 
-In that year, I delivered the best speech.
+In that year, I delivered my best speech of that year.
 
 [slides here](https://www.scribd.com/document/343673529/Fast-Coding-Skills?secret_password=k6wQIVMjBZ0xgrderAgQ)
 
