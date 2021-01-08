@@ -22,7 +22,7 @@ As weird as it may sound, a few people came and congratulated me.
 
 I received a lot of positive feedback.
 
-For some months, it haunted me.
+But to me, It was another story and it haunted me.
 
 ## Doing better
 That was the only thing on my mind.
