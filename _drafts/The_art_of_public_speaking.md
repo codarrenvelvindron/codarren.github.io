@@ -38,7 +38,9 @@ I prepared, 3 months in advance.
 
 Even if my throat was bad in that year, it wouldn't matter.
 
-In that year, I delivered my best speech of that year.
+I delivered my best speech of that year, I nailed it (quite humbly)
+
+People were screaming and overexcited, it was crazy levels of energy in that room !
 
 [slides here](https://www.scribd.com/document/343673529/Fast-Coding-Skills?secret_password=k6wQIVMjBZ0xgrderAgQ)
 
