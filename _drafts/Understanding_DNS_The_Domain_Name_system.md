@@ -40,3 +40,5 @@ Because if we wanted to visit google.com, we'd have to write:
 *Try it and see for yourself*
 
 ## Domain names
+So basically what lies behind google.com is simply this IP address 216.58.223.110, and this IP address corresponds to google's server (or one of google's servers)
+
