@@ -46,5 +46,14 @@ So basically what lies behind google.com is simply this IP address 216.58.223.11
 And this is exacly the same story for every single website or web domain on the internet!
 
 ## nslookup , the cool tool
+nslookup allows you to check a domain's ip address.
+```
+#If you're under linux open a terminal and type this command:
+nslookup google.com
 
+#Under windows, Windows Logo --> run : cmd, then type this:
+nslookup google.com
+
+# Interesting to note that commands are the same for both
+```
 
