@@ -34,8 +34,8 @@ We'd have a much better memory.
 Yes, you read this right.
 
 ## Why ?
-Because if we wanted to visit google.com, we'd have to write:
-216.58.223.110 in our web-browser's search bar.
+Because if we wanted to visit [google.com](https://google.com), we'd have to write:
+[216.58.223.110](https://216.58.223.110) in our web-browser's search bar.
 
 *Try it and see for yourself*
 
