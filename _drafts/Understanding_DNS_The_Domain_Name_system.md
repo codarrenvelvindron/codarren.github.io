@@ -31,6 +31,7 @@ blog.codarren.com --> 172.67.183.71
 Our lives would be totally different without the DNS.
 
 We'd have a much better memory.
+
 Yes, you read this right.
 
 ## Why ?
@@ -41,4 +42,7 @@ Because if we wanted to visit [google.com](https://google.com), we'd have to wri
 
 ## Domain names
 So basically what lies behind google.com is simply this IP address 216.58.223.110, and this IP address corresponds to google's server (or one of google's servers)
+
+And this is exacly the same story for every single website or web domain on the internet!
+
 
