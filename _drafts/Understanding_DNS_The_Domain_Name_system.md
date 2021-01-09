@@ -73,3 +73,9 @@ Address: 2a00:1450:401a:804::200e
 The **Server** is the actual DNS server that is responding to our request, i.e. giving us the IP answer.
 The **Address** is the DNS server again, and it uses port **53**, this is the standard/default DNS server port.
 
+The answer section is the real results for our query/lookup.
+The first 2 lines of the answer:
+**ipv4** address
+The last 2 lines of the answer:
+**ipv6** address
+
