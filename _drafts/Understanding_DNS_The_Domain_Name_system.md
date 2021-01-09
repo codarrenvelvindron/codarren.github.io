@@ -11,7 +11,7 @@ Before we begin with what DNS actually is, let's talk about the horror stories.
 
 Google.com - In 2016, the google.com domain was sold to Sanmay Ved for $12. 
 
-Google paid 6006.13 to him to get him back before doubling the sum.
+Google paid $6006.13 to him, to get the domain back before doubling the sum.
 You can read the story [here](https://www.theverge.com/2016/1/29/10868404/google-reveals-how-much-it-paid-the-guy-who-bought-google-com)
 
 
