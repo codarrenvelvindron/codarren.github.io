@@ -45,4 +45,6 @@ So basically what lies behind google.com is simply this IP address 216.58.223.11
 
 And this is exacly the same story for every single website or web domain on the internet!
 
+## nslookup , the cool tool
+
 
