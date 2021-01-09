@@ -70,5 +70,6 @@ Address: 216.58.223.110
 Name:	google.com
 Address: 2a00:1450:401a:804::200e
 ```
-
+The **Server** is the actual DNS server that is responding to our request, i.e. giving us the IP answer.
+The **Address** is the DNS server again, and it uses port **53**, this is the standard/default DNS server port.
 
