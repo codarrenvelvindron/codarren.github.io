@@ -57,3 +57,18 @@ nslookup google.com
 # Interesting to note that commands are the same for both
 ```
 
+## nslookup resuts
+Normally your results will look like this:
+```
+codax@gaming:~$ nslookup google.com
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	google.com
+Address: 216.58.223.110
+Name:	google.com
+Address: 2a00:1450:401a:804::200e
+```
+
+
