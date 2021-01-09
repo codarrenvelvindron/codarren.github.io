@@ -25,6 +25,7 @@ A telephone directory allows you to look for someone's phone number by searching
 ```
 Codarren Velvindron --> 53182111
 blog.codarren.com --> 172.67.183.71
+```
 
 ## Life without DNS ?
 Our lives would be totally different without the DNS.
@@ -37,3 +38,5 @@ Because if we wanted to visit google.com, we'd have to write:
 216.58.223.110 in our web-browser's search bar.
 
 *Try it and see for yourself*
+
+## Domain names
