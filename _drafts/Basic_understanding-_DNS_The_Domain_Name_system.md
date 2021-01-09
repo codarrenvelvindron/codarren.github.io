@@ -91,3 +91,6 @@ codax@gaming:~$ nslookup 185.60.219.35
 Authoritative answers can be found from:
 ``
 
+There is much more to DNS but now we have a better basic understanding
+
+## \\Codarren/
