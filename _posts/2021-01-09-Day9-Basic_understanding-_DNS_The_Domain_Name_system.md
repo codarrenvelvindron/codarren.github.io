@@ -81,6 +81,7 @@ The first 2 lines of the answer:
 The last 2 lines of the answer:
 **ipv6** address
 
+
 ## reverse lookup, the reverse flash
 Just like we are able to find an **IP** from a **domain name**
 With a reverse lookup, we attempt to find a **domain name** from an **IP** address.
@@ -91,7 +92,7 @@ codax@gaming:~$ nslookup 185.60.219.35
 35.219.60.185.in-addr.arpa	name = edge-star-mini-shv-01-jnb1.facebook.com.
 
 Authoritative answers can be found from:
-``
+```
 
 There is much more to DNS but now we have a better basic understanding
 
