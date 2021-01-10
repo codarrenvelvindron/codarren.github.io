@@ -16,5 +16,5 @@ Not all intermediaries are bad.
 
 A proxy server won't make you pay more!
 
-Matter of fact, there are some free and very popular proxy servers like [squid](http://www.squid-cache.org/_.
+Matter of fact, there are some free and very popular proxy servers like [squid](http://www.squid-cache.org/).
 
