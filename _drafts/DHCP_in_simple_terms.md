@@ -78,3 +78,18 @@ a device will not get the same IP address twice, that is the very definition of 
 
 Using the MAC address as a unique identifier, you can always assign 192.168.1.5 to that MAC address.
 
+**Range** : DHCP servers are normally bound by a range, in which it will assign IPs to devices that connect.
+
+That range depending on how the network is configured can be modified at will.
+
+e.g. you could set 192.168.1.100 TO 192.168.1.150 as range.
+
+
+This would mean, you will have a maximum hosts of 50 to connect to this network.
+
+## Having fun
+The best place to start playing with DHCP servers would be your home router.
+
+It has an integrated DHCP server. Enjoy !
+
+## \Codarren/
