@@ -16,9 +16,9 @@ By the name itself:
 It's a set of rules to control changing devices ?
 
 
-## My one line explanation
+## A one line simple definition
 
-DHCP is a protocol that assigns IP addresses to devices on a network.
+DHCP is a protocol whereby a DHCP server assigns IP addresses to devices on a network.
 
 ## What's a device ?
 A device could be anything, your smartphone, a printer or even a network card.
