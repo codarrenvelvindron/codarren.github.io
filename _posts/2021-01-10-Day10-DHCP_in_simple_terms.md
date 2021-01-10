@@ -33,7 +33,7 @@ That definition is so simple and accurate that we don't need to add anything.
 
 If your device wants to communicate on the network, it needs an IP address.
 
-That includes, your **smartphone**, **printer** and **network card** ?
+That includes, your **smartphone**, **printer** and **network card**
 
 ## What do these 3 have in common ?
 
