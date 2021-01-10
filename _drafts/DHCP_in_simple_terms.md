@@ -74,6 +74,8 @@ See [MAC spoofing](https://en.wikipedia.org/wiki/MAC_spoofing)
 
 a device will not get the same IP address twice, that is the very definition of DHCP.
 
+It still could by RNG magic ?
+
 **Static IP** : You can force a DHCP server to assign IP addresses statically by making use of the MAC address.
 
 Using the MAC address as a unique identifier, you can always assign 192.168.1.5 to that MAC address.
