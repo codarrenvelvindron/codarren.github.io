@@ -25,11 +25,16 @@ Transparent proxies identify themselves as proxy servers and pass along  your IP
 
 Hence the word transparent, they'll show your IP address.
 
-These proxies are usually used by public libraries and schools for content filtering
+These proxies are usually used by public libraries and schools for content filtering.
+
+Transparent Proxy talking to server: Hey! I'm a proxy server and my client is *your ip address*
 
 ### Anonymous Proxy
 Unlike transparent proxy, an anonymous proxy identifies themselves as proxy servers but they hide your IP address to destination servers.
 
+Anonymous Proxy talking to server: Hey! I'm a proxy server and my client is anonymous.
+
 Anonymous and transparent proxies are opposites but are both proxies.
 
 
+### Forward Proxy
