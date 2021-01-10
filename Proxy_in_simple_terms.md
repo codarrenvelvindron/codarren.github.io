@@ -18,12 +18,18 @@ A proxy server won't make you pay more!
 
 Matter of fact, there are some free and very popular proxy servers like [squid](http://www.squid-cache.org/).
 
-## Classes of proxy servers
+## Types of proxy servers
 
-### Forward Proxy
-When we refer to a proxy, we most of the time refer to forward proxies.
+### Transparent Proxy
+Transparent proxies identify themselves as proxy servers and pass along  your IP address to destination servers. 
 
-These are the ones that are used within organisations to make requests on behalf of the user to web sites.
+Hence the word transparent, they'll show your IP address.
 
-Using these proxies, companies can block access to some content, cache some frequently accessed websites etc...
+These proxies are usually used by public libraries and schools for content filtering
+
+### Anonymous Proxy
+Unlike transparent proxy, an anonymous proxy identifies themselves as proxy servers but they hide your IP address to destination servers.
+
+Anonymous and transparent proxies are exact opposites.
+
 
