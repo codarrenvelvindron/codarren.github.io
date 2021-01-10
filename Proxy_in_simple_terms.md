@@ -30,6 +30,6 @@ These proxies are usually used by public libraries and schools for content filte
 ### Anonymous Proxy
 Unlike transparent proxy, an anonymous proxy identifies themselves as proxy servers but they hide your IP address to destination servers.
 
-Anonymous and transparent proxies are exact opposites.
+Anonymous and transparent proxies are opposites but are both proxies.
 
 
