@@ -10,6 +10,7 @@ The dictionary definition says it all:
 
 A proxy server would be a server that **performs requests** and **receives responses** on your behalf.
 
+
 ## Since a proxy is an intermediary, it's bad
 
 Not all intermediaries are bad. 
@@ -38,3 +39,16 @@ Anonymous and transparent proxies are opposites but are both proxies.
 
 
 ### Forward Proxy
+Forward proxy simply means that we are in a client's perspective.
+The forward proxy is in fact a forward facing proxy for the client to send requests to the server.
+
+|**Client** --> **Connects** --> **Forward Proxy**| --> **INTERNET**
+
+### Reverse Proxy
+A reverse proxy acts at the Web Servers perspective.
+
+|**Web Server** --> **Reverse Proxy**| <-- **Requests** <-- **Clients**
+
+It thus allows:
+
+Load balancing, caching static content, compression on server side, thereby lightening up server load.
