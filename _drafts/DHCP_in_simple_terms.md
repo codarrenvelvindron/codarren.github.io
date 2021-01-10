@@ -56,9 +56,25 @@ Once the device is leased an IP address, communication with the network and othe
 
 ## Important DNS terms
 
-*lease* : IP addresses are not given indefinitely by the DHCP server.
+**lease** : IP addresses are not given indefinitely by the DHCP server.
 
-After some time, typically 24 hours, the IP address expires and the device is required to renew it's lease.
+After some time, typically 24 hours, the lease expires and the device is required to renew it's lease.
 
 This is a setting that can be changed on DHCP server side.
+
+**MAC(Media Access Control)** address: The MAC address is the unique identifier to a device.
+
+Unlike an IP address, it normally doesn't change. 
+
+In the event MAC addresses are changed, they are modified only at software level, they cannot be changed at hardware level. 
+
+See [MAC spoofing](https://en.wikipedia.org/wiki/MAC_spoofing)
+
+**Dynamic IP** : In the strict sense, DHCP servers assign IP address dynamically. This means that 
+
+a device will not get the same IP address twice, that is the very definition of DHCP.
+
+**Static IP** : You can force a DHCP server to assign IP addresses statically by making use of the MAC address.
+
+Using the MAC address as a unique identifier, you can always assign 192.168.1.5 to that MAC address.
 
