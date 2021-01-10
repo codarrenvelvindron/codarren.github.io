@@ -47,7 +47,7 @@ The forward proxy is in fact a forward facing proxy for the client to send reque
 ### Reverse Proxy
 A reverse proxy acts at the Web Servers perspective.
 
-|*Web Server* --> *Reverse Proxy*| <--> *Requests* <-- *Clients*
+|*Web Server* --> *Reverse Proxy*| <--> *CLIENTS/INTERNET*
 
 It thus allows:
 
