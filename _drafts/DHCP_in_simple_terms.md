@@ -44,7 +44,7 @@ Recent **printers** also support wifi, and older printers have USB, and used to 
 All of them have a network interface and are thus able to connect on a network.
 
 
-## DHCP handles all of them the same way
+## DHCP handling devices
 
 ![DHCP simple diagram](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/DHCP_IP.png)
 
