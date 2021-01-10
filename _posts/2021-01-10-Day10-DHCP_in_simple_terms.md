@@ -74,9 +74,9 @@ See [MAC spoofing](https://en.wikipedia.org/wiki/MAC_spoofing)
 
 **Dynamic IP** : In the strict sense, DHCP servers assign IP address dynamically. This means that 
 
-a device will not get the same IP address twice, that is the very definition of DHCP.
+a device will not get the same IP address, it's dynamic.
 
-It still could by RNG magic ?
+But still could by RNG magic.
 
 **Static IP** : You can force a DHCP server to assign IP addresses statically by making use of the MAC address.
 
