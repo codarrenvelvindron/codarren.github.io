@@ -67,4 +67,11 @@ Or use a simple extension called:
 
 I personally use foxy proxy, for seemless usage of different proxies or disabling proxies altogether.
 
+## Credits
+[Proxy featured image](https://twitter.com/themsquared/status/971742056375898112/photo/1)
+
+[Mozilla web developer docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling)
+
+[Freecodecamt proxy server](https://www.freecodecamp.org/news/what-is-a-proxy-server-in-english-please/)
+
 ## \Codarren/
