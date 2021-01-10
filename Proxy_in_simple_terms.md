@@ -72,6 +72,6 @@ I personally use foxy proxy, for seemless usage of different proxies or disablin
 
 [Mozilla web developer docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling)
 
-[Freecodecamt proxy server](https://www.freecodecamp.org/news/what-is-a-proxy-server-in-english-please/)
+[Freecodecamp proxy server](https://www.freecodecamp.org/news/what-is-a-proxy-server-in-english-please/)
 
 ## \Codarren/
