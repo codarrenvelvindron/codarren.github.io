@@ -20,9 +20,10 @@ Matter of fact, there are some free and very popular proxy servers like [squid](
 
 ## Classes of proxy servers
 
-### Closed Proxy (proxy)
-When we refer to a proxy, we most of the time refer to closed proxies.
+### Forward Proxy
+When we refer to a proxy, we most of the time refer to forward proxies.
 
 These are the ones that are used within organisations to make requests on behalf of the user to web sites.
 
 Using these proxies, companies can block access to some content, cache some frequently accessed websites etc...
+
