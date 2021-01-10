@@ -94,4 +94,9 @@ The best place to start playing with DHCP servers would be your home router.
 
 It has an integrated DHCP server. Enjoy !
 
+## Credits
+[Wikipedia definition](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
+
+[IETF](https://tools.ietf.org/html/rfc2131)
+
 ## \Codarren/
