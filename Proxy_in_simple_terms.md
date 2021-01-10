@@ -42,12 +42,12 @@ Anonymous and transparent proxies are opposites but are both proxies.
 Forward proxy simply means that we are in a client's perspective.
 The forward proxy is in fact a forward facing proxy for the client to send requests to the server.
 
-|**Client** --> **Connects** --> **Forward Proxy**| --> **INTERNET**
+|*Client* --> *Forward Proxy*| --> *INTERNET*
 
 ### Reverse Proxy
 A reverse proxy acts at the Web Servers perspective.
 
-|**Web Server** --> **Reverse Proxy**| <-- **Requests** <-- **Clients**
+|*Web Server* --> *Reverse Proxy*| <-- *Requests* <-- *Clients*
 
 It thus allows:
 
