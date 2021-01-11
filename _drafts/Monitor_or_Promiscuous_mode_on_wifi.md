@@ -159,3 +159,40 @@ wlan1     IEEE 802.11  Mode:Monitor  Frequency:2.457 GHz  Tx-Power=20 dBm
 ### Capturing on wireshark
 Capture --> START
 ![Capture wireshark](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/monitor_mode_wlan1.png)
+
+### Wireshark is a mess ?
+This is because we are monitoring all available channels.
+
+We can use wifi analyzer to check on which channel our target is
+![wifi analyzer]
+
+### Restricting your monitoring
+We stop our monitoring
+```
+└─$ sudo airmon-ng stop wlan1 
+
+PHY     Interface       Driver          Chipset
+
+phy0    wlan0           iwlwifi         Intel Corporation Wireless 8260 (rev 3a)
+phy1    wlan1           mt7601u         Ralink Technology, Corp. MT7601U
+                (monitor mode disabled)
+
+```
+
+We restrict it to channel 2 only
+```
+└─$ sudo airmon-ng --help    
+
+usage: airmon-ng <start|stop|check> <interface> [channel or frequency]
+
+                                                                                                           
+└─$ sudo airmon-ng start wlan1 2
+
+
+PHY     Interface       Driver          Chipset
+
+phy0    wlan0           iwlwifi         Intel Corporation Wireless 8260 (rev 3a)
+phy1    wlan1           mt7601u         Ralink Technology, Corp. MT7601U
+                (mac80211 monitor mode already enabled for [phy1]wlan1 on [phy1]wlan1)
+
+```
