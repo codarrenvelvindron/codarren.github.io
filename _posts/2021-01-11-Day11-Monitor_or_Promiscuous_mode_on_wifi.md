@@ -226,6 +226,7 @@ phy1    wlan1           mt7601u         Ralink Technology, Corp. MT7601U
 └─$ service NetworkManager restart
 
 ```
+
 ## Credits
 [Black Hat featured image](https://cdn.searchenginejournal.com/wp-content/uploads/2017/10/black-hat-seo-760x400.png)
 
