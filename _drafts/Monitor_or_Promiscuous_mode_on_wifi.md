@@ -208,6 +208,9 @@ Wireshark now only listens on channel 2.
 
 And we have our target in sight.
 
+## Credits
+[Black Hat featured image](https://cdn.searchenginejournal.com/wp-content/uploads/2017/10/black-hat-seo-760x400.png)
+
 ## Have fun !
 
 \Codarren/
