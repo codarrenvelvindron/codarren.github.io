@@ -213,6 +213,17 @@ And we have our target in sight.
 
 ## Switch back to normal mode
 ```
+└─$ sudo airmon-ng stop wlan1   
+
+PHY     Interface       Driver          Chipset
+
+phy0    wlan0           iwlwifi         Intel Corporation Wireless 8260 (rev 3a)
+phy1    wlan1           mt7601u         Ralink Technology, Corp. MT7601U
+                (monitor mode disabled)
+
+└─$ sudo ifconfig wlan1 up   
+                                                                                                           
+└─$ service NetworkManager restart
 
 ```
 ## Credits
