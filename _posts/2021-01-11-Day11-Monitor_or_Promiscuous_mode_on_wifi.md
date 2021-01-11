@@ -4,6 +4,7 @@ title: 'Day 11: Monitor or Promiscuous mode on wifi'
 published: true
 ---
 ## Your wifi adapter might already be supporting it !
+![BlackHat](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/black-hat-seo-760x400.png)
 Yes and i'm going to show you a few ways to check.
 
 ## Make sure you have the right drivers
@@ -161,3 +162,58 @@ wlan1     IEEE 802.11  Mode:Monitor  Frequency:2.457 GHz  Tx-Power=20 dBm
 ### Capturing on wireshark
 Capture --> START
 ![Capture wireshark](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/monitor_mode_wlan1.png)
+
+### Wireshark is a mess ?
+This is because we are monitoring all available channels.
+
+### Let's lock on a target
+We can use [wifi analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&hl=en&gl=US) to check on which channel our target is.
+
+In this case dd-wrt_vap is on channel 2.
+
+![wifi analyzer](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/Screenshot_20210111-202921_Wifi%20Analyzer.jpg)
+
+### Restricting your monitoring
+We stop our monitoring
+```
+└─$ sudo airmon-ng stop wlan1 
+
+PHY     Interface       Driver          Chipset
+
+phy0    wlan0           iwlwifi         Intel Corporation Wireless 8260 (rev 3a)
+phy1    wlan1           mt7601u         Ralink Technology, Corp. MT7601U
+                (monitor mode disabled)
+
+```
+
+We restrict it to channel 2 only
+```
+└─$ sudo airmon-ng --help    
+
+usage: airmon-ng <start|stop|check> <interface> [channel or frequency]
+
+                                                                                                           
+└─$ sudo airmon-ng start wlan1 2
+
+
+PHY     Interface       Driver          Chipset
+
+phy0    wlan0           iwlwifi         Intel Corporation Wireless 8260 (rev 3a)
+phy1    wlan1           mt7601u         Ralink Technology, Corp. MT7601U
+                (mac80211 monitor mode already enabled for [phy1]wlan1 on [phy1]wlan1)
+
+```
+
+### Check Wireshark Again
+![wireshark channel 2](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/monitor_mode_channel_2.png)
+
+Wireshark now only listens on channel 2.
+
+And we have our target in sight.
+
+## Credits
+[Black Hat featured image](https://cdn.searchenginejournal.com/wp-content/uploads/2017/10/black-hat-seo-760x400.png)
+
+## Have fun !
+
+\Codarren/
