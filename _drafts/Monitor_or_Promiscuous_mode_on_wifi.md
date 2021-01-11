@@ -78,3 +78,60 @@ Once you see monitor there, your card supports monitor/promiscuous mode
 Kali ships with a lot of tools out of the box.
 One of the reference tools is airmon-ng
 
+### Checking current status
+```
+#If no monitor mode is visible, it means it's not activated
+└─$ sudo airmon-ng           
+
+PHY     Interface       Driver          Chipset
+
+phy0    wlan0           iwlwifi         Intel Corporation Wireless 8260 (rev 3a)
+phy1    wlan1           mt7601u         Ralink Technology, Corp. MT7601U
+```
+### Activating monitor mode
+```
+└─$ sudo airmon-ng start wlan1
+
+Found 2 processes that could cause trouble.
+Kill them using 'airmon-ng check kill' before putting
+the card in monitor mode, they will interfere by changing channels
+and sometimes putting the interface back in managed mode
+
+    PID Name
+   4044 NetworkManager
+   4057 wpa_supplicant
+
+PHY     Interface       Driver          Chipset
+
+phy0    wlan0           iwlwifi         Intel Corporation Wireless 8260 (rev 3a)
+phy1    wlan1           mt7601u         Ralink Technology, Corp. MT7601U
+                (mac80211 monitor mode already enabled for [phy1]wlan1 on [phy1]wlan1)
+```
+### Killing processes to go to monitor mode
+Basically, you can't be connected to a network and having monitor mode running.
+
+We'll automatically kill network manager to dissasociate with the existing wireless network.
+
+N.B: There are cleaner ways to do that, but that's an example
+```
+└─$ sudo airmon-ng check kill                                                                                                                                     1 ⨯
+
+Killing these processes:
+
+    PID Name
+   4057 wpa_supplicant
+
+```
+
+### Monitor mode after killing
+
+```
+└─$ sudo airmon-ng start wlan1
+
+
+PHY     Interface       Driver          Chipset
+
+phy0    wlan0           iwlwifi         Intel Corporation Wireless 8260 (rev 3a)
+phy1    wlan1           mt7601u         Ralink Technology, Corp. MT7601U
+                (mac80211 monitor mode already enabled for [phy1]wlan1 on [phy1]wlan1)
+```
