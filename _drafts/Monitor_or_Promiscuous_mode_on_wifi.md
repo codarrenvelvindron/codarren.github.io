@@ -163,8 +163,8 @@ Capture --> START
 ### Wireshark is a mess ?
 This is because we are monitoring all available channels.
 
-We can use wifi analyzer to check on which channel our target is
-![wifi analyzer]
+We can use [wifi analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&hl=en&gl=US) to check on which channel our target is
+![wifi analyzer]()
 
 ### Restricting your monitoring
 We stop our monitoring
@@ -196,3 +196,8 @@ phy1    wlan1           mt7601u         Ralink Technology, Corp. MT7601U
                 (mac80211 monitor mode already enabled for [phy1]wlan1 on [phy1]wlan1)
 
 ```
+
+### Check Wireshark Again
+![wireshark channel 2](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/monitor_mode_channel_2.png)
+Wireshark now only listens on channel 2.
+And we have our target in sight
