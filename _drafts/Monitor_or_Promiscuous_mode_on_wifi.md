@@ -135,3 +135,27 @@ phy0    wlan0           iwlwifi         Intel Corporation Wireless 8260 (rev 3a)
 phy1    wlan1           mt7601u         Ralink Technology, Corp. MT7601U
                 (mac80211 monitor mode already enabled for [phy1]wlan1 on [phy1]wlan1)
 ```
+
+### It's already enabled, that's good news !
+We confirm that we are in monitor mode using iwconfig
+```
+└─$ sudo iwconfig             
+lo        no wireless extensions.
+
+eth0      no wireless extensions.
+
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=22 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:on
+          
+wlan1     IEEE 802.11  Mode:Monitor  Frequency:2.457 GHz  Tx-Power=20 dBm   
+          Retry short limit:7   RTS thr:off   Fragment thr:off
+          Power Management:on
+
+```
+
+### Capturing on wireshark
+Capture --> START
+![Capture wireshark](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/monitor_mode_wlan1.png)
