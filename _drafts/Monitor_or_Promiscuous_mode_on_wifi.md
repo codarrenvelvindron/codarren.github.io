@@ -2,6 +2,7 @@
 published: false
 ---
 ## Your wifi adapter might already be supporting it !
+![BlackHat](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/black-hat-seo-760x400.png)
 Yes and i'm going to show you a few ways to check.
 
 ## Make sure you have the right drivers
