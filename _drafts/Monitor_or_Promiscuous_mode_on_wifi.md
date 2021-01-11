@@ -163,8 +163,12 @@ Capture --> START
 ### Wireshark is a mess ?
 This is because we are monitoring all available channels.
 
-We can use [wifi analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&hl=en&gl=US) to check on which channel our target is
-![wifi analyzer]()
+### Let's lock on a target
+We can use [wifi analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&hl=en&gl=US) to check on which channel our target is.
+
+In this case dd-wrt_vap is on channel 2.
+
+![wifi analyzer](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/Screenshot_20210111-202921_Wifi%20Analyzer.jpg)
 
 ### Restricting your monitoring
 We stop our monitoring
