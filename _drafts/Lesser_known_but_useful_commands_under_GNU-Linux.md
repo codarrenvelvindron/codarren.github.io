@@ -105,4 +105,7 @@ rev is particularly useful when you just want the last item of a text or n-1 ite
 ## I'll keep them coming
 As and when I encounter them.
 
+## Credits
+[Tux featured image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tux-simple.svg/154px-Tux-simple.svg.png)
+
 ## \Codarren/
