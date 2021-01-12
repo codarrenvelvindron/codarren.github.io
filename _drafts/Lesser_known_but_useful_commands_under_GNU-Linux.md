@@ -101,3 +101,8 @@ f
 ```
 rev is particularly useful when you just want the last item of a text or n-1 item
 
+
+## I'll keep them coming
+As and when I encounter them.
+
+## \Codarren/
