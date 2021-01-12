@@ -2,6 +2,7 @@
 published: false
 ---
 ## What is a lesser known command?
+![tux](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/154px-Tux-simple.svg.png)
 
 Commands that are not talked about too much.
 
