@@ -62,6 +62,21 @@ drwxr-xr-x  2 codax codax 4.0K sep 11 08:22 Templates
 -rw-r--r--  1 codax codax 8.8K sep 11 07:44 examples.desktop
 drwxr-xr-x  2 codax codax 4.0K sep 11 08:22 Public
 total 72K
+```
 
+## tac
+tac is the reverse of the cat command
+```
+codax@gaming:~$ echo -e "a\nb\nc\nd" > sampfile.txt
+codax@gaming:~$ cat sampfile.txt 
+a
+b
+c
+d
+codax@gaming:~$ tac sampfile.txt 
+d
+c
+b
+a
 
 ```
