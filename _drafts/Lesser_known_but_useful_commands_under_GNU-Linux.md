@@ -65,7 +65,10 @@ total 72K
 ```
 
 ## tac
-tac is the reverse of the cat command
+tac is the reverse of the cat command.
+
+i.e. it reads the file in reverse starting by the last line.
+
 ```
 codax@gaming:~$ echo -e "a\nb\nc\nd" > sampfile.txt
 codax@gaming:~$ cat sampfile.txt 
@@ -78,5 +81,23 @@ d
 c
 b
 a
+```
+
+## rev
+The rev command is yet another reversal command.
+
+But it's more useful when dealing with single line as opposed to tac for whole files.
+
+The rev command comes in handy when you need the last item of a given line.
 
 ```
+#Say we want to get f
+codax@gaming:~$ echo "a b c d e f" | cut -d" " -f6
+f
+
+#Instead of counting the number of columns, we can make use of the fact that f is last.
+codax@gaming:~$ echo "a b c d e f" | rev | cut -d" " -f1 | rev
+f
+```
+rev is particularly useful when you just want the last item of a text or n-1 item
+
