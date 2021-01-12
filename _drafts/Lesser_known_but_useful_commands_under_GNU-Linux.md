@@ -30,3 +30,5 @@ The yes command automatically says yes at the prompt !
 
 You could integrate this into your scripts too, when there is a need to force a yes or 'y'
 
+
+## false
