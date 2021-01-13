@@ -71,7 +71,12 @@ But if it's just one, port from and to should be the same as i did.
 
 ## What did we just do ?
 We mapped IP address our teamspeak server on my local PC's IP: 192.168.5.4.
+
 Using port 2222.
+
+Every request to port 2222 is forwarded to my local server.
+
+**P**ort **F**orwarding.
 
 ## How do people access my server?
 They simply connect using:
