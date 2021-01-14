@@ -69,7 +69,8 @@ codax@gaming:~/Projects/tests$ ./job4.sh &
 [4] 7898
 codax@gaming:~/Projects/tests$ 
 ```
-The & means background execution
+The & means background execution.
+Notice that they have a job id (1,2,3,4) and the 4-digit number is a PID.
 
 ### the jobs command
 ```
@@ -81,6 +82,15 @@ codax@gaming:~/Projects/tests$ jobs
 ```
 Using this command, I am able to see their running status
 
+### job1 done
+```
+codax@gaming:~/Projects/tests$ jobs
+[1]   Done                    ./job1.sh
+[2]   Running                 ./job2.sh &
+[3]-  Running                 ./job3.sh &
+[4]+  Running                 ./job4.sh &
+```
 
+After some time, it's marked done.
 ## Credits
 [Featured image from pngwing](https://www.pngwing.com/en/search?q=human+Multitasking)
