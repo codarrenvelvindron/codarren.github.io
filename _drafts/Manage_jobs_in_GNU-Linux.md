@@ -127,5 +127,25 @@ If we want to foreground a specific task, we use the job id.
 
 In this case, we wanted to switch to job 4.
 
+### Background specific task
+```
+codax@gaming:~/Projects/tests$ fg 4
+./job4.sh
+^Z
+[4]+  Stopped                 ./job4.sh
+codax@gaming:~/Projects/tests$ bg 4
+[4]+ ./job4.sh &
+```
+Same for bg
+
+## Real world usage
+I use this a lot when there is a need to run multiple database queries.
+
+Particularly those that I am outputting to some file.
+
+But this could also be used for scripts that you want to run in background.
+
+/!\ Once you close your terminal session, the current jobs will be exited /!\
+
 ## Credits
 [Featured image from pngwing](https://www.pngwing.com/en/search?q=human+Multitasking)
