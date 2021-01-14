@@ -94,7 +94,7 @@ codax@gaming:~/Projects/tests$ jobs
 ```
 
 After some time, it's marked done.
-The done task will disappear on the next job command launch.
+The done task will disappear on the next jobs command launch.
 
 ### + sign
 The plus sign tells us that this job will be the default command to go to foreground if 
