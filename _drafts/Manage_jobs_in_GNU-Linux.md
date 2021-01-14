@@ -115,5 +115,17 @@ The fg (foreground) and bg (background) commands go hand in hand.
 
 3. Then send it back to background execution using the bg command
 
+### foreground specific task
+```
+codax@gaming:~/Projects/tests$ jobs -r
+[4]-  Running                 ./job4.sh &
+[5]+  Running                 ./job3.sh &
+codax@gaming:~/Projects/tests$ fg 4
+./job4.sh
+```
+If we want to foreground a specific task, we use the job id.
+
+In this case, we wanted to switch to job 4.
+
 ## Credits
 [Featured image from pngwing](https://www.pngwing.com/en/search?q=human+Multitasking)
