@@ -110,6 +110,10 @@ The fg (foreground) and bg (background) commands go hand in hand.
 ![fgandbg](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/fg_and_bg.png)
 
 1. We can switch to the + task using the fg command
-2. 
+
+2. Then suspend its execution using CTRL + Z
+
+3. Then send it back to background execution using the bg command
+
 ## Credits
 [Featured image from pngwing](https://www.pngwing.com/en/search?q=human+Multitasking)
