@@ -39,5 +39,48 @@ Which is what we want to demonstrate execution.
 Now we know that while this script is running, for 150 seconds this terminal cannot be used.
 
 Except if we were to send a SIGINT (Ctrl + C) or a SIGSTOP (CTRL + Z).
+
+### More jobs !!! Moar
+```
+codax@gaming:~/Projects/tests$ cat job1.sh 
+#!/bin/bash
+sleep 150
+codax@gaming:~/Projects/tests$ cat job2.sh 
+#!/bin/bash
+sleep 500
+codax@gaming:~/Projects/tests$ cat job3.sh 
+#!/bin/bash
+sleep 1000
+codax@gaming:~/Projects/tests$ cat job4.sh 
+#!/bin/bash
+sleep 1500
+```
+I created 4 job scripts with increasing sleep time, i.e.execution time.
+
+### Let's execute all of them
+```
+codax@gaming:~/Projects/tests$ ./job1.sh &
+[1] 7865
+codax@gaming:~/Projects/tests$ ./job2.sh &
+[2] 7872
+codax@gaming:~/Projects/tests$ ./job3.sh &
+[3] 7893
+codax@gaming:~/Projects/tests$ ./job4.sh &
+[4] 7898
+codax@gaming:~/Projects/tests$ 
+```
+The & means background execution
+
+### the jobs command
+```
+codax@gaming:~/Projects/tests$ jobs
+[1]   Running                 ./job1.sh &
+[2]   Running                 ./job2.sh &
+[3]-  Running                 ./job3.sh &
+[4]+  Running                 ./job4.sh &
+```
+Using this command, I am able to see their running status
+
+
 ## Credits
 [Featured image from pngwing](https://www.pngwing.com/en/search?q=human+Multitasking)
