@@ -92,5 +92,24 @@ codax@gaming:~/Projects/tests$ jobs
 ```
 
 After some time, it's marked done.
+The done task will disappear on the next job command launch.
+
+### + sign
+The plus sign tells us that this job will be the default command to go to foreground if 
+i were to use the foreground command.
+
+### - sign
+The minus sign tells us this job will be the default to go to foreground.
+
+Only after the first one (+) finishes.
+
+Just telling us this one is next.
+
+### fg and bg
+The fg (foreground) and bg (background) commands go hand in hand.
+![fgandbg](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/fg_and_bg.png)
+
+1. We can switch to the + task using the fg command
+2. 
 ## Credits
 [Featured image from pngwing](https://www.pngwing.com/en/search?q=human+Multitasking)
