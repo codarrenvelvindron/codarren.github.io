@@ -34,6 +34,7 @@ If we launch it it will last for at least 150 seconds.
 Which is what we want to demonstrate execution.
 
 ### This is a foreground execution
+
 ![FG execution](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/fg_execution.png)
 
 Now we know that while this script is running, for 150 seconds this terminal cannot be used.
