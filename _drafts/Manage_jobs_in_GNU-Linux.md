@@ -147,7 +147,7 @@ Particularly those that I am outputting to some file.
 
 But this could also be used for scripts that you want to run in background.
 
-/!\ Once you close your terminal session, the current jobs will be exited /!\
+/!\ Once you close your terminal session, the current running jobs will be exited /!\
 
 ## Credits
 [Featured image from pngwing](https://www.pngwing.com/en/search?q=human+Multitasking)
