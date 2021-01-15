@@ -73,3 +73,13 @@ This part is quite insightful as it provides suggestions for improvement.
 
 ## Medium impact
 ![med impact](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/impact_med.png)
+
+The suggestions for the 2 issues are:
+1. Change my css code to load in async mode, this means, it will not load the css first.
+
+It will load the .css asynchronously with the rest of the page.
+
+I did it and it did have a positive impact on my load time.
+
+2. 
+
