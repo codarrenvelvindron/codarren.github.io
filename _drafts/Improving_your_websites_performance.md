@@ -34,13 +34,13 @@ Agree, but...when we look closer.
 
 ![unthrottled highlighted](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/unthrottled_highlighted.png)
 
-By default, gtmetrix test your website using an unthrottled connection.
+By default, gtmetrix tests your website using an unthrottled connection.
 
 An unthrottled connection is an unlimited connection.
 
 An unlimited connection has no bandwidth limitation.
 
-They could be loading your page using a gigabit connection.
+It could be testing your page using a gigabit connection.
 
 ## Why is it not a good test ?
 
@@ -54,3 +54,8 @@ The fastest home connection is a 100Mb.
 For me, to get a good idea of how well the website is doing.
 
 We should test it using the slowest connection available in Mauritius.
+
+I know a lot of times, on mobile we do switch to 3G at least on emtel.
+
+## New result
+![3G perf](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/3G_perf.png)
