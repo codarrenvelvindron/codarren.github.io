@@ -99,3 +99,13 @@ On cloudflare, you do it by gong to PageURL > Caching > Browser Cache TTL
 I set it to 1 day instead of the default 30 minutes!
 
 ![bc CF](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/cf_browser_cache.png)
+
+## That's all folks!
+Hope this will be useful to you too :)
+
+Do check out [gtmetrix](https://gtmetrix.com) and have fun playing around.
+
+## Credits
+[GTMetrix featured image](https://gtmetrix.com)
+
+## \Codarren/
