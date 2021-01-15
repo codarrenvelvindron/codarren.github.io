@@ -77,9 +77,9 @@ This part is quite insightful as it provides suggestions for improvement.
 The suggestions for the 2 issues are:
 1. Change my css code to load in [async](https://gtmetrix.com/blog/how-to-eliminate-render-blocking-resources/) mode, this means, it will not load the css first.
 
-It will load the .css asynchronously with the rest of the page.
+- It will load the .css asynchronously with the rest of the page.
 
-I did it and it did have a positive impact on my load time.
+- I did it and it did have a positive impact on my load time.
 
 2. Increase my [cache TTL](https://gtmetrix.com/serve-static-assets-with-an-efficient-cache-policy.html).
 
