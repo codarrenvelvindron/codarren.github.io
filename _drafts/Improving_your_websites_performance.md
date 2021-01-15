@@ -81,9 +81,9 @@ It will load the .css asynchronously with the rest of the page.
 
 I did it and it did have a positive impact on my load time.
 
-2. Increase my cache TTL.
+2. Increase my [cache TTL](https://gtmetrix.com/serve-static-assets-with-an-efficient-cache-policy.html).
 
 This will speed up load times on repeat visits on my page.
 
-It will store my images in the browser's cache for a longer time.
+It will store my images in the user's browser cache for a longer time.
 
