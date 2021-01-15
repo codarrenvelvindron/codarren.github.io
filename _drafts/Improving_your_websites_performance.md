@@ -59,3 +59,14 @@ I know a lot of times, on mobile we do switch to 3G at least on emtel.
 
 ## New result
 ![3G perf](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/3G_perf.png)
+
+
+- As we switched to 3G and did a retest
+- My performance dropped to a C
+
+## Room for improvement
+In the report, which is quite detailed, we get the top issues.
+
+![3G details](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/issues.png)
+
+This part is quite insightful as it provides suggestions for improvement.
