@@ -75,11 +75,15 @@ This part is quite insightful as it provides suggestions for improvement.
 ![med impact](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/impact_med.png)
 
 The suggestions for the 2 issues are:
-1. Change my css code to load in async mode, this means, it will not load the css first.
+1. Change my css code to load in [async](https://gtmetrix.com/blog/how-to-eliminate-render-blocking-resources/) mode, this means, it will not load the css first.
 
 It will load the .css asynchronously with the rest of the page.
 
 I did it and it did have a positive impact on my load time.
 
-2. 
+2. Increase my cache TTL.
+
+This will speed up load times on repeat visits on my page.
+
+It will store my images in the browser's cache for a longer time.
 
