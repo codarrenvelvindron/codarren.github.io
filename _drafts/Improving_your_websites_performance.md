@@ -81,6 +81,12 @@ It will load the .css asynchronously with the rest of the page.
 
 I did it and it did have a positive impact on my load time.
 
+```
+#Before:
+<link rel="stylesheet" type="text/css" href="/style.css" />
+#After:
+<link rel="stylesheet" type="text/css" href="/style.css" async />
+```
 
 2. Increase my [cache TTL](https://gtmetrix.com/serve-static-assets-with-an-efficient-cache-policy.html).
 
