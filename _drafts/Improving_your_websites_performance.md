@@ -87,3 +87,8 @@ This will speed up load times on repeat visits on my page.
 
 It will store my images in the user's browser cache for a longer time.
 
+On cloudflare, you do it by gong to PageURL > Caching > Browser Cache TTL
+
+I set it to 1 day instead of the default 30 minutes!
+
+![bc CF](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/cf_browser_cache.png)
