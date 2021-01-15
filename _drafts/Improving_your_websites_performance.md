@@ -70,3 +70,6 @@ In the report, which is quite detailed, we get the top issues.
 ![3G details](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/issues.png)
 
 This part is quite insightful as it provides suggestions for improvement.
+
+## Medium impact
+![med impact](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/impact_med.png)
