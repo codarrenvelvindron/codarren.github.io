@@ -63,7 +63,9 @@ The easiest way to test a proxy server would be through your browser.
 You could go to Settings --> Advanced --> Proxy
 
 Or use a simple extension called: 
+
 ![foxyproxy image](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/foxyproxy.png)
+
 [FoxyProxy for chrome](https://chrome.google.com/webstore/detail/foxyproxy-standard/gcknhkkoolaabfmlnjonogaaifnjlfnp?hl=en)
 
 [FoxyProxy for firefox](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
