@@ -18,7 +18,7 @@ A proxy server would be a server that **performs requests** and **receives respo
 
 Not all intermediaries are bad. 
 
-A proxy server won't make you pay more!
+A proxy server won't charge you more for the same work!
 
 Matter of fact, there are some free and very popular proxy servers like [squid](http://www.squid-cache.org/).
 
