@@ -66,6 +66,7 @@ Save the planet !
 ## What else do you need from a search engine ?
 Ah yes, sorry, here's the promotional video
 
+[![Ecosia.org](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/ecosia_youtube.png)](https://www.youtube.com/watch?v=U2EDMawvJAo)
 
 
 ## Credits
