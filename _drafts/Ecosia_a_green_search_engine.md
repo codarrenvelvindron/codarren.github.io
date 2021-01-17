@@ -33,6 +33,21 @@ Interface is as neat as google.
 
 ![ecosia search](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/ecosia_hp.png)
 
+## Make it your default search engine.
+
+If you tried and like it as much as I do.
+
+1. [add ecosia to chrome]
+(https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
+
+2. Make sure it's your default search engine.
+
+Go to settings > Serch engines > ecosia.org
+
+3. Open a new tab to see if it's here
+
+We're done ! Now every search you do is making a difference !
+
 
 ## Features ? No problem
 
