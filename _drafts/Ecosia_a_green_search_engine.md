@@ -31,6 +31,9 @@ And I must say, it's a joy to use on a daily basis.
 
 Interface is as neat as google.
 
+![ecosia search](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/ecosia_hp.png)
+
+
 ## Features ? No problem
 
 1. Anonymizes your search queries.
