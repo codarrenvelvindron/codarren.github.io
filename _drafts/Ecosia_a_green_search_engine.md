@@ -39,7 +39,7 @@ If you tried and like it as much as I do.
 
 1. [add ecosia.org to chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 
-[add ecosia.org to firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/)
+OR [add ecosia.org to firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/)
 
 2. Make sure it's your default search engine.
 
