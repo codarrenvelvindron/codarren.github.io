@@ -59,10 +59,13 @@ Did you say privacy ?
 
 117 million trees already planted worldwide.
 
+Save the planet !
+
 ![plant trees ecosia](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/savetheplanet_ecosia.png)
 
 ## What else do you need from a search engine ?
 Ah yes, sorry, here's the promotional video
+
 
 
 ## Credits
