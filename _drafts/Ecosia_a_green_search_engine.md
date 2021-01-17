@@ -29,11 +29,19 @@ I gave Ecosia.org a try because of it's green appeal.
 
 And I must say, it's a joy to use on a daily basis.
 
+Interface is as neat as google.
+
 ## Features ? No problem
 
 Number 1: Anonymizes your search queries.
 
+Did you say privacy ?
+
 Number 2: Plants trees for every search you make.
+
+117 million trees already planted worldwide.
+
+
 
 ## What else do you need from a search engine ?
 Ah yes, sorry, here's the promotional video
