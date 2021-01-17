@@ -37,7 +37,7 @@ Interface is as neat as google.
 
 If you tried and like it as much as I do.
 
-1. [add ecosia to chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
+1. [add ecosia.org to chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 
 2. Make sure it's your default search engine.
 
