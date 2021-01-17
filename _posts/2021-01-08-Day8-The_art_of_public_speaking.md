@@ -50,6 +50,7 @@ People were screaming and overexcited, it was crazy levels of energy in that roo
 I added a personal touch to that one.
 
 [![Taken scene](https://bestclassicbands.com/wp-content/uploads/2016/01/Liam-Neeson-Taken.jpg)](https://www.youtube.com/watch?v=jZOywn1qArI)
+
 I did a readaptation of the ever famous movie line in the movie [Taken](https://www.imdb.com/title/tt0936501/), where i said:
 
 "I don't know who you are, I don't know what you want. 
