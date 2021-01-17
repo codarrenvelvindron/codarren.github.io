@@ -64,7 +64,7 @@ Save the planet !
 ![plant trees ecosia](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/savetheplanet_ecosia.png)
 
 ## What else do you need from a search engine ?
-Ah yes, sorry, here's the promotional video
+Ah yes, sorry, here's the latest episode from their blog! :)
 
 [![Ecosia.org](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/ecosia_youtube.png)](https://www.youtube.com/watch?v=U2EDMawvJAo)
 
