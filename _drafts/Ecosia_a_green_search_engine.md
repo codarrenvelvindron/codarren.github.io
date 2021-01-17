@@ -41,7 +41,7 @@ Number 2: Plants trees for every search you make.
 
 117 million trees already planted worldwide.
 
-
+![plant trees ecosia](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/savetheplanet_ecosia.png)
 
 ## What else do you need from a search engine ?
 Ah yes, sorry, here's the promotional video
