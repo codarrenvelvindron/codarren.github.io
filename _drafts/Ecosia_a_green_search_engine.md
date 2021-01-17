@@ -52,3 +52,5 @@ Ah yes, sorry, here's the promotional video
 
 ## Credits
 [Ecosia logo](https://en.wikipedia.org/wiki/Ecosia#/media/File:Ecosia_logo.png)
+
+[Ecosia facts and pictures](https://ecosia.org)
