@@ -33,11 +33,11 @@ Interface is as neat as google.
 
 ## Features ? No problem
 
-Number 1: Anonymizes your search queries.
+1. Anonymizes your search queries.
 
 Did you say privacy ?
 
-Number 2: Plants trees for every search you make.
+2. Plants trees for every search you make.
 
 117 million trees already planted worldwide.
 
