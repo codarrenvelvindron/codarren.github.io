@@ -39,6 +39,7 @@ Say, I'm living in france and I want to resolve it to google.fr.
     PING www.google.fr (216.58.223.99) 56(84) bytes of data.
     64 bytes from mba01s08-in-f3.1e100.net (216.58.223.99): icmp_seq=1 ttl=117 time=42.2 ms
     ```
+
 2. I would add the following line in /etc/hosts in the format: IP[Space or tab]FQDN
     ```
     codax@gaming:~$ vim /etc/hosts
@@ -47,6 +48,7 @@ Say, I'm living in france and I want to resolve it to google.fr.
     216.58.223.100 www.google.fr
     ```
     What i'm doing is forcing google.com to resolve to google.fr
+
 3. Now when i type in:
 www.google.com, I'm redirected to google.fr transparently.
 ![googlecom.png]({{site.baseurl}}/images/googlecom.png)
