@@ -41,28 +41,28 @@ If you tried and like it as much as I do.
 
 1. [add ecosia.org to chrome](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk)
 
-OR [add ecosia.org to firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/)
+  OR [add ecosia.org to firefox](https://addons.mozilla.org/en-US/firefox/addon/ecosia-the-green-search/)
 
 2. Make sure it's your default search engine.
 
-Go to settings > Serch engines > ecosia.org
+  Go to settings > Serch engines > ecosia.org
 
 3. Open a new tab to see if it's here
 
-We're done ! Now every search you do is making a difference !
+  We're done ! Now every search you do is making a difference !
 
 
 ## Features ? No problem
 
 1. Anonymizes your search queries.
 
-Did you say privacy ?
+  Did you say privacy ?
 
 2. Plants trees for every search you make.
 
-117 million trees already planted worldwide.
+  117 million trees already planted worldwide.
 
-Save the planet !
+  Save the planet !
 
 ![plant trees ecosia](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/savetheplanet_ecosia.png)
 
