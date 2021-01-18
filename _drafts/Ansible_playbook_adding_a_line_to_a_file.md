@@ -53,7 +53,8 @@ Say, I'm living in france and I want to resolve it to google.fr.
 www.google.com, I'm redirected to google.fr transparently.
 ![googlecom.png]({{site.baseurl}}/images/googlecom.png)
 
-## Changed on 1 server => OK
+## Changed on 1 server
+OK, easy.
 
 ## On multiple servers, we'll use ansible.
 
