@@ -34,17 +34,18 @@ Now, as we see, google is resolving with IP address 216.58.223.100
 Say, I'm living in france and I want to resolve it to google.fr.
 
 1. First I need to check the IP of google.fr
-
+    ```
     codax@gaming:~$ ping www.google.fr
     PING www.google.fr (216.58.223.99) 56(84) bytes of data.
     64 bytes from mba01s08-in-f3.1e100.net (216.58.223.99): icmp_seq=1 ttl=117 time=42.2 ms
-
+    ```
 2. I would add the following line in /etc/hosts in the format: IP[Space or tab]FQDN
+    ```
     codax@gaming:~$ vim /etc/hosts
     codax@gaming:~$ tail -n3 /etc/hosts
     ff02::2 ip6-allrouters
     216.58.223.99 www.google.com
-
+    ```
 
 
 
