@@ -33,7 +33,7 @@ Now, as we see, google is resolving with IP address 216.58.223.100
 
 Say, I'm living in france and I want to resolve it to google.fr.
 
-1. First I need to check the IP of google.fr
+1. Then I need to check the IP of google.fr, just to see if it's a different IP
     ```
     codax@gaming:~$ ping www.google.fr
     PING www.google.fr (216.58.223.99) 56(84) bytes of data.
@@ -44,10 +44,13 @@ Say, I'm living in france and I want to resolve it to google.fr.
     codax@gaming:~$ vim /etc/hosts
     codax@gaming:~$ tail -n3 /etc/hosts
     ff02::2 ip6-allrouters
-    216.58.223.99 www.google.com
+    216.58.223.100 www.google.fr
     ```
     What i'm doing is forcing google.com to resolve to google.fr
-3. 
+3. Now when i type in:
+www.google.com, I'm redirected to google.fr
+![googlecom.png]({{site.baseurl}}/images/googlecom.png)
+
 
 
 ## Credits
