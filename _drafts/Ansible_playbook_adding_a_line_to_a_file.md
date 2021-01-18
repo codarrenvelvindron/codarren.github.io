@@ -46,7 +46,8 @@ Say, I'm living in france and I want to resolve it to google.fr.
     ff02::2 ip6-allrouters
     216.58.223.99 www.google.com
     ```
-
+    What i'm doing is forcing google.com to resolve to google.fr
+3. 
 
 
 ## Credits
