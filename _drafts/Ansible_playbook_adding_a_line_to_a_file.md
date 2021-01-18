@@ -48,11 +48,31 @@ Say, I'm living in france and I want to resolve it to google.fr.
     ```
     What i'm doing is forcing google.com to resolve to google.fr
 3. Now when i type in:
-www.google.com, I'm redirected to google.fr
+www.google.com, I'm redirected to google.fr transparently.
 ![googlecom.png]({{site.baseurl}}/images/googlecom.png)
 
+## Changed on 1 server => OK
 
+## On multiple servers, we'll use ansible.
 
+```
+# Playbook name: add_googlefr.yaml
+hosts: MyFrontend
+- name: Add google.fr to /etc/hosts
+  lineinfile:
+    path: /etc/hosts
+    line: '216.58.223.100 www.google.fr'
+    state: present
+    backup: yes
+```
+
+## Why use this method?
+ - It adds a line at the end of the text file
+ 
+ - It doesn't create duplicates if line is present.
+ 
+ - Rollback: Remove the line by replacing the state: present with 'absent'
+ 
 ## Credits
 [Ansible logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png)
 
