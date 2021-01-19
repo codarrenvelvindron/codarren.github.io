@@ -28,5 +28,7 @@ sudo apt-get install screen
 1. SSH to a server, or just open a terminal.
 
 2. Create your screen session
+```
     screen -S top
     #in this case, i am creating a screen with session name 'top'
+```
