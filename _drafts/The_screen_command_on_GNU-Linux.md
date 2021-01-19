@@ -32,3 +32,30 @@ sudo apt-get install screen
     screen -S top
     #in this case, i am creating a screen with session name 'top'
 ```
+
+## Run a command, any command
+The command should be preferably interactive
+
+```
+top
+```
+Now close the terminal window, simulating an SSH disconnect
+
+## Resume session
+Open a new terminal window and resume the session
+```
+screen -r top
+```
+
+Yes the SSH session resumes where you left off and your command(s) appear like you never disconnected!
+
+## Listing screen sessions
+```
+codax@gaming:~$ screen -ls
+There is a screen on:
+	5503.top	(19/01/21 21:49:13)	(Detached)
+1 Socket in /run/screen/S-codax.
+```
+There you are ! Your top session appears in the list.
+
+## \Codarren/
