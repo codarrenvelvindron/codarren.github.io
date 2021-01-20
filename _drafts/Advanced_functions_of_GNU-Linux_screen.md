@@ -27,6 +27,10 @@ I use this mode mainly for teaching people how to use linux.
 
 This way, they can see my screen behind their own screen !
 
+
+But there can be many other uses for this.
+e.g. Commands that must be typed in and checked by multiple admins (critical commands)
+
 ## Detach
 This is the basic way of using gnu screen.
 
