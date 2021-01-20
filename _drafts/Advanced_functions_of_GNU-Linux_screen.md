@@ -27,3 +27,44 @@ I use this mode mainly for teaching people how to use linux.
 
 This way, they can see my screen behind their own screen !
 
+## Detach
+This is the basic way of using gnu screen.
+
+But a lot of people don't know how to use this.
+
+So I thought i'd explain:
+
+```
+#You want to detach from inside a screen session
+#We use the Ctrl key + a for action
+Ctrl + a
+#Once we are in this action mode
+#We can detach by typing in 'd'
+d
+#We are detached from the screen session
+```
+![screen detach](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/detach_from_screen.png)
+
+## Reattach
+Another useful command is the screen reattach
+```
+#After being detached
+#We attach to the screen
+screen -r newone
+```
+
+## Reattach to an already attached screen
+If someone else is attached to the screen, and you want to detach him.
+
+Or if that someone was you.
+
+We use the below command.
+
+```
+screen -Dr newone
+```
+The other user will get a "remote detached from session" as a prompt.
+
+Or if using the same computer to test, the terminal window will simply be closed.
+
+
