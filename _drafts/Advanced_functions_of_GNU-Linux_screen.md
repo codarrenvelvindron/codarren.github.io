@@ -2,7 +2,7 @@
 published: false
 ---
 ## Yesterday I introduced the screen command
-
+![screenonly](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/screen_only.png)
 [Click here if you want to read the intro](https://blog.codarren.com/Day19-The_screen_command_on_GNU-Linux/)
 
 Today, we explore advanced functions.
