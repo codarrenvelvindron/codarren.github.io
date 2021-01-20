@@ -65,6 +65,6 @@ screen -Dr newone
 ```
 The other user will get a "remote detached from session" as a prompt.
 
-Or if using the same computer to test, the terminal window will simply be closed.
+If using the same computer to test, the terminal window will simply be closed.
 
-
+An easy way to remember this command is to think "Screen **D**octo**r**"
