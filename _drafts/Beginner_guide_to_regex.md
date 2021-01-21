@@ -62,4 +62,5 @@ And for the second digit, we have.
 Combining the two we have the full range:
 ```
 [1-9][0-9]
+# if we try this we will get 100-900, as we are not specifying start and # end of text
 ```
