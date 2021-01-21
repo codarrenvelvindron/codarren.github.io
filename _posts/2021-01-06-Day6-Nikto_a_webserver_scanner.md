@@ -4,7 +4,7 @@ title: 'Day 6: Nikto a webserver scanner'
 published: true
 ---
 ## Have you heard about Nikto ?
-![Nikto](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/nikto-min.png)
+![Nikto](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/nikto-min.jpg)
 
 No, we are not talking about the Call of Duty character!
 
