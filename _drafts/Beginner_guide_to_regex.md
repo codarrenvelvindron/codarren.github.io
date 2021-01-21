@@ -90,7 +90,7 @@ codax@gaming:~/Projects/tests/grep$ cat nonrandom_line_file.txt | egrep '^[1-9][
 ```
 
 **Adding an "end of text"**
-```
+
 End of text denoted by:
 ```
 $
@@ -99,7 +99,7 @@ $
 **Combining everything:**
 ```
 ^[1-9][0-9]$
-
+```
 
 **Adding in grep**
 
