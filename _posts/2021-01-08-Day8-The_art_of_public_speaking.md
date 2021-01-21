@@ -4,7 +4,7 @@ title: 'Day 8: The art of public speaking'
 published: true
 ---
 ## Have you ever spoken in public ?
-![Public Speaking image](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/getty_614138202_2000133520009280253_328692_50.jpg)
+![Public Speaking image](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/getty_614138202_2000133520009280253_328692_50-min.jpg)
 
 Well you should.
 
