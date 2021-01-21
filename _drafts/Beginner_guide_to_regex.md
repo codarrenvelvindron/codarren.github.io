@@ -121,5 +121,5 @@ cat nonrandom_line_file.txt | egrep '^[1-9][0-9][0-9]$'
 
 As seen above, we just add a 3rd for a 3rd digit between 0-9
 
-## Regex leads the way !
+## Will add more examples in the coming week or so !
 ## \Codarren/
