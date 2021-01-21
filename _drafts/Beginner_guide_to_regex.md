@@ -113,3 +113,13 @@ codax@gaming:~/Projects/tests/grep$ cat nonrandom_line_file.txt | egrep '^[1-9][
 ```
 
 ## Match only 3-digit numbers
+We know that 3-digit numbers would start with 100
+and will end with 999.
+```
+cat nonrandom_line_file.txt | egrep '^[1-9][0-9][0-9]$' 
+```
+
+As seen above, we just add a 3rd for a 3rd digit between 0-9
+
+## Regex leads the way !
+## \Codarren/
