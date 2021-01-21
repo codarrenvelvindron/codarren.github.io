@@ -4,7 +4,7 @@ title: 'Day 7: Shodan an IoT search engine'
 published: true
 ---
 ## IoT, or insecuriTy
-![iot](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/insecure.jpeg)
+![iot](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/insecure-min.jpeg)
 _The Internet of Things, or IoT, refers to the billions of physical devices around the world that are now connected to the internet, all collecting and sharing data._
 
 ## A little history
