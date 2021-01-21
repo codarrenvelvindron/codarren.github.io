@@ -43,3 +43,23 @@ cat nonrandom_line_file.txt | egrep '[1-9]' | wc -l
 1000
 ```
 ## Match only 2-digit numbers
+We know that 2-digit numbers would start with 10
+and will end with 99.
+
+The range 10 - 99
+
+We split the range to 10 - 90 and 90 - 99.
+
+So for the first digit we have:
+```
+[1-9]
+```
+And for the second digit, we have.
+```
+[0-9]
+```
+
+Combining the two we have the full range:
+```
+[1-9][0-9]
+```
