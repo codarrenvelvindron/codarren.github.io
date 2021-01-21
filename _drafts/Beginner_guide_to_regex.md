@@ -64,3 +64,52 @@ Combining the two we have the full range:
 [1-9][0-9]
 # if we try this we will get 100-900, as we are not specifying start and # end of text
 ```
+
+Start of text is denoted by
+```
+^
+```
+
+Adding it in the mix:
+```
+^[1-9][0-9]
+```
+Here, what we are saying is that:
+1st digit starts with 1 to 9.
+And 2nd digit is 0 to 9.
+
+This time, we're matching even more numbers.
+```
+998
+999
+1000
+codax@gaming:~/Projects/tests/grep$ cat nonrandom_line_file.txt | egrep '^[1-9][0-9]' | wc -l
+991
+
+```
+
+Adding an "end of text"
+```
+End of text denoted by:
+```
+$
+```
+
+Combining everything:
+```
+^[1-9][0-9]$
+
+
+Adding in grep
+
+```
+# grep -e or egrep can be used, they are the same
+95
+96
+97
+98
+99
+codax@gaming:~/Projects/tests/grep$ cat nonrandom_line_file.txt | egrep '^[1-9][0-9]$'
+```
+
+## Match only 3-digit numbers
