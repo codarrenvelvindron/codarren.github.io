@@ -4,7 +4,7 @@ title: 'Day 16: Proxy in simple terms'
 published: true
 ---
 ## Proxy. Proximity ?
-![Proxy image squid](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/DXxSP7SVAAAnArQ.png)
+![Proxy image squid](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/DXxSP7SVAAAnArQ-min.png)
 
 The dictionary definition says it all:
 
