@@ -4,6 +4,7 @@ title: 'Day 21: Beginner guide to regex'
 published: true
 ---
 ## Long awaited
+![egrep](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/egrep.jpg)
 
 This has been asked for by many of my mentees.
 
@@ -52,27 +53,27 @@ The range 10 - 99
 
 We split the range to 10 - 90 and 90 - 99.
 
-So for the first digit we have:
+**So for the first digit we have:**
 ```
 [1-9]
 ```
-And for the second digit, we have.
+**And for the second digit, we have.**
 ```
 [0-9]
 ```
 
-Combining the two we have the full range:
+**Combining the two we have the full range:**
 ```
 [1-9][0-9]
 # if we try this we will get 100-900, as we are not specifying start and # end of text
 ```
 
-Start of text is denoted by
+**Start of text is denoted by**
 ```
 ^
 ```
 
-Adding it in the mix:
+**Adding it in the mix:**
 ```
 ^[1-9][0-9]
 ```
@@ -80,7 +81,7 @@ Here, what we are saying is that:
 1st digit starts with 1 to 9.
 And 2nd digit is 0 to 9.
 
-This time, we're matching even more numbers.
+**This time, we're matching even more numbers.**
 ```
 998
 999
@@ -90,19 +91,19 @@ codax@gaming:~/Projects/tests/grep$ cat nonrandom_line_file.txt | egrep '^[1-9][
 
 ```
 
-Adding an "end of text"
-```
+**Adding an "end of text"**
+
 End of text denoted by:
 ```
 $
 ```
 
-Combining everything:
+**Combining everything:**
 ```
 ^[1-9][0-9]$
+```
 
-
-Adding in grep
+**Adding in grep**
 
 ```
 # grep -e or egrep can be used, they are the same
