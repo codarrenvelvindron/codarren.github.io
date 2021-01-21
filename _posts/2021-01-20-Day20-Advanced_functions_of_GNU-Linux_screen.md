@@ -26,7 +26,7 @@ screen -x newone
 ```
 ![multi-displayscreen](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/multi_display_screen.png)
 
-**Result**: Everything I type on Screen1 is immediately visible on screen 2!
+**Result**: Everything I type on Screen1 is immediately visible on screen 2! And vice-versa
 
 I use this mode mainly for teaching people how to use linux.
 
