@@ -99,6 +99,6 @@ They will probably prevent you from changing system settings though.
 But have fun anyway !
 
 ## Credits:
-![pglogo from wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png)
+[pglogo from wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png)
 
 ## \Codarren/
