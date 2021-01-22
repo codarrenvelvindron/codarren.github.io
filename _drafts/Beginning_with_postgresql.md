@@ -2,6 +2,7 @@
 published: false
 ---
 ## Postgresql basics
+![pglogo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png)
 
 Today, we're checking out databases.
 
@@ -96,5 +97,8 @@ You may test your commands on online fiddlers like.
 They will probably prevent you from changing system settings though.
 
 But have fun anyway !
+
+## Credits:
+![pglogo from wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png)
 
 ## \Codarren/
