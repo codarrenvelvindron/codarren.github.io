@@ -25,4 +25,13 @@ Think of it as records that are no longer in use.
 Without autovacuum, your table would be filled up with bloat.
 
 ## Is autovacuum running?
-We can check very fast if 
+We can check very fast if AV (AutoVacuum) is running by using:
+
+```
+show autovacuum;
+```
+
+Result:
+autovacuum
+on
+
