@@ -47,5 +47,13 @@ SELECT * FROM pg_settings WHERE name='autovacuum';
 ```
 name	setting	unit	category	short_desc	extra_desc	context	vartype	source	min_val	max_val	enumvals	boot_val	reset_val	sourcefile	sourceline	pending_restart
 autovacuum	on		Autovacuum	Starts the autovacuum subprocess.		sighup	bool	default				on	on			f
+```
 
+## Does changing a setting require a restart or a reload ?
+This is the most important question for an admin changing a database setting.
+
+To answer this question, we will work a little on our previous query
+
+```
+select name, setting, context from pg_settings where name='autovacuum';
 ```
