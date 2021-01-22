@@ -66,7 +66,9 @@ The context field above gives us the answer.
 
 **Sighup** : Changes can be made to postgresql.conf without restarting the server.
 
-We can change the setting and apply it using
+We can change the setting and apply it using the below:
 ```
+ALTER system SET autovacuum = 'off';
 select pg_reload_conf();
 ```
+
