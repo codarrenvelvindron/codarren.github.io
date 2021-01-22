@@ -72,3 +72,29 @@ ALTER system SET autovacuum = 'off';
 select pg_reload_conf();
 ```
 
+**postmaster** : Changes requires server restart.
+
+In this case, any change will require DB server restart.
+```
+#Right after making your change
+#and exiting the interactive pg session (Ctrl + d)
+#we restart the server
+pg_ctl stop && pg_ctl start
+
+#OR
+
+pg_ctl restart
+```
+
+## Testing ground
+You may test your commands on online fiddlers like.
+
+[dbfiddle.uk](https://dbfiddle.uk)
+
+[sqlfiddle.com](http://sqlfiddle.com/)
+
+They will probably prevent you from changing system settings though.
+
+But have fun anyway !
+
+## \Codarren/
