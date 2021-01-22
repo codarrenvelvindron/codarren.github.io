@@ -57,3 +57,6 @@ To answer this question, we will work a little on our previous query
 ```
 select name, setting, context from pg_settings where name='autovacuum';
 ```
+
+**Result:**
+![result_av_context](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/result_av_context.png)
