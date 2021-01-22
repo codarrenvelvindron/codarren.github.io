@@ -60,3 +60,13 @@ select name, setting, context from pg_settings where name='autovacuum';
 
 **Result:**
 ![result_av_context](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/result_av_context.png)
+
+## Context
+The context field above gives us the answer. 
+
+**Sighup** : Changes can be made to postgresql.conf without restarting the server.
+
+We can change the setting and apply it using
+```
+select pg_reload_conf();
+```
