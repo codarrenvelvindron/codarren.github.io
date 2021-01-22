@@ -31,7 +31,9 @@ We can check very fast if AV (AutoVacuum) is running by using:
 show autovacuum;
 ```
 
-Result:
+**Result**:
+```
 autovacuum
 on
+```
 
