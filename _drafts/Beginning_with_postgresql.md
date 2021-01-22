@@ -2,7 +2,7 @@
 published: false
 ---
 ## Postgresql basics
-![pglogo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/220px-Postgresql_elephant.svg.png)
+![pglogo](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/1024px-Postgresql_elephant.svg.png)
 
 Today, we're checking out databases.
 
