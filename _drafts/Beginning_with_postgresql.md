@@ -37,3 +37,9 @@ autovacuum
 on
 ```
 
+## Alternative for showing settings
+Another command using a more strict syntax involving the pg_settings table would be as follows:
+```
+SELECT * FROM pg_settings WHERE name='autovacuum';
+```
+
