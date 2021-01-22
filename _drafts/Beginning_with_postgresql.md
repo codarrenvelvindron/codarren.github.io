@@ -43,3 +43,9 @@ Another command using a more strict syntax involving the pg_settings table would
 SELECT * FROM pg_settings WHERE name='autovacuum';
 ```
 
+**Result**:
+```
+name	setting	unit	category	short_desc	extra_desc	context	vartype	source	min_val	max_val	enumvals	boot_val	reset_val	sourcefile	sourceline	pending_restart
+autovacuum	on		Autovacuum	Starts the autovacuum subprocess.		sighup	bool	default				on	on			f
+
+```
