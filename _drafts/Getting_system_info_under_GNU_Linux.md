@@ -91,8 +91,12 @@ My VGA is an nvidia not AMD, and so on.
 
 ## USB - lsusb
 ```
-lsusb
+lsusb -t
 ```
+![lcpci](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/lsusb.png)
+The tree format gives us bandwidth information which might be useful.
+
+Say we are physically connecting USB storage to our server, and we want to know the bandwidth available to that server.
 
 ## \Codarren/
 
