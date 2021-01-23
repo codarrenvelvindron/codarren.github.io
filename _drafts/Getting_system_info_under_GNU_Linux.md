@@ -24,9 +24,9 @@ It will give you much more information, but still it's a summary.
 
 
 ### CPU - cat /proc/cpuinfo
-*Unlike lscpu,which summarises all the information.
+*Unlike lscpu,which summarises all the information.*
 
-cpuinfo gives per core information*
+*cpuinfo gives per core information*
 
 ```
 cat /proc/cpuinfo
