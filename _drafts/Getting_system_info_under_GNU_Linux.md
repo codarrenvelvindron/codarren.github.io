@@ -81,12 +81,18 @@ lspci in machine-readable format.
 
 ![lcpci](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/lspci.png)
 
+If you are looking for specific detailed information, use the (-v) flag instead.
+
 Lists all PCI devices/PCI modules of server.
 
 Here, since most of my modules and devices are "ASUSTeK", we can definitely conclude that I'm using an ASUS motherboard.
 
 My VGA is an nvidia not AMD, and so on.
 
+## USB - lsusb
+```
+lsusb
+```
 
 ## \Codarren/
 
