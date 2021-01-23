@@ -83,6 +83,10 @@ lspci in machine-readable format.
 
 Lists all PCI devices/PCI modules of server.
 
+Here, since most of my modules and devices are "ASUSTeK", we can definitely conclude that I'm using an ASUS motherboard.
+
+My VGA is an nvidia not AMD, and so on.
+
 
 ## \Codarren/
 
