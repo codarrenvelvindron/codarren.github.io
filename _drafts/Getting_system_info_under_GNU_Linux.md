@@ -115,6 +115,8 @@ Shows all block devices information.
 
 Disk partitions and stuff.
 
+## That's all folks! Happy Saturday :)
+
 ## \Codarren/
 
 ## Credits
