@@ -106,6 +106,15 @@ We can see here, there are buses of :
 
 USB 3.0 would be 4800Mb/s
 
+## Storage/LVM - lsblk
+```
+lsblk
+```
+![lsblk](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/lsblk.png)
+Shows all block devices information.
+
+Disk partitions and stuff.
+
 ## \Codarren/
 
 ## Credits
