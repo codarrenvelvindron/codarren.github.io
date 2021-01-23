@@ -2,7 +2,7 @@
 published: false
 ---
 ## How many CPU cores you cooking ?
-![intel xeon](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/Intel-Xeon-Platinum-min.jpg)
+![intel xeon](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/Intel-Xeon-Platinum-min_25.jpg)
 
 This is one of the many questions that you may end up asking yourself.
 
