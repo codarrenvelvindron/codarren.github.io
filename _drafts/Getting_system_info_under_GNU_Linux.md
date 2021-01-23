@@ -49,6 +49,41 @@ cat /proc/cpuinfo
 
 I mostly use lscpu due to the fact that it summarizes this information.
 
+## Memory - lsmem
+```
+lsmem
+```
+![lsmem](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/lsmem.png)
+
+Total online memory is the main information we're looking for here!
+
+This means I have 16GB of RAM on this computer (not bad eh!)
+
+## Memory - cat /proc/meminfo
+```
+cat /proc/meminfo
+```
+![meminfo](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/meminfo.png)
+
+Here, MemTotal/MemFree/MemAvailable are of interest.
+
+MemTotal - The total available RAM. 16GB that i have physically installed.
+
+MemFree - The RAM that has been allocated and ready to use by the OS.
+
+MemAvailable - The RAM that is not been allocated but ready to be allocated by the OS for use.
+
+## PCI - lspci
+```
+lspci -m
+```
+lspci in machine-readable format.
+
+![lcpci](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/lspci.png)
+
+Lists all PCI devices/PCI modules of server.
+
+
 ## \Codarren/
 
 ## Credits
