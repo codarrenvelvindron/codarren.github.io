@@ -79,7 +79,7 @@ lspci -m
 ```
 lspci in machine-readable format.
 
-![lcpci](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/lspci.png)
+![lspci](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/lspci.png)
 
 If you are looking for specific detailed information, use the (-v) flag instead.
 
