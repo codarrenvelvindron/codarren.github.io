@@ -98,7 +98,16 @@ The tree format gives us bandwidth information which might be useful.
 
 Say we are physically connecting USB storage to our server, and we want to know the bandwidth available to that server.
 
+We can see here, there are buses of :
+
+480Mb/s which is USB 2.0 and
+
+10000Mb/s, which corresponds to USB 3.1. 
+
+USB 3.0 would be 4800Mb/s
+
 ## \Codarren/
 
 ## Credits
 [wccftech - intel xeon](http://cdn.wccftech.com/wp-content/uploads/2017/05/Intel-Xeon-Platinum.jpg)
+[wikipedia - usb](https://en.wikipedia.org/wiki/USB)
