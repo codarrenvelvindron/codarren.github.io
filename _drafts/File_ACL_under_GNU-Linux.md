@@ -2,6 +2,7 @@
 published: false
 ---
 ## Acess Control Lists
+![getfacl_featured](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/getfacl_featured.png)
 
 There is a transparent way of managing files and directories under GNU/Linux.
 
