@@ -95,3 +95,14 @@ My smartphone (mobile phone) being in the free entry list.
 I just need to scroll down and fill in the Form A.
 
 ![form_filled.png]({{site.baseurl}}/images/form_filled.png)
+
+See above for an example of filled form.
+
+## 7. DONE !
+You will receive a mail with a tracking number.
+
+Once your item is cleared, you will get a number which you have to produce for clearance.
+
+Happy Shopping !
+
+## \Codarren/
