@@ -50,25 +50,25 @@ Head over to the [ICTA website](https://www.icta.mu/)
 
 Choose the "Online Clearance Platform" or go directly to it by clicking this [link](https://www.icta.mu/applyonline/)
 
-![icta_1_login.png]({{site.baseurl}}/images/icta_1_login.png)
+![icta_1_login.png](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/icta_1_login.png)
 
 Now, you register your account and confirm by logging to your email.
 
 
 ## 2. Login to your account
-![login_main.png]({{site.baseurl}}/images/login_main.png)
+![login_main.png](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/login_main.png)
 
 Now, assuming you are not a mass importer of smartphones.
 
 You'll choose the first option "Clearance to import ICT Equipment"
 
 ## 3. Apply for clearance
-![apply_for_clearance.png]({{site.baseurl}}/images/apply_for_clearance.png)
+![apply_for_clearance.png](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/apply_for_clearance.png)
 
 Choose the apply for clearance option.
 
 ## 4. Prohibited list
-![notice.png]({{site.baseurl}}/images/notice.png)
+![notice.png](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/notice.png)
 
 There is a notice that tells you to make sure that you are not importing jamming equipment, military communication equipment, etc..
 
@@ -80,7 +80,7 @@ If all good, click on "Proceed"
 
 ## 5. Proceeding
 
-![individual_pers_use.png]({{site.baseurl}}/images/individual_pers_use.png)
+![individual_pers_use.png](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/individual_pers_use.png)
 
 This guide is only for the home user.
 
@@ -90,13 +90,13 @@ So choose the first option.
 
 ## 6. Filling the form
 
-![application.png]({{site.baseurl}}/images/application.png)
+![application.png](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/application.png)
 
 My smartphone (mobile phone) being in the free entry list.
 
 I just need to scroll down and fill in the Form A.
 
-![form_filled.png]({{site.baseurl}}/images/form_filled.png)
+![form_filled.png](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/form_filled.png)
 
 See above for an example of filled form. (some parts grayed(whited?) for privacy)
 
