@@ -61,8 +61,8 @@ Now, assuming you are not a mass importer of smartphones.
 You'll choose the first option "Clearance to import ICT Equipment"
 
 ## 3. Apply for clearance
-Before you begin.
 ![apply_for_clearance.png]({{site.baseurl}}/images/apply_for_clearance.png)
+
 
 ![notice.png]({{site.baseurl}}/images/notice.png)
 
