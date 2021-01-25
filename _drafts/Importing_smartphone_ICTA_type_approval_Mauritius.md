@@ -65,10 +65,26 @@ You'll choose the first option "Clearance to import ICT Equipment"
 
 Choose the apply for clearance option.
 
-## 4. Proceeding
+## 4. Prohibited list
 ![notice.png]({{site.baseurl}}/images/notice.png)
 
 There is a notice that tells you to make sure that you are not importing jamming equipment, military communication equipment, etc..
 
 Be sure to read the prohibited list carefully.
+
+If your item is prohibited, simply wave goodbye. Flying kiss works too.
+
+If all good, click on "Proceed"
+
+## 5. Proceeding
+
+![individual_pers_use.png]({{site.baseurl}}/images/individual_pers_use.png)
+
+This guide is only for the home user.
+
+That is buying stuff for personal use.
+
+So choose the first option.
+
+## 6. Filling the form
 
