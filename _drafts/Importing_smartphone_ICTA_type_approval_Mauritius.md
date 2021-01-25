@@ -4,6 +4,7 @@ published: false
 ## I bought a mobile online
 
 ![hello moto g8 power](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/motorola-moto-g-power-r1.jpg)
+
 Upon arriving to Mauritius.
 
 I received a notification telling me this:
@@ -12,7 +13,7 @@ Dear Sir,
 
 For all items having WiFi and Bluetooth options, ICTA clearance is needed to proceed with Customs clearance
 ```
-I was able to get clearance from ICTA.
+After some time, I was able to get clearance from ICTA.
 
 I'm going to show you how.
 
