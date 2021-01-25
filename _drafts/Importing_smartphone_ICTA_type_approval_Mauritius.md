@@ -42,3 +42,9 @@ Needless to say, this mobile is unavailable in Mauritius.
 So, I bought it online.
 
 
+## 1. Register an account on the ICTA website
+
+Head over to the [ICTA website](https://www.icta.mu/)
+
+Choose the "Online Clearance Platform" or go directly to it by clicking this [link](https://www.icta.mu/applyonline/)
+
