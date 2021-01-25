@@ -6,7 +6,7 @@ published: false
 
 This is one of the many questions that you may end up asking yourself.
 
-Luckily for you, I'm here with all the answers for your questions.
+Luckily for you, I'm here with all the answers to your questions.
 
 Let's get into it
 ## CPU - lscpu
@@ -16,17 +16,10 @@ lscpu
 ```
 ![lscpu](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/lscpu.png)
 
-Normally, on Redhat-based OSes, lscpu will only give you the number of cores you have.
-
-But on Debian-based OSes, newer ones particularly.
-
-It will give you much more information, but still it's a summary.
-
-
 The neat information that lscpu gives in this case is the number of cores as well as the number of 
 physical sockets.
 
-It means that physically i have only one CPU on my motherboard (which is true).
+It means that physically i have only one CPU in one socket on my motherboard (which is true).
 
 The concept of sockets and cores is useful for virtual machines.
 
