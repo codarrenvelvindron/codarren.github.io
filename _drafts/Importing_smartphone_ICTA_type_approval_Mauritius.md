@@ -70,5 +70,5 @@ Choose the apply for clearance option.
 
 There is a notice that tells you to make sure that you are not importing jamming equipment, military communication equipment, etc..
 
-Be sure to read the prohibited list too.
+Be sure to read the prohibited list carefully.
 
