@@ -48,3 +48,4 @@ Head over to the [ICTA website](https://www.icta.mu/)
 
 Choose the "Online Clearance Platform" or go directly to it by clicking this [link](https://www.icta.mu/applyonline/)
 
+![icta_1_login.png]({{site.baseurl}}/images/icta_1_login.png)
