@@ -56,3 +56,8 @@ Now, you register your account and confirm by logging to your email.
 ## 2. Login to your account
 ![login_main.png]({{site.baseurl}}/images/login_main.png)
 
+Now, assuming you are not a mass importer of smartphones.
+
+You'll choose the first option "Clearance to import ICT Equipment"
+
+
