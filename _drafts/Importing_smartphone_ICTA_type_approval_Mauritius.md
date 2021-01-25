@@ -101,7 +101,9 @@ See above for an example of filled form. (some parts grayed(whited?) for privacy
 ## 7. DONE !
 You will receive a mail with a tracking number.
 
-Once your item is cleared, you will get a number which you have to produce for clearance.
+Once your item is cleared, you will get a number which you have to produce for clearance on your email.
+
+They are quick, it took me less than **2 working days to be cleared!**
 
 Happy Shopping !
 
