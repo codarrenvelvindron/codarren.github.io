@@ -88,3 +88,10 @@ So choose the first option.
 
 ## 6. Filling the form
 
+![application.png]({{site.baseurl}}/images/application.png)
+
+My smartphone (mobile phone) being in the free entry list.
+
+I just need to scroll down and fill in the Form A.
+
+![form_filled.png]({{site.baseurl}}/images/form_filled.png)
