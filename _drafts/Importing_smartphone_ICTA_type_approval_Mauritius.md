@@ -96,7 +96,7 @@ I just need to scroll down and fill in the Form A.
 
 ![form_filled.png]({{site.baseurl}}/images/form_filled.png)
 
-See above for an example of filled form.
+See above for an example of filled form. (some parts grayed(whited?) for privacy)
 
 ## 7. DONE !
 You will receive a mail with a tracking number.
