@@ -63,6 +63,12 @@ You'll choose the first option "Clearance to import ICT Equipment"
 ## 3. Apply for clearance
 ![apply_for_clearance.png]({{site.baseurl}}/images/apply_for_clearance.png)
 
+Choose the apply for clearance option.
 
+## 4. Proceeding
 ![notice.png]({{site.baseurl}}/images/notice.png)
+
+There is a notice that tells you to make sure that you are not importing jamming equipment, military communication equipment, etc..
+
+Be sure to read the prohibited list too.
 
