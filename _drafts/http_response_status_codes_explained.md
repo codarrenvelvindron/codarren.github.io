@@ -54,11 +54,19 @@ Client has no permission to access some resource.
 
 **403 --> Forbidden**
 You are trying to access something you have no right to.
+
 As opposed to 401, in this case you are already known to the server.
 
 **404 --> Not Found**
+The server cannot find the resource you are looking for.
 
+Normally, there is an issue with your URL.
 
+Either the page does not exist on the server or you mistyped.
+
+![404_google.png](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/404_google.png)
+
+In the image above, I typed in an url that doesn't exists for google and it responds with a 404.
 
 ## Credits/References
 [RFC 2616 Section10](https://tools.ietf.org/html/rfc2616#section-10)
