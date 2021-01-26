@@ -19,7 +19,7 @@ When you go to a website and it loads correctly.
 Chances are you got a response code of:
 **200 --> OK**
 
-Why you don't see them is another story?
+Why you don't see them is another story.
 
 When everything is working perfectly fine, you just don't need to worry.
 
