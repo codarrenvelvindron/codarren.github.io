@@ -68,6 +68,26 @@ Either the page does not exist on the server or you mistyped.
 
 In the image above, I typed in an url that doesn't exists for google and it responds with a 404.
 
+## Server Error - 50x
+I want to stress that all status codes of this class are **server** errors.
+
+For a message like this, there is no doubt that your server is the root cause of the problem.
+
+**500 --> Internal Server Error**
+Server is in an exceptional state.
+
+This means, it doesn't know how to handle your request.
+
+As per it's normal functioning, it cannot respond to your request except with a 500.
+
+**502 --> Bad Gateway**
+The server was doing the role of the gateway/proxy but didn't receive a response from the main server.
+
+**503 --> Service Unavailable**
+Server not ready to respond to the request.
+
+Server may be in maintenance or currently overloaded or under DDoS attack?
+
 ## Credits/References
 [RFC 2616 Section10](https://tools.ietf.org/html/rfc2616#section-10)
 [RFC 7231](https://tools.ietf.org/html/rfc7231#section-6.5.1)
