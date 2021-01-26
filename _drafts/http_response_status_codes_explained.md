@@ -38,3 +38,29 @@ This means that the URL of the resource has been changed permanently.
 **302 --> Found**
 URL of the resource changed temporarily as opposed to a 301.
 
+## Client Error - 40x
+
+This is the class of the most common and the least understood.
+
+When you get any error of this class, it's usually by YOUR mistake as a client/user/browser.
+
+See, assuming that the web application you're trying to access is well configured, you should not be getting any 40x errors.
+
+**400 --> Bad Request**
+Server cannot understand request --> invalid syntax
+
+**401 --> Unauthorized**
+Client has no permission to access some resource.
+
+**403 --> Forbidden**
+You are trying to access something you have no right to.
+As opposed to 401, in this case you are already known to the server.
+
+**404 --> Not Found**
+
+
+
+## Credits/References
+[RFC 2616 Section10](https://tools.ietf.org/html/rfc2616#section-10)
+[RFC 7231](https://tools.ietf.org/html/rfc7231#section-6.5.1)
+[Wikipedia status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
