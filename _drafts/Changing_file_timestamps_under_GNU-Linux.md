@@ -76,7 +76,6 @@ Once this is done, the Modify time changes to current.
 ## Change
 Change will record any modification done to the file.
 
-If we are to displace it, change its permission, anything.
 ```
 codax@gaming:~/docs/filets_test$ chmod +x activity_01012021.txt 
 codax@gaming:~/docs/filets_test$ stat activity_01012021.txt 
@@ -90,3 +89,5 @@ Change: 2021-01-27 22:24:15.972858955 +0400
  Birth: -
 
 ```
+If we are to displace it, change its permission, anything.
+
