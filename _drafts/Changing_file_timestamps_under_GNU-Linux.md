@@ -115,7 +115,36 @@ But the ctime is still set to current time.
 That is normal as ctime will just record our action(s) time.
 
 ## How do we change ctime ?
+The trick/reasoning is to go back in time.
 
+Change the time and then come back.
+
+We can change that time using below commnad:
+```
+codax@gaming:~/docs/filets_test$ sudo bash -c 'NOW=$(date +@%s); date -s "$2"; touch "$1"; date -s "$NOW"' -- \
+>                 "activity_01012021.txt" "2020-01-01 08:30:01"
+mer  1 zan 08:30:01 +04 2020
+mer 27 zan 22:39:00 +04 2021
+
+```
+
+## Magic file
+```
+codax@gaming:~/docs/filets_test$ stat activity_01012021.txt 
+  File: activity_01012021.txt
+  Size: 535       	Blocks: 8          IO Block: 4096   regular file
+Device: fd00h/64768d	Inode: 9701454     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/   codax)   Gid: ( 1000/   codax)
+Access: 2020-01-01 08:30:01.000000000 +0400
+Modify: 2020-01-01 08:30:01.000000000 +0400
+Change: 2020-01-01 08:30:01.000000000 +0400
+ Birth: -
+```
+The file's metadata has been changed. 
+
+It went back in time.
 
 ## Sources
 [ctime change](https://unix.stackexchange.com/questions/36021/how-can-i-change-change-date-of-file)
+
+## \Codarren/
