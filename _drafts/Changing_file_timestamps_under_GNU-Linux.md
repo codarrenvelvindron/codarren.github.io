@@ -108,3 +108,14 @@ Modify: 2020-01-01 08:30:01.000000000 +0400
 Change: 2021-01-27 22:28:54.374224115 +0400
  Birth: -
 ```
+We see here that both were set to a time in the past.
+
+But the ctime is still set to current time.
+
+That is normal as ctime will just record our action(s) time.
+
+## How do we change ctime ?
+
+
+## Sources
+[ctime change](https://unix.stackexchange.com/questions/36021/how-can-i-change-change-date-of-file)
