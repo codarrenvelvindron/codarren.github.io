@@ -76,4 +76,17 @@ Once this is done, the Modify time changes to current.
 ## Change
 Change will record any modification done to the file.
 
-If we are to displace it, change its permission anything.
+If we are to displace it, change its permission, anything.
+```
+codax@gaming:~/docs/filets_test$ chmod +x activity_01012021.txt 
+codax@gaming:~/docs/filets_test$ stat activity_01012021.txt 
+  File: activity_01012021.txt
+  Size: 535       	Blocks: 8          IO Block: 4096   regular file
+Device: fd00h/64768d	Inode: 9701454     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/   codax)   Gid: ( 1000/   codax)
+Access: 2021-01-27 22:17:13.406678752 +0400
+Modify: 2021-01-27 22:20:00.050111368 +0400
+Change: 2021-01-27 22:24:15.972858955 +0400
+ Birth: -
+
+```
