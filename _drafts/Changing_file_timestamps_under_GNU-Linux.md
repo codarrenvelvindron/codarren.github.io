@@ -93,5 +93,18 @@ If we are to displace it, change its permission, anything.
 
 This field would get invariably populated with the current time
 
+## Touching modify and access
+We can modify both the Modify time(or mtime) and access Time (atime)
 
-
+```
+codax@gaming:~/docs/filets_test$ touch -d "2020-01-01 08:30:01" activity_01012021.txt 
+codax@gaming:~/docs/filets_test$ stat activity_01012021.txt 
+  File: activity_01012021.txt
+  Size: 535       	Blocks: 8          IO Block: 4096   regular file
+Device: fd00h/64768d	Inode: 9701454     Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/   codax)   Gid: ( 1000/   codax)
+Access: 2020-01-01 08:30:01.000000000 +0400
+Modify: 2020-01-01 08:30:01.000000000 +0400
+Change: 2021-01-27 22:28:54.374224115 +0400
+ Birth: -
+```
