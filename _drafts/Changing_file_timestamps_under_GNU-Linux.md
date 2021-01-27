@@ -3,6 +3,8 @@ published: false
 ---
 ## Securitay
 
+![featured stat](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/stat.png)
+
 A nice skill to have is masking or hiding information.
 
 You must know how the bad guys are doing it to be able to go after them.
