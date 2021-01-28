@@ -2,6 +2,7 @@
 published: false
 ---
 ## A port
+![portcheck_featured](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/port_check.png)
 
 Think of a port as a running application.
 
@@ -89,8 +90,6 @@ echo -e '\x1dclose\x0d' | timeout --signal=9 2 telnet $1 $2
 
 if [[ $? -eq 0 ]];then
   echo "Host $1 on port $2 --> connection success!"
-elif [[ $? -eq 137 ]];then
-  echo "Host $1 on port $2 --> connection attempt timeout!"
 else
   echo "Host $1 on port $2 --> exception found!"
 fi
@@ -102,5 +101,66 @@ chmod +x testport.sh
 
 ## Run your test
 ```
-./testport.sh blog.codarren.com 443
+codax@gaming:~/docs/testport$ ./testport.sh blog.codarren.com 443
+Trying 104.21.40.91...
+Connected to blog.codarren.com.
+Escape character is '^]'.
+
+telnet> close
+Connection closed.
+Host blog.codarren.com on port 443 --> connection success!
+codax@gaming:~/docs/testport$ ./testport.sh blog.codarren.com 22
+Trying 104.21.40.91...
+./testport.sh: line 2: 21198 Done                    echo -e '\x1dclose\x0d'
+     21199 Killed                  | timeout --signal=9 2 telnet $1 $2
+Host blog.codarren.com on port 22 --> timed out!
 ```
+
+## It works, let's make it pretty
+When putting the command in a variable, the output becomes a bit different.
+
+I test to know what is the output it gives out.
+```
+#!/bin/bash
+comm=$(echo -e '\x1dclose\x0d' | timeout --signal=9 2 telnet $1 $2)
+#echo -e '\x1dclose\x0d' | timeout --signal=9 2 telnet $1 $2 >/dev/null 2>&1
+$comm  >/dev/null 2>&1
+echo $?
+if [[ $? -eq 127 ]];then
+  echo "Host $1 on port $2 --> connection success!"
+else
+  echo "Host $1 on port $2 --> timed out!"
+  sleep 1
+fi
+```
+
+Notice that i'm using echo $?
+
+This gives me the exit code.
+
+As soon as i got the proper exit codes, I comment 'echo $?' as it will affect the output of my if clause.
+
+## Final version
+```
+#!/bin/bash
+comm=$(echo -e '\x1dclose\x0d' | timeout --signal=9 2 telnet $1 $2)
+#echo -e '\x1dclose\x0d' | timeout --signal=9 2 telnet $1 $2 >/dev/null 2>&1
+$comm  >/dev/null 2>&1
+#echo $?
+if [[ $? -eq 127 ]];then
+  echo "Host $1 on port $2 --> connection success!"
+else
+  echo "Host $1 on port $2 --> timed out!"
+  sleep 1
+fi
+
+
+# OUTPUT TEST
+codax@gaming:~/docs/testport$ ./testport.sh blog.codarren.com 22
+Host blog.codarren.com on port 22 --> timed out!
+codax@gaming:~/docs/testport$ ./testport.sh blog.codarren.com 443
+Host blog.codarren.com on port 443 --> connection success!
+```
+Success !
+
+## \Codarren/
