@@ -149,7 +149,7 @@ comm=$(echo -e '\x1dclose\x0d' | timeout --signal=9 2 telnet $1 $2)
 #echo -e '\x1dclose\x0d' | timeout --signal=9 2 telnet $1 $2 >/dev/null 2>&1
 $comm  >/dev/null 2>&1
 #echo $?
-if [[ $? -eq 127 ]];then
+if [[ $? -eq 137 ]];then
   echo "Host $1 on port $2 --> connection success!"
 else
   echo "Host $1 on port $2 --> timed out!"
