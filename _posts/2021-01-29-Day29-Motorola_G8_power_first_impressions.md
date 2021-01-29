@@ -70,7 +70,8 @@ Wait, we'll list some points to see if it is.
 
 7. The price
  - Did I say that mobile cost me less than $200 ?
-
+ - See my guide on the steps to [import a smartphone here](https://blog.codarren.com/Day25-Importing_smartphone_ICTA_type_approval_Mauritius/)
+ 
 8. The battery
  - Uptime 5 hours, 2 hour videos, 93% battery.
  - Updated all apps
