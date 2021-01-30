@@ -114,6 +114,7 @@ pinger
 ```
 
 Launching the ping checker.
+![ping checker bash arguments functions](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/ping_checker.png)
 
 ## Case study
 
