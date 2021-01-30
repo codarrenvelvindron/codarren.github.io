@@ -83,11 +83,12 @@ target_site=$1
 
 #we then create our function
 function pinger {
-ping $1
+ping $target_site
 }
 
 #we then run the function
-pinger $1
+pinger
+
 ```
 
 ## Case study
