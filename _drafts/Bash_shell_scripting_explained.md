@@ -34,4 +34,4 @@ Variables are simple to create.
     ```
 Because we are using the previously set variable, we need to interprete(expand) document_file variable
 
-3. 
+![bash variables linux](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/result_b1.png)
