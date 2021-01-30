@@ -60,5 +60,9 @@ codax@gaming:~/docs/bash_scripting$ cat commands.sh
 #!/bin/bash
 
 cat vars.sh
-
 ```
+
+This is the simplest shell script you can make with a single command.
+
+But you can add up as many commands as you would require.
+
