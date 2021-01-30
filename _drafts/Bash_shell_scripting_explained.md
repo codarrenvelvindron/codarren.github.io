@@ -129,7 +129,45 @@ We first make a copy of ping_checker
 codax@gaming:~/docs/bash_scripting$ cp -p ping_checker.sh ping_checker_v2.sh
 ```
 
-We modify the ping line to send the results to a text file
+We modify the ping line to send the results to a text file.
+```
+ping -c3 $target_site > ${target_site}_ping.txt
 ```
 
+Once done, we'll read back this file and get the necessary details.
+```
+cat ${target_site}_ping.txt | tail -n1 | rev | cut -d "/" -f3 | rev
+```
+We read the file, we take the last line, reverse the string.
+
+We then take the 3rd slash (we want the average ping), then we reverse it again,
+
+On the last reverse, we get the original string.
+
+** Final script **
+```
+codax@gaming:~/docs/bash_scripting$ cat ping_checker_v2.sh
+#!/bin/bash
+#By CVE
+#License MIT
+#Ping checker gets the average ping of any site
+#30/01/2021
+
+#we first initialise the variable to signify our first argument
+target_site="$1"
+ping_results="${target_site}_ping.txt"
+
+#we then create our function
+function pinger {
+ping -c3 $target_site > $ping_results
+}
+
+function get_avg {
+avg_ping=$(cat $ping_results | tail -n1 | rev | cut -d "/" -f3 | rev)
+echo "Average ping of $target_site is $avg_ping"
+}
+
+#we then run the functions
+pinger
+get_avg
 ```
