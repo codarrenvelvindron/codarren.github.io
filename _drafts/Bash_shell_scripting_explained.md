@@ -24,9 +24,10 @@ And most importantly, we are reusing 'normal' system commands.
 Variables are simple to create.
 
 1. Single quotes(') for strings that would normally not change and needs no interpretation.
-    Directory variable
+    ```
+    #Directory variable
     docs_directory='/usr/local/lib/docs'
-
+	```
 2. Double quotes
 
 
