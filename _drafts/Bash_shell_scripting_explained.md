@@ -66,3 +66,34 @@ This is the simplest shell script you can make with a single command.
 
 But you can add up as many commands as you would require.
 
+## Arguments
+There are positional arguments that you can use while invoking a bash script.
+
+This is handy for cases where you need to do a lot of quick testing.
+
+The first argument would be $1, second is $2 and so on...
+
+Say we want to do a ping on a website.
+
+```
+#!/bin/bash
+
+#we first initialise the variable to signify our first argument
+target_site=$1
+
+#we then create our function
+function pinger {
+ping $1
+}
+
+#we then run the function
+pinger
+```
+
+## Case study
+
+Let's say we want to check 
+```
+
+```
+
