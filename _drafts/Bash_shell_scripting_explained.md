@@ -66,7 +66,7 @@ This is the simplest shell script you can make with a single command.
 
 But you can add up as many commands as you would require.
 
-## Arguments
+## Arguments and functions
 There are positional arguments that you can use while invoking a bash script.
 
 This is handy for cases where you need to do a lot of quick testing.
