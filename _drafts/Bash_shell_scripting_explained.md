@@ -145,32 +145,8 @@ We then take the 3rd slash (we want the average ping), then we reverse it again,
 On the last reverse, we get the original string.
 
 ** Final script **
-```
-codax@gaming:~/docs/bash_scripting$ cat ping_checker_v2.sh
-#!/bin/bash
-#By CVE
-#License MIT
-#Ping checker gets the average ping of any site
-#30/01/2021
+<script src="https://gist.github.com/codarrenvelvindron/318a432bd07b758fc9c70e4225392b5e.js"></script>
 
-#we first initialise the variable to signify our first argument
-target_site="$1"
-ping_results="${target_site}_ping.txt"
-
-#we then create our function
-function pinger {
-ping -c3 $target_site > $ping_results
-}
-
-function get_avg {
-avg_ping=$(cat $ping_results | tail -n1 | rev | cut -d "/" -f3 | rev)
-echo "Average ping of $target_site is $avg_ping"
-}
-
-#we then run the functions
-pinger
-get_avg
-```
-
+![avg ping](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/testing_final_avg_ping.png)
 
 ## \Codarren/
