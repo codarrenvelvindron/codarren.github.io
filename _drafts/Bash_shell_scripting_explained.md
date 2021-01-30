@@ -106,7 +106,7 @@ target_site=$1
 
 #we then create our function
 function pinger {
-ping $target_site
+ping -c3 target_site
 }
 
 #we then run the function
