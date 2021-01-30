@@ -54,3 +54,11 @@ cat vars.sh
 ```
 
 ![bash vars commands](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bash_variables_commands.png)
+
+```
+codax@gaming:~/docs/bash_scripting$ cat commands.sh 
+#!/bin/bash
+
+cat vars.sh
+
+```
