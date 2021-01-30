@@ -73,6 +73,11 @@ This is handy for cases where you need to do a lot of quick testing.
 
 The first argument would be $1, second is $2 and so on...
 
+Functions on the other hand are simple to initialise
+```
+function func_name { }
+```
+
 Say we want to do a ping on a website.
 
 ```
