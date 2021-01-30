@@ -33,6 +33,7 @@ Variables are simple to create.
     document_file="$docs_directory/mydocument.txt"
     ```
 Because we are using the previously set variable, we need to interprete(expand) document_file variable
+
 ```
 #!/bin/bash
 
