@@ -80,7 +80,11 @@ function func_name { }
 
 Say we want to do a ping on a website.
 
+
 ```
+vim ping_checker.sh
+
+
 #!/bin/bash
 
 #we first initialise the variable to signify our first argument
@@ -93,7 +97,6 @@ ping $target_site
 
 #we then run the function
 pinger
-
 ```
 
 ## Case study
