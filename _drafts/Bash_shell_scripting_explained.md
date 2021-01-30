@@ -28,6 +28,10 @@ Variables are simple to create.
     #Directory variable
     docs_directory='/usr/local/lib/docs'
 	```
-2. Double quotes
+2. Double quotes would be used for strings that require interpretation and change dynamically.
+	```
+    document_file="$docs_directory/mydocument.txt"
+    ```
+Because we are using the previously set variable, we need to interprete(expand) document_file variable
 
-
+3. 
