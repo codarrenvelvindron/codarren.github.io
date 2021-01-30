@@ -33,5 +33,20 @@ Variables are simple to create.
     document_file="$docs_directory/mydocument.txt"
     ```
 Because we are using the previously set variable, we need to interprete(expand) document_file variable
+```
+#!/bin/bash
+
+docs_directory='/usr/local/lib/docs'
+document_file="$docs_directory/mydocument.txt"
+
+echo "Document Directory: $docs_directory"
+echo "Document File: $document_file"
+```
 
 ![bash variables linux](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/result_b1.png)
+
+## Commands
+As you would run commands under GNU/Linux, the same principle applies for shell.
+
+```
+```
