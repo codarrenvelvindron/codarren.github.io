@@ -1,0 +1,32 @@
+---
+published: false
+---
+## Shell scripting
+
+I'd like to see more people doing shell scripting.
+
+## Shell v/s Powershell
+Unlike Powershell, GNU/Linux shell scripting is easily remembered.
+
+
+I remember the first time I was checking out Powershell.
+
+God forgive, the commands were so long and so senseless.
+
+
+GNU/Linux shell scripting is very different from Powershell.
+
+The syntax themselves are very simple.
+
+And most importantly, we are reusing 'normal' system commands.
+
+## Variables
+Variables are simple to create.
+
+1. Single quotes(') for strings that would normally not change and needs no interpretation.
+    # Directory variable
+    docs_directory='/usr/local/lib/docs'
+
+2. Double quotes
+
+
