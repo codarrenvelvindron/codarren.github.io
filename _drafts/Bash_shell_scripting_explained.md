@@ -87,7 +87,7 @@ ping $1
 }
 
 #we then run the function
-pinger
+pinger $1
 ```
 
 ## Case study
