@@ -106,7 +106,7 @@ target_site=$1
 
 #we then create our function
 function pinger {
-ping -c3 target_site
+ping -c3 $target_site
 }
 
 #we then run the function
@@ -118,8 +118,18 @@ Launching the ping checker.
 
 ## Case study
 
-Let's say we want to check 
+Let's say we want to check not only the ping
+
+But also return the average after 3 ping attempts.
+
+All this without showing the details of each ping request.
+
+We first make a copy of ping_checker
+```
+codax@gaming:~/docs/bash_scripting$ cp -p ping_checker.sh ping_checker_v2.sh
+```
+
+We modify the ping line to send the results to a text file
 ```
 
 ```
-
