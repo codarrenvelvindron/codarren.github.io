@@ -84,7 +84,7 @@ Say we want to do a ping on a website.
 ```
 vim ping_checker.sh
 
-
+#ping_checker.sh contents below
 #!/bin/bash
 
 #we first initialise the variable to signify our first argument
