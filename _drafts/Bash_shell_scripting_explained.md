@@ -146,8 +146,8 @@ On the last reverse, we get the original string.
 
 **Final script**
 
-<script src="https://gist.github.com/codarrenvelvindron/318a432bd07b758fc9c70e4225392b5e.js"></script>
-
 ![avg ping](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/testing_final_avg_ping.png)
+
+<script src="https://gist.github.com/codarrenvelvindron/318a432bd07b758fc9c70e4225392b5e.js"></script>
 
 ## \Codarren/
