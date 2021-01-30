@@ -80,7 +80,21 @@ function func_name { }
 
 Say we want to do a ping on a website.
 
+By default a ping goes infinitely
+```
+codax@gaming:~/docs/bash_scripting$ ping google.com
+PING google.com (216.58.223.110) 56(84) bytes of data.
+64 bytes from mba01s08-in-f14.1e100.net (216.58.223.110): icmp_seq=1 ttl=118 time=43.7 ms
+64 bytes from mba01s08-in-f14.1e100.net (216.58.223.110): icmp_seq=2 ttl=118 time=41.4 ms
+64 bytes from mba01s08-in-f14.1e100.net (216.58.223.110): icmp_seq=3 ttl=118 time=42.8 ms
+64 bytes from mba01s08-in-f14.1e100.net (216.58.223.110): icmp_seq=4 ttl=118 time=41.2 ms
+64 bytes from mba01s08-in-f14.1e100.net (216.58.223.110): icmp_seq=5 ttl=118 time=42.3 ms
+64 bytes from mba01s08-in-f14.1e100.net (216.58.223.110): icmp_seq=6 ttl=118 time=45.1 ms
+64 bytes from mba01s08-in-f14.1e100.net (216.58.223.110): icmp_seq=7 ttl=118 time=42.6 ms
 
+```
+
+Let's restrict it to a count of 3
 ```
 vim ping_checker.sh
 
@@ -98,6 +112,8 @@ ping $target_site
 #we then run the function
 pinger
 ```
+
+Launching the ping checker.
 
 ## Case study
 
