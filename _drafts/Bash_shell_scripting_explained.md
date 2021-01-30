@@ -50,4 +50,7 @@ echo "Document File: $document_file"
 As you would run commands under GNU/Linux, the same principle applies for shell.
 
 ```
+cat vars.sh
 ```
+
+![bash vars commands](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bash_variables_commands.png)
