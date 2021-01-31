@@ -2,7 +2,7 @@
 published: false
 ---
 ## SQLi
-
+![sql injection featured](https://www.welivesecurity.com/wp-content/uploads/2017/08/black_hat-e1502433391631.jpg)
 SQL injection is something we hear about in the news quite often.
 
 ## Injection attacks
@@ -53,5 +53,13 @@ If you see a message like this.
 It means that you are interfacing directly with the Database, behind the web application.
 
 Hope SQLi is clearer to you now :)
+
+## Credits
+
+
+[sql injection featured](https://www.welivesecurity.com/wp-content/uploads/2017/08/black_hat-e1502433391631.jpg)
+
+[wikipedia definition](https://en.wikipedia.org/wiki/SQL_injection)
+
 
 ## \ Codarren /
