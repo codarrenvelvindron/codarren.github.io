@@ -56,8 +56,7 @@ Hope SQLi is clearer to you now :)
 
 ## Credits
 
-
-[sql injection featured](https://www.welivesecurity.com/wp-content/uploads/2017/08/black_hat-e1502433391631.jpg)
+[sql injection featured from welivesecurity.com](https://www.welivesecurity.com/wp-content/uploads/2017/08/black_hat-e1502433391631.jpg)
 
 [wikipedia definition](https://en.wikipedia.org/wiki/SQL_injection)
 
