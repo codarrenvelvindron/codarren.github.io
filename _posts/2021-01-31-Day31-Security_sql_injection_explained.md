@@ -4,7 +4,7 @@ title: 'Day 31: Security sql injection explained'
 published: true
 ---
 ## SQLi
-![sql injection featured](https://www.welivesecurity.com/wp-content/uploads/2017/08/black_hat-e1502433391631.jpg)
+![sql injection featured](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/black_hat-e1502433391631.jpg)
 
 SQL injection is something we hear about in the news quite often.
 
