@@ -46,4 +46,6 @@ There are numerous mechanisms that many sites are already using.
 ## Credits
 [Wasp featured image](https://www.bluecrossanimalhospital.ca/pet-hazards/beeswasps-stings-and-your-pet/)
 
+[owasp top 10](https://owasp.org/www-project-top-ten/)
+
 ## \Codarren/
