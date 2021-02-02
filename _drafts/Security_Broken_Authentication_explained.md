@@ -1,7 +1,8 @@
 ---
 published: false
 ---
-## OWASP 2
+## OWASP number 2
+![owasp](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/wasp-on-flower-480x320.jpg)
 
 This is a widespread vulnerability as per OWASP top 10.
 
@@ -41,5 +42,8 @@ There are numerous mechanisms that many sites are already using.
 4. Passwords for users should have a certain length and complexity to be accepted.
 
 5. Session management is crucial, and it is important that the session IDs be expired after logout or long idleness.
+
+## Credits
+[Wasp featured image](https://www.bluecrossanimalhospital.ca/pet-hazards/beeswasps-stings-and-your-pet/)
 
 ## \Codarren/
