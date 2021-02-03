@@ -54,13 +54,13 @@ We could clear the temporary bluetooth cache and get it working.
 1. On your mobile, go to Settings
 
 2. Select Apps & Notifications
-![bt2](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt1.png)
+![bt2](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt2.png)
 
 3. Select "See all xxx apps"
 ![bt3](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt3.png)
 
 4. On the right (3 vertical dots), select "show System".
-![bt2](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt2.png)
+![bt2](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt1.png)
 It will show you all apps that belong to the OS.
 
 5. Locate bluetooth app
