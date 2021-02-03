@@ -59,6 +59,12 @@ We could clear the temporary bluetooth cache and get it working.
 3. Select "See all xxx apps"
 ![bt3](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt3.png)
 
+4. On the right (3 vertical dots), select "show System".
+
+It will show you all apps that belong to the OS.
+
+5. Locate bluetoothe app
+![bt4](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt4.png)
 
 5. Clear cache and clear storage
 ![bt5](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt5.png)
