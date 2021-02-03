@@ -57,7 +57,7 @@ We could clear the temporary bluetooth cache and get it working.
 ![bt2](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt1.png)
 
 3. Select "See all xxx apps"
-![bt3](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt4.png)
+![bt3](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt3.png)
 
 
 5. Clear cache and clear storage
