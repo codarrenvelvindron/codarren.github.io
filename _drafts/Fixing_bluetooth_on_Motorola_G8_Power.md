@@ -78,4 +78,4 @@ That did it for me.
 
 You should now pair your mobile back to the bluetooth device.
 
-# \ Codarren /
+## \ Codarren /
