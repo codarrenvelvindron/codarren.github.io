@@ -54,7 +54,7 @@ We could clear the temporary bluetooth cache and get it working.
 1. On your mobile, go to Settings
 
 2. Select Apps & Notifications
-![bt1](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt1.png)
+![bt2](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt1.png)
 
 3.
 
