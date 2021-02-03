@@ -56,7 +56,9 @@ We could clear the temporary bluetooth cache and get it working.
 2. Select Apps & Notifications
 ![bt2](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt1.png)
 
-3.
+3. Select "See all xxx apps"
+![bt3](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt4.png)
+
 
 5. Clear cache and clear storage
 ![bt5](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/bt5.png)
