@@ -95,6 +95,24 @@ We'll let it run for now.
 
 It shall update with the correct password in a matter of hours!
 
+## Done
+It took 11 minutes to crack a 6 letter password.
+
+```
+CRP290           (/home/codax/Downloads/secret_doc.pdf)     
+3 1g 0:00:10:40 DONE (2021-02-04 23:15) 0.001560g/s 56733p/s 56733c/s 56733C/s COV23S..COV235
+2 0g 0:00:11:00 DONE (2021-02-04 23:15) 0g/s 57052p/s 57052c/s 57052C/s CRYMJN..CRYMJZ
+1 0g 0:00:11:00 DONE (2021-02-04 23:15) 0g/s 56818p/s 56818c/s 56818C/s CRLDUA..CRLDUM
+Waiting for 3 children to terminate
+4 0g 0:00:11:00 DONE (2021-02-04 23:15) 0g/s 56748p/s 56748c/s 56748C/s CRHGF6..CRHGGH
+Use the "--show --format=PDF" options to display all of the cracked passwords reliably
+Session completed. 
+
+real	11m0.068s
+user	41m4.390s
+sys	0m6.800s
+```
+
 ## Credits
 [Featured image johntheripper](https://static.techspot.com/images2/downloads/topdownload/2017/05/jtr.png)
 
