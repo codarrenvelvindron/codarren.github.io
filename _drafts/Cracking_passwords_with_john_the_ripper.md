@@ -9,7 +9,7 @@ John is a utility developed by [openwall](https://www.openwall.com/john/) as a p
 ## Installing John the ripper jumbo on Ubuntu
 [A good tutorial here](https://linuxreference.wordpress.com/2019/06/07/howto-install-john-the-ripper-in-ubuntu-18-04/)
 
-
+Jumbo includes pdf extensions.
 
 ## Using a test document
 1. Open libre office
