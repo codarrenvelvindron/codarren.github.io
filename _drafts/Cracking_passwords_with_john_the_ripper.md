@@ -22,3 +22,9 @@ sudo apt install john -y
 
 ![pdf new pass](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/pdf_save_password.png)
 
+## I forgot my pass !
+I remember it was 3 letters and 3 numbers.
+
+Let's use John the ripper and 'fortunately' recover my very important content.
+
+##
