@@ -36,4 +36,8 @@ crunch 6 6 ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 > /tmp/Wordlist.txt
 ```
 Btw a wordlist of 6 characters weighs 14GB.
 
+## We create a hash of our pdf file
+
+Can be done online now, using [this site](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php)
+
 ## Let's rip it now
