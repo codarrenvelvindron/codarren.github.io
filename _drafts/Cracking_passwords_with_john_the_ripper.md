@@ -57,3 +57,6 @@ Warning: OpenMP was disabled due to --fork; a non-OpenMP build may be faster
 Node numbers 1-4 of 4 (fork)
 Press 'q' or Ctrl-C to abort, almost any other key for status
 ```
+
+Above, we're using 4 cpu cores in parallel to speed up the password recovery.
+
