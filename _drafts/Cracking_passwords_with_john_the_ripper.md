@@ -60,3 +60,4 @@ Press 'q' or Ctrl-C to abort, almost any other key for status
 
 Above, we're using 4 cpu cores in parallel to speed up the password recovery.
 
+We are trying out all possible 6 character combinations amounting to 2176782336 combis.
