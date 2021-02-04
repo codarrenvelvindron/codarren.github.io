@@ -92,4 +92,7 @@ We'll let it run for now.
 
 It shall update with the correct password in a matter of hours!
 
+## Credits
+[Featured image johntheripper](https://static.techspot.com/images2/downloads/topdownload/2017/05/jtr.png)
+
 ## \ Codarren /
