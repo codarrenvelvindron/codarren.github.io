@@ -49,10 +49,11 @@ cat pdfhash.txt
 ## Let's rip it now
 
 ```
-codax@gaming:~/docs/johnt/JohnTheRipper/run$ time ./john --wordlist=Wordlist.txt pdfhash.txt 
+codax@gaming:~/docs/johnt/JohnTheRipper/run$ time ./john --fork=4 --wordlist=Wordlist.txt pdfhash.txt 
 Using default input encoding: UTF-8
 Loaded 1 password hash (PDF [MD5 SHA2 RC4/AES 32/64])
 Cost 1 (revision) is 3 for all loaded hashes
-Will run 4 OpenMP threads
+Warning: OpenMP was disabled due to --fork; a non-OpenMP build may be faster
+Node numbers 1-4 of 4 (fork)
 Press 'q' or Ctrl-C to abort, almost any other key for status
 ```
