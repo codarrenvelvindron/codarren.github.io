@@ -2,6 +2,7 @@
 published: false
 ---
 ## John the Ripper
+[jtr](https://raw.githubusercontent.com/codarrenvelvindron/codarrenvelvindron.github.io/master/images/jtr.webp)
 
 John is a utility developed by [openwall](https://www.openwall.com/john/) as a password security auditing and password recovery tool.
 
