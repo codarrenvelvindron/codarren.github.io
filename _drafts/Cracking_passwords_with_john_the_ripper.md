@@ -6,10 +6,10 @@ published: false
 John is a utility developed by [openwall](https://www.openwall.com/john/) as a password security auditing and password recovery tool.
 
 
-## Installing John the ripper on Ubuntu
-```
-sudo apt install john -y
-```
+## Installing John the ripper jumbo on Ubuntu
+[A good tutorial here](https://linuxreference.wordpress.com/2019/06/07/howto-install-john-the-ripper-in-ubuntu-18-04/)
+
+
 
 ## Using a test document
 1. Open libre office
@@ -27,4 +27,13 @@ I remember it was 3 letters and 3 numbers.
 
 Let's use John the ripper and 'fortunately' recover my very important content.
 
-##
+## Generate a wordlist
+We use crunch to get ourselves a wordlist.
+
+```
+sudo apt install crunch
+crunch 6 6 ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 > /tmp/Wordlist.txt
+```
+Btw a wordlist of 6 characters weighs 14GB.
+
+## Let's rip it now
