@@ -41,6 +41,10 @@ Btw a wordlist of 6 characters weighs 14GB.
 Can be done online now, using [this site](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php)
 
 We save the hash.
+```
+cat pdfhash.txt
+/home/codax/Downloads/secret_doc.pdf:$pdf$2*3*128*-4*1*16*232714f2abf1328a437a85dca0ebb19c*32*c61ccea8415634b2c03992c52295516128bf4e5e4e758a4164004e56fffa0108*32*199b4e27572e4b45cb0a78e376c1f77454bd27d544a4009f99031b2ff749add
+```
 
 ## Let's rip it now
 
