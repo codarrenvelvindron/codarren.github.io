@@ -49,5 +49,10 @@ cat pdfhash.txt
 ## Let's rip it now
 
 ```
-codax@gaming:~/docs/johnt/JohnTheRipper/run$ time ./john /tmp/Wordlist.txt ~/docs/johnt/pdfhash.txt 
+codax@gaming:~/docs/johnt/JohnTheRipper/run$ time ./john --wordlist=Wordlist.txt pdfhash.txt 
+Using default input encoding: UTF-8
+Loaded 1 password hash (PDF [MD5 SHA2 RC4/AES 32/64])
+Cost 1 (revision) is 3 for all loaded hashes
+Will run 4 OpenMP threads
+Press 'q' or Ctrl-C to abort, almost any other key for status
 ```
