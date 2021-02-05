@@ -37,7 +37,7 @@ This goes like this
 
 ```
 [INCOMING CLIENT REQUESTS] ----> [Load Balancer] --> Twitter server 1
-												 --> Twitter server 2
+						 --> Twitter server 2
                                                  --> Twitter server 3
                                                  --> Twitter server 4
                                                  --> Twitter server 5
