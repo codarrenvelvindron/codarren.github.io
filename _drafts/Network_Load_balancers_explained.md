@@ -77,4 +77,5 @@ There is also some overhead that the load balancer can take head on, like SSL of
 
 ## Credits
 [Featured image LB](https://avinetworks.com/wp-content/uploads/2018/03/Load-Balancer-Icon.png)
+
 ## \ Codarren /
