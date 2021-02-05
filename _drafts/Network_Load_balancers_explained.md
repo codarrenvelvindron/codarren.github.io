@@ -66,3 +66,13 @@ It will automatically select Server 1 and the next requests will be serviced by 
 
 There are many other algorithms, but these 2 are the most widely used.
 
+## Why
+All web servers have a maximum number of connections that they can accept.
+
+This is inherently due to the resources available to those servers that are not infinite.
+
+Load balancers provide the best user experience by allowing servers to share the total load of client requests incoming.
+
+There is also some overhead that the load balancer can take head on, like SSL offloading: The load balancer takes on the SSL encryption/decryption part away from the main application servers, thereby reducing the compute intensive load on these servers.
+
+## \ Codarren /
