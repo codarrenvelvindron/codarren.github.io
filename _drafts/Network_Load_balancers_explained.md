@@ -75,4 +75,6 @@ Load balancers provide the best user experience by allowing servers to share the
 
 There is also some overhead that the load balancer can take head on, like SSL offloading: The load balancer takes on the SSL encryption/decryption part away from the main application servers, thereby reducing the compute intensive load on these servers.
 
+## Credits
+[Featured image LB](https://avinetworks.com/wp-content/uploads/2018/03/Load-Balancer-Icon.png)
 ## \ Codarren /
