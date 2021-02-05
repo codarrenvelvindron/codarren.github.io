@@ -2,6 +2,7 @@
 published: false
 ---
 ## LB
+![Load balancers](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/Load-Balancer-Icon.webp)
 
 In jargon, you'll often hear this.
 
