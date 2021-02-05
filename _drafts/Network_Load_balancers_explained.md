@@ -13,3 +13,7 @@ Load balancers, have a very specific function.
 Let's break it down.
 
 **L**oad - The load can be thought of as a **workload**
+
+**B**alancer - Something that balances; that makes sure that everything remains in balance.
+
+## What ?
