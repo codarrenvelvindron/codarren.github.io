@@ -64,3 +64,5 @@ Server 2 (8000 connections)
 
 It will automatically select Server 1 and the next requests will be serviced by Server 1.
 
+There are many other algorithms, but these 2 are the most widely used.
+
