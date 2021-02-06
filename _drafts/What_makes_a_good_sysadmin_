@@ -55,6 +55,8 @@ Even a 10% improvement in performance is an important gain.
 
 If we are servicing 1M customers. A 10% improvement may provide for 100K more customers.
 
+Important to realise, finding the **R**oot **CA**use (RCA) of the issue is the thing that will help with preventing or bypassing the issue.
+
 ## Scripting
 For the sysadmin, doing repetitive steps leads to boredom and time wasting.
 
