@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 37: What makes a good sysadmin '
+title: 'Day 37: What makes a good sysadmin ? '
 published: true
 ---
 ## Sysadmin
