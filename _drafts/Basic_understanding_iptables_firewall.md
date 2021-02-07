@@ -59,6 +59,16 @@ More of the available [target](http://www.faqs.org/docs/iptables/targets.html) o
 ### Chains - OUTPUT
 The OUTPUT chain, relates to all packets that are *emitted/sent* by my HOST.
 
+This allows me to do stuff from my HOST to other servers.
+
+```
+#Say, I wish to be able to connect remotely to other servers using SSH from my HOST
+iptables -A OUTPUT -o eth0 -p tcp --dport 22 -m state --state NEW,ESTABLISHED -j ACCEPT
+```
+
+Translating the above command in English:
+iptables 
+
 ### Chains - FORWARD
 The FORWARD chain is for packets that are neither emitted by the host nor directed to the host. They are the packets that the host is merely routing.
 
@@ -68,4 +78,6 @@ The FORWARD chain is for packets that are neither emitted by the host nor direct
 [iptables questions](https://unix.stackexchange.com/questions/96548/what-is-the-difference-between-output-and-forward-chains-in-iptables)
 
 [iptables jumps](http://www.faqs.org/docs/iptables/targets.html)
+
+[iptable append and insert diff](https://serverfault.com/questions/472258/difference-between-iptables-a-and-i-option)
 
