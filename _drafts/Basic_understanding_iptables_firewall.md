@@ -59,6 +59,11 @@ More of the available [target](http://www.faqs.org/docs/iptables/targets.html) o
 ### Chains - OUTPUT
 The OUTPUT chain, relates to all packets that are *emitted/sent* by my HOST.
 
+### Chains - FORWARD
+The FORWARD chain is for packets that are neither emitted by the host nor directed to the host. They are the packets that the host is merely routing.
+
+
+
 ## Credits
 [iptables questions](https://unix.stackexchange.com/questions/96548/what-is-the-difference-between-output-and-forward-chains-in-iptables)
 
