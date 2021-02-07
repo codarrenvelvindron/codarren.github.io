@@ -67,6 +67,7 @@ iptables -A OUTPUT -o eth0 -p tcp --dport 22 -m state --state NEW,ESTABLISHED -j
 ```
 
 Translating the above command in English:
+
 **iptables** **A**ppend a new rule to the **OUTPUT** chain; for **o**ut-interface **eth0**;having **p**rotocol **tcp**; **d**estination**port** **22**; **m**atching connection tracking **state** for **NEW** and **ESTABLISHED** connections; **j**ump to the **ACCEPT** target.
 
 ### Chains - FORWARD
