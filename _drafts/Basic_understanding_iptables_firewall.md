@@ -35,7 +35,7 @@ The INPUT, FORWARD and OUTPUT chains.
 First of all, we'll refer to the machine running iptables as the HOST.
 
 ### Chains - INPUT
-The INPUT chain, relates to all packets that are received by the HOST.
+The INPUT chain, relates to all packets that are *received* by the HOST.
 
 Let's say we do not wish to allow other hosts to send a ping request to my HOST
 
@@ -57,7 +57,7 @@ iptables **I**nsert a new rule to the **INPUT** chain; taking as **s**ource the 
 More of the available [target](http://www.faqs.org/docs/iptables/targets.html) options here
 
 ### Chains - OUTPUT
-The Output
+The OUTPUT chain, relates to all packets that are *emitted/sent* by my HOST.
 
 ## Credits
 [iptables questions](https://unix.stackexchange.com/questions/96548/what-is-the-difference-between-output-and-forward-chains-in-iptables)
