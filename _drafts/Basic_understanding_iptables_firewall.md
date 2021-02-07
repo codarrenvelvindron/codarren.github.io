@@ -52,7 +52,7 @@ Because it refers to all packets that are send to my HOST OR all packets that ar
 
 Let's translate the command above in English.
 
-iptables **I**nsert a new rule to the **INPUT** chain; taking as **s**ource the IP **192.168.1.188**; and **p**rotocol **icmp**; **j**ump to the **DROP** target
+**iptables** **I**nsert a new rule to the **INPUT** chain; taking as **s**ource the IP **192.168.1.188**; having **p**rotocol **icmp**; **j**ump to the **DROP** target
 
 More of the available [target](http://www.faqs.org/docs/iptables/targets.html) options here
 
@@ -67,7 +67,7 @@ iptables -A OUTPUT -o eth0 -p tcp --dport 22 -m state --state NEW,ESTABLISHED -j
 ```
 
 Translating the above command in English:
-iptables 
+**iptables** **A**ppend a new rule to the **OUTPUT** chain; for **o**ut-interface **eth0**;having **p**rotocol **tcp**; **d**estination**port** **22**; 
 
 ### Chains - FORWARD
 The FORWARD chain is for packets that are neither emitted by the host nor directed to the host. They are the packets that the host is merely routing.
