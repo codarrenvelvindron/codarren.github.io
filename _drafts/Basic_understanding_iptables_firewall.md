@@ -58,3 +58,5 @@ iptables **I**nsert a new rule to the **INPUT** chain; taking as **s**ource the 
 ## Credits
 [iptables questions](https://unix.stackexchange.com/questions/96548/what-is-the-difference-between-output-and-forward-chains-in-iptables)
 
+[iptables jumps](http://www.faqs.org/docs/iptables/targets.html)
+
