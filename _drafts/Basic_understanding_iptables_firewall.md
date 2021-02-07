@@ -76,8 +76,14 @@ The FORWARD chain is for packets that are neither emitted by the host nor direct
 ```
 This is when the HOST is used as an actual firewall for filtering packets to a NETWORK to and from a network. 
 [device on network] -->packets--> [HOST] -->packets--> [Destination]
+
+e.g. We want to forward requests to our teamspeak server (running on port 8080) 
+iptables -A FORWARD -p tcp -d 192.168.1.2 --dport 8080 -j ACCEPT
 ```
 
+Translating to English:
+
+**iptables** **A**ppend a new rule to the **FORWARD** chain; for packets having **p**rotocol **tcp**; to **d**estination **192.168.1.2** (our TEAMSPEAK server); running on **d**estination**port** **8080**, **j**ump to the **ACCEPT** target.
 
 ## Credits
 [iptables questions](https://unix.stackexchange.com/questions/96548/what-is-the-difference-between-output-and-forward-chains-in-iptables)
