@@ -74,9 +74,10 @@ Translating the above command in English:
 The FORWARD chain is for packets that are neither emitted by the host nor directed to the host. They are the packets that the host is merely routing.
 
 ```
-This is when the HOST is used as an actual firewall for filtering packets to a NETWORK
+This is when the HOST is used as an actual firewall for filtering packets to a NETWORK to and from a network. 
 [some device on a network] -->packets--> [HOST] -->packets--> [Destination]
 ```
+
 
 ## Credits
 [iptables questions](https://unix.stackexchange.com/questions/96548/what-is-the-difference-between-output-and-forward-chains-in-iptables)
