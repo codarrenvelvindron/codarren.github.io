@@ -85,6 +85,14 @@ Translating to English:
 
 **iptables** **A**ppend a new rule to the **FORWARD** chain; for packets having **p**rotocol **tcp**; to **d**estination **192.168.1.2** (our TEAMSPEAK server); running on **d**estination**port** **8080**, **j**ump to the **ACCEPT** target.
 
+## -A v/s -I
+**A**ppend adds the rules at the end of the ruleset, whereas **I**nsert add the rules at the TOP of the ruleset or at a specific position in the ruleset.
+
+When the position of the rule is not important, you will use -A but , when position/priority is important, you will use -I.
+
+
+## \ Codarren /
+
 ## Credits
 [iptables questions](https://unix.stackexchange.com/questions/96548/what-is-the-difference-between-output-and-forward-chains-in-iptables)
 
