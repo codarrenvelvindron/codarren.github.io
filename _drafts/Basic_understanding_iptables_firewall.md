@@ -50,6 +50,10 @@ iptables -I INPUT -s 192.168.1.188 -p icmp -j DROP
 
 Because it refers to all packets that are send to my HOST OR all packets that are received by my HOST.
 
+Let's translate the command above in English.
+
+iptables **I**nsert a new rule to the **INPUT** chain; taking as **s**ource the IP 192.168.1.188; and **p**rotocol **icmp**; 
+
 
 ## Credits
 [iptables questions](https://unix.stackexchange.com/questions/96548/what-is-the-difference-between-output-and-forward-chains-in-iptables)
