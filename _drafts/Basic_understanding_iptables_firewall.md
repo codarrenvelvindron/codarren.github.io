@@ -67,7 +67,7 @@ iptables -A OUTPUT -o eth0 -p tcp --dport 22 -m state --state NEW,ESTABLISHED -j
 ```
 
 Translating the above command in English:
-**iptables** **A**ppend a new rule to the **OUTPUT** chain; for **o**ut-interface **eth0**;having **p**rotocol **tcp**; **d**estination**port** **22**; 
+**iptables** **A**ppend a new rule to the **OUTPUT** chain; for **o**ut-interface **eth0**;having **p**rotocol **tcp**; **d**estination**port** **22**; **m**atching
 
 ### Chains - FORWARD
 The FORWARD chain is for packets that are neither emitted by the host nor directed to the host. They are the packets that the host is merely routing.
@@ -81,3 +81,4 @@ The FORWARD chain is for packets that are neither emitted by the host nor direct
 
 [iptable append and insert diff](https://serverfault.com/questions/472258/difference-between-iptables-a-and-i-option)
 
+[iptables match](http://www.faqs.org/docs/iptables/matches.html)
