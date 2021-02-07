@@ -48,7 +48,7 @@ iptables -I INPUT -s 192.168.1.188 -p icmp -j DROP
 
 **Why do we make use of the INPUT chain ?**
 
-Because it refers to all packets that are send to my HOST OR all packets that are received by my HOST.
+Because it refers to all packets that are send to my HOST OR all packets that are received by my HOST. (basically the same thing)
 
 Let's translate the command above in English.
 
@@ -56,7 +56,8 @@ iptables **I**nsert a new rule to the **INPUT** chain; taking as **s**ource the 
 
 More of the available [target](http://www.faqs.org/docs/iptables/targets.html) options here
 
-
+### Chains - OUTPUT
+The Output
 
 ## Credits
 [iptables questions](https://unix.stackexchange.com/questions/96548/what-is-the-difference-between-output-and-forward-chains-in-iptables)
