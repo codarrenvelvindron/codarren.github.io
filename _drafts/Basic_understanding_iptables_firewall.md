@@ -75,7 +75,7 @@ The FORWARD chain is for packets that are neither emitted by the host nor direct
 
 ```
 This is when the HOST is used as an actual firewall for filtering packets to a NETWORK to and from a network. 
-[some device on a network] -->packets--> [HOST] -->packets--> [Destination]
+[device on network] -->packets--> [HOST] -->packets--> [Destination]
 ```
 
 
