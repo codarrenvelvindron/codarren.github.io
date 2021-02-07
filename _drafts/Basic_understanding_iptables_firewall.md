@@ -52,7 +52,7 @@ Because it refers to all packets that are send to my HOST OR all packets that ar
 
 Let's translate the command above in English.
 
-iptables **I**nsert a new rule to the **INPUT** chain; taking as **s**ource the IP 192.168.1.188; and **p**rotocol **icmp**; **j**ump to the **DROP** target
+iptables **I**nsert a new rule to the **INPUT** chain; taking as **s**ource the IP **192.168.1.188**; and **p**rotocol **icmp**; **j**ump to the **DROP** target
 
 More of the available [target](http://www.faqs.org/docs/iptables/targets.html) options here
 
