@@ -10,11 +10,11 @@ In pentesting/whitehat hacking, subdomain enumeration is part of reconaissance w
 ## Finding Subdomains
 Subdomain enumeration are usually based on two main techniques.
 
-1. Finding subdomains by scraping search engines
+- Finding subdomains by scraping search engines
 
 OR
 
-2. Finding subdomains by trial and error using wordlists of common names.
+- Finding subdomains by trial and error using wordlists of common names.
 
 ## Scraping search engines
 Basically the main domain is searched in searched engines and we see if that particular domain has some usable subdomains.
