@@ -84,7 +84,7 @@ Now clearly, we can see that we are served by cloudflare.
 Somehow, cloudflare does not allow us to perform this request (for some reason).
 
 ## Investigation 2 - Bypassing
-When we thing about it a GET request is simply an http request.
+When we think about it a GET request is simply an http request.
 
 So, let's do the request with our web browser and see what response it returns.
 
