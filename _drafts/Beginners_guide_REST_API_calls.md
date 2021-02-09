@@ -2,8 +2,9 @@
 published: false
 ---
 ## API
+![monster api](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/monster_api.png)
 
-**A**pplication **P**rogramming **I**nterface
+**A**pplication **P**rogramming **I**nterface : I always imagined APIs as funny little JSON monsters.
 
 ## Defined simply
 There are different APIs that are available.
@@ -107,6 +108,8 @@ https://cex.io/api/currency_limits
 {"e":"currency_limits","ok":"ok","data":{"pairs":[{"symbol1":"BTC","symbol2":"USD","pricePrecision":1,"minLotSize":0.0004,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"3500","maxPrice":"350000"},{"symbol1":"ETH","symbol2":"USD","pricePrecision":2,"minLotSize":0.012,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"26.41","maxPrice":"10000"},{"symbol1":"BCH","symbol2":"USD","pricePrecision":2,"minLotSize":0.02,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"43.40","maxPrice":"8192"},{"symbol1":"DASH","symbol2":"USD","pricePrecision":3,"minLotSize":0.065,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"12.98","maxPrice":"4096"},{"symbol1":"LTC","symbol2":"USD","pricePrecision":3,"minLotSize":0.08,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"7.73","maxPrice":"2048"},{"symbol1":"XRP","symbol2":"USD","pricePrecision":5,"minLotSize":11,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"0.0347","maxPrice":"10"},{"symbol1":"XLM","symbol2":"USD","pricePrecision":5,"minLotSize":32,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"0.002","maxPrice":"10"},{"symbol1":"OMG","symbol2":"USD","pricePrecision":5,"minLotSize":1.5,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"0.11","maxPrice":"50"},{"symbol1":"MHC","symbol2":"USD","pricePrecision":4,"minLotSize":2100,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"0.0004","maxPrice":"50"},{"symbol1":"TRX","symbol2":"USD","pricePrecision":6,"minLotSize":200,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"0.0023","maxPrice":"50"},{"symbol1":"BTT","symbol2":"USD","pricePrecision":7,"minLotSize":20000,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"0.000044","maxPrice":"50"},{"symbol1":"ADA","symbol2":"USD","pricePrecision":6,"minLotSize":50,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"0.0062","maxPrice":"50"},{"symbol1":"NEO","symbol2":"USD","pricePrecision":4,"minLotSize":0.4,"minLotSizeS2":10,"maxLotSize":null,"minPrice":"1.35","maxPrice":"150"},{"symbol1":"GAS","symbol2":"USD","pricePrecision":4,"minLotSize":4.5,"minLotSizeS2":10,"maxLotSize":null,"minP
 ```
 Eureka ! It works !
+
+I wish you a lot of fun playing with public APIs.
 
 ## \ Codarren /
 
