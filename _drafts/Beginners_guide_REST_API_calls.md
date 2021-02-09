@@ -30,6 +30,13 @@ But why are people struggling?
 ## Trying it on a terminal
 ![term_curr](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/currency_limit_error_1010.png)
 
+## Copy-paste not working
+What can we do now ?
+
+## Investigate
+
 
 ## Credits
 [wikipedia page](https://en.wikipedia.org/wiki/API)
+
+[cex.io api](https://cex.io/rest-api#public-api-calls)
