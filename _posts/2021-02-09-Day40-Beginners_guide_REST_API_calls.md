@@ -116,6 +116,8 @@ I wish you a lot of fun playing with public APIs.
 ## \ Codarren /
 
 ## Credits
+[Featured monster pic](https://www.wallpaperbetter.com/other-wallpaper/funny-monster-203064)
+
 [wikipedia page](https://en.wikipedia.org/wiki/API)
 
 [cex.io api](https://cex.io/rest-api#public-api-calls)
