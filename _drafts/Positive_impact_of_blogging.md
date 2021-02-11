@@ -2,6 +2,7 @@
 published: false
 ---
 ## 1 blogpost a day
+[writing featured](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/writing.jpg)
 
 This year, I started one blogpost per day.
 
@@ -48,6 +49,11 @@ Willingness to do.
 
 Willingness to write.
 
-I'm becoming quite good at this.
+Try it and see for yourself.
+
+See [my first blog post on how to create your own blog](https://blog.codarren.com/Day1-Making_own_blog_5_minutes/)
+
+## Credits
+[Featured image writing](https://us.cnn.com/2020/04/16/cnn-underscored/creative-writing-bundle-review/index.html)
 
 ## \ Codarren /
