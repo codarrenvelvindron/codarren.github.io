@@ -2,7 +2,7 @@
 published: false
 ---
 ## 1 blogpost a day
-[writing featured](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/writing.jpg)
+![writing featured](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/writing.jpg)
 
 This year, I started one blogpost per day.
 
