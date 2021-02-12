@@ -51,19 +51,28 @@ Tasks: 342 total,   1 running, 283 sleeping,   0 stopped,   0 zombie
 
 Taking one line at a time.
 
-us = used --> CPU usage
+us = user --> CPU time in USER space
 
-sy = system --> System usage
+sy = system --> CPU time in KERNEL space
 
-ni = nice
+ni = nice--> user NICE CPU time.
 
-id= idle
+id= idle --> CPU idle time
 
-wa = waiting
+wa = waiting --> waiting for IO (disk)
 
-hi= 
+hi = hardware irq = CPU time on handling hardware interrupt.
 
 
+In our case, we can see that here is very little waiting for IO, mostly because i'm using M2 as my primary storage.
+
+NICE --> Is a concept of prioritizing some processes.
+```
+20683 codax     20   0 4026204 306536 101188 S   9.6  1.9   1:59.29 gnome-shell                      
+
+#Increasing gnome-shell to highest priority
+renice -n -20 -p 20683
+```
 ## Credits
 [stackoverflow top command](https://unix.stackexchange.com/questions/18918/linux-top-command-what-are-us-sy-ni-id-wa-hi-si-and-st-for-cpu-usage)
 
