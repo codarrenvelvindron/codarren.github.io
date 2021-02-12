@@ -2,6 +2,7 @@
 published: false
 ---
 ## top
+![top linux](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/top_snap.png)
 
 Where does that come from?
 
@@ -85,8 +86,45 @@ codax@gaming:~$ sudo renice -n 19 -p 20683
 ```
 For new processes we can use nice command directly.
 ```
-nice -n -20 top
+#launching nice on a local script
+codax@gaming:~$ sudo nice -n -20 ./sleeper.sh
 ```
+
+## RAM
+```
+KiB Mem : 16309840 total,  8068056 free,  4480668 used,  3761116 buff/cache
+KiB Swap:   999420 total,   999420 free,        0 used. 11128768 avail Mem
+```
+KiB Mem is the current RAM usage.
+
+16GB available
+8GB is free
+4.4GB used.
+
+KiB Swap pertains to swap memory.
+
+
+## Swap Memory
+Swap memory is a concept that is no longer relevant nowadays.
+
+Swap was simply a portion of hard drive space that was reserved to be used as memory in case RAM got saturated.
+
+Though hard drives were slower than RAM, it still could perform.
+
+See, in ancient times (back in 1995) , memory used to be extremely expensive and limited.
+
+My PC used to have 8MB of RAM.
+
+32MB of RAM used to be a luxury.
+
+Today, PCs have 32GB of RAM. This is 1024x more than the best of 26 years ago.
+
+Hope you enjoyed, this little tutorial.
+
+Have a great weekend !
+
+## \ Codarren /
+
 ## Credits
 [stackoverflow top command](https://unix.stackexchange.com/questions/18918/linux-top-command-what-are-us-sy-ni-id-wa-hi-si-and-st-for-cpu-usage)
 
