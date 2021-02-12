@@ -67,11 +67,25 @@ hi = hardware irq = CPU time on handling hardware interrupt.
 In our case, we can see that here is very little waiting for IO, mostly because i'm using M2 as my primary storage.
 
 NICE --> Is a concept of prioritizing some processes.
+
+To apply priorities for existing processes, we use renice.
+
 ```
 20683 codax     20   0 4026204 306536 101188 S   9.6  1.9   1:59.29 gnome-shell                      
 
-#Increasing gnome-shell to highest priority
+#Increasing gnome-shell to highest priority (-20)
 renice -n -20 -p 20683
+
+20683 codax      0 -20 4026204 306524 101188 S   2.0  1.9   2:06.38 gnome-shell                      
+
+#Decreasing gnome-shell to lowest priority (19)
+codax@gaming:~$ sudo renice -n 19 -p 20683
+20683 (process ID) old priority 0, new priority 19
+
+```
+For new processes we can use nice command directly.
+```
+nice -n -20 top
 ```
 ## Credits
 [stackoverflow top command](https://unix.stackexchange.com/questions/18918/linux-top-command-what-are-us-sy-ni-id-wa-hi-si-and-st-for-cpu-usage)
