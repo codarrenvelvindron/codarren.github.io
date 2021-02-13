@@ -83,7 +83,7 @@ mtr -rc 10 blog.codarren.com > mtr_report_blog_codarren.txt
 
 You immediately see that MTR already resolves the IPs to their domain equivalent, I was doing it manually with traceroute and [ipinfo](https://ipinfo.info/html/ip_checker.php)
 
-
+## \ Codarren /
 
 ## Credits
 [wiki page](https://en.wikipedia.org/wiki/MTR_%28software%29)
