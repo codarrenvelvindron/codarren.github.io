@@ -75,7 +75,13 @@ HOST: gaming                      Loss%   Snt   Last   Avg  Best  Wrst StDev
 ```
 In the way above, we are sending 10 packets and calculating the averages.
 
+It also allows you to redirect the output to a text file
+```
+mtr -rc 10 blog.codarren.com > mtr_report_blog_codarren.txt
+```
+
 You immediately see that MTR already resolves the IPs to their domain equivalent, I was doing it manually with traceroute and [ipinfo](https://ipinfo.info/html/ip_checker.php)
+
 
 
 ## Credits
