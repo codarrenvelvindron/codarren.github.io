@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 46: The Automation blueprint'
+title: 'Day 45: The Automation blueprint'
 published: true
 ---
 ## A way
