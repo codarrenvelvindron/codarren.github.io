@@ -17,7 +17,7 @@ It means that there is not backed by any central banking or financial institutio
 **Fiat** is how we refer to the government-issued currencies.
 
 ## Is it safe?
-Being a decentralized currency, there is a ledger of transactions.
+Being a decentralized currency, there is a ledger of transactions that anyone can see.
 
 These transactions correspond to people buying and selling bitcoins.
 
@@ -25,8 +25,38 @@ The transactions are independently verified by computers on the network.
 
 **Blockchain** is the technology that bitcoin uses to record transactions.
 
-## Cypress banks
+## Cypress financial crisis 2012-2013
+Cypress is known as a 'tax haven' due to the low tax and higher interest rates.
+
+However, the economy of the country was falling apart due to increasing public and private debt.
+
+As the second largest bank of Cypress closed down, residents rushed to pull their money out, but their accounts were frozen.
+
+This exposed the fragility of the central banking/financial system and several bitcoin providers started appearing in the country.
+
+## Pricing
+2009 - 2010 --> 10000 BTC = 50$
+
+April 2011 --> 1 BTC = 1$
+
+Nov 2013 --> $350 for 1 BTC
+
+Apr 2014 --> $530
+
+May 2017 --> $2000
+
+Jul 2020 --> $10944
+
+8 Feb 2021 --> $44200
+
+## My take on Bitcoin
+I have read the numerous articles about bitcoin.
+
+Personally, I can see no reason to believe that it wouldn't work.
 
 ## Credits
 [cypriot financial crisis](https://en.wikipedia.org/wiki/2012%E2%80%932013_Cypriot_financial_crisis)
 
+[moneyhighstreet image](https://moneyhighstreet.com/wp-content/uploads/2017/12/Bitcoin-logo-300x296.png)
+
+[bitcoin history](https://en.wikipedia.org/wiki/History_of_bitcoin)
