@@ -46,7 +46,7 @@ For exemple, when opening a file, there could be normally two possibilities, eit
 What about the case where two names are similar ? Are we matching wildcards? Then there are more possibilities.
 
 ### 5. Keep it simple
-The principle here is to keep the choices to a minimum to get out robot in working order.
+The principle here is to keep the choices to a minimum to get our robot working.
 
 The best way to do this is having 2 choices:"YES" and "NO", then there is an exception to be catched if it occurs.
 
