@@ -25,5 +25,8 @@ The transactions are independently verified by computers on the network.
 
 **Blockchain** is the technology that bitcoin uses to record transactions.
 
+## Cypress banks
 
+## Credits
+[cypriot financial crisis](https://en.wikipedia.org/wiki/2012%E2%80%932013_Cypriot_financial_crisis)
 
