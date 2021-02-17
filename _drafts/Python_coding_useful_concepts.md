@@ -101,3 +101,11 @@ print("Loop finished")
 This continues looping the list, even when that certain empty item is found.
 
 The difference between this one and the above is that we replaced the 'break' with the 'continue' keyword.
+
+## Accessing items in list
+Items in lists are accessed by referencing them by number starting with 0.
+```
+possibilities= ["A", "B", "C", "D", "", "E"]
+#if i want to reference C, i'll use 2, as we start with 0,1,2
+print (possibilities[2])
+```
