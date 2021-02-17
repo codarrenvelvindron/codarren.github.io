@@ -61,7 +61,7 @@ print ("and of course Master Splinter!")
 **Thoughts**
 This is more useful than the previous concept, as lists can contain whole words.
 
-## Halting loops
+## Halting/breaking loops
 Here we are interrupting the loop with the 'break' keyword.
 ```
 possibilities= ["A", "B", "C", "D", "", "E"]
