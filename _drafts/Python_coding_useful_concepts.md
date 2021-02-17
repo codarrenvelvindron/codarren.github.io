@@ -112,3 +112,23 @@ print (possibilities[2])
 
 **Result**
 ![access items in list](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/acceess_item_list.png)
+
+**Thoughts**
+Referencing items by item number is easy when the list is short.
+
+But when the list is long, we need to use a different technique.
+
+## Checking if item in list
+To see whether an item is found in the list.
+
+We'll use boolean concepts.
+
+```
+languages = ["C", "C++", "Python", "Javascript", "Golang"]
+
+has_python = "Python" in languages
+print(has_python)
+
+has_java = "Java" in languages
+print(has_java)
+```
