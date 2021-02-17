@@ -160,7 +160,7 @@ if (has_java) == False:
 ![append item list python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/append_item_list.png)
 
 **Thoughts**
-Here, notice that quoting the "False" keywork won't work as the type is not the same
+Here, notice that quoting the "False" keywork won't work as the type is not the same. We're dealing with booleans here.
 
 ```
 >>> type(False)
