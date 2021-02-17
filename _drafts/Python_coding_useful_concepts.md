@@ -61,3 +61,14 @@ print ("and of course Master Splinter!")
 **Thoughts**
 This is more useful than the previous concept, as lists can contain whole words.
 
+## Halting loops
+```
+possibilities= ["A", "B", "C", "D", "", "E"]
+for possibility in possibilities:
+    if possibility == "":
+        print ("Not good")
+        break
+    print(possibility)
+print("Loop finished")
+
+```
