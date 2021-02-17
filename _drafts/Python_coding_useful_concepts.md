@@ -43,5 +43,5 @@ print ("Finished looping string")
 ![loop string python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/looping_string.png)
 
 **Thoughts**
-When doing analysis on components of a long string this can be useful.
+Useful when doing analysis on components of a long string.
 
