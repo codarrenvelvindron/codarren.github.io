@@ -4,6 +4,7 @@ title: 'Day 48: Python coding useful concepts'
 published: true
 ---
 ## Python
+![python featured logo](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/python-logo.png)
 
 Today, I'm onto Python.
 
@@ -207,4 +208,8 @@ print (languages)
 
 When an item is removed, we can specify it directly using its (string) name.
 
+## Credits
+[python featured logo](https://howtolearn.me/wp-content/uploads/2014/04/python-logo.png)
+
 ## \ Codarren /
+
