@@ -49,8 +49,15 @@ Useful when doing analysis on components of a long string.
 A list is made up of several objects quoted and separated by commas enclosed in square brackets.
 
 ```
-ninja_turtles = ["Rafaello", "Donatello", "Michaelangelo", "Leonardo"]
+ninja_turtles = ["Raphael", "Donatello", "Michaelangelo", "Leonardo"]
 for turtles in ninja_turtles:
     print (turtles)
 print ("and of course Master Splinter!")
 ```
+
+**Result**
+![list loops python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/list_loops.png)
+
+**Thoughts**
+This is more useful than the previous concept, as lists can contain whole words.
+
