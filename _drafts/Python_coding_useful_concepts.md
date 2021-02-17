@@ -10,7 +10,7 @@ I just got back to python programming.
 
 And I thought I was rusty.
 
-But, the beauty of Python lies in its simple syntax.
+But, the beauty of Python lies in its simplicity.
 
 Didn't feel rusty at all !
 
