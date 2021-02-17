@@ -2,7 +2,7 @@
 published: false
 ---
 ## Python
-![python featured logo](https://howtolearn.me/how-learn-python-free/)
+![python featured logo](https://howtolearn.me/wp-content/uploads/2014/04/python-logo.png)
 
 Today, I'm onto Python.
 
