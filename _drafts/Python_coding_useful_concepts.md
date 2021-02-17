@@ -132,3 +132,7 @@ print(has_python)
 has_java = "Java" in languages
 print(has_java)
 ```
+
+**Result**
+![checking item in list python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/checking_item_list.png)
+
