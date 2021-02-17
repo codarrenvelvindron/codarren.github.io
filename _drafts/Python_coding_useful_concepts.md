@@ -151,6 +151,7 @@ print(has_python)
 
 has_java = "Java" in languages
 print(has_java)
-if (has_java) == "False":
+#if (has_java) == "False": --> won't work
+if (has_java) == False:
   languages.append("Java")
 ```
