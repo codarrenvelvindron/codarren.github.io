@@ -62,6 +62,7 @@ print ("and of course Master Splinter!")
 This is more useful than the previous concept, as lists can contain whole words.
 
 ## Halting loops
+Here we are interrupting the loop with the 'break' keyword.
 ```
 possibilities= ["A", "B", "C", "D", "", "E"]
 for possibility in possibilities:
@@ -82,3 +83,19 @@ However, we notice here that the last item is not being read.
 
 We'll do this in the next example.
 
+## Continue loops
+```
+possibilities= ["A", "B", "C", "D", "", "E"]
+for possibility in possibilities:
+    if possibility == "":
+        print ("Not good")
+        continue
+    print(possibility)
+print("Loop finished")
+```
+
+**Result**
+![halt loop python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/continue_loops.png)
+
+**Thoughts**
+This 
