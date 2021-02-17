@@ -205,4 +205,8 @@ print (languages)
 
 When an item is removed, we can specify it directly using its (string) name.
 
+## Credits
+[python featured logo](https://howtolearn.me/how-learn-python-free/)
+
 ## \ Codarren /
+
