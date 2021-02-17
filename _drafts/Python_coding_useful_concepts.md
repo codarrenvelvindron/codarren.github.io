@@ -197,3 +197,6 @@ print (languages)
 languages.remove("C++")
 print (languages)
 ```
+
+**Result**
+![remove item list python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/remove_item_list.png)
