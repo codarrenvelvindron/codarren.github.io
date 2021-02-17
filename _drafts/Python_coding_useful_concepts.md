@@ -200,3 +200,7 @@ print (languages)
 
 **Result**
 ![remove item list python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/remove_item_list.png)
+
+**Thoughts**
+
+When an item is removed, we can specify it directly using its (string) name.
