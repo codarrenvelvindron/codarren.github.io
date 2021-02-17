@@ -139,4 +139,18 @@ print(has_java)
 **Thoughts**
 Here, we get True returned if an item is found in the list and False if not found.
 
-This is very useful.
+This is very useful as we can use the boolean result for something else.
+
+## Adding item in list
+We'll build on the previous to add a non-existing language to the list
+```
+languages = ["C", "C++", "Python", "Javascript", "Golang"]
+
+has_python = "Python" in languages
+print(has_python)
+
+has_java = "Java" in languages
+print(has_java)
+if (has_java) == "False":
+  languages.append("Java")
+```
