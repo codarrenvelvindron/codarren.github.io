@@ -178,7 +178,7 @@ Here, notice that quoting the "False" keywork won't work as the type is not the 
 <class 'str'>
 ```
 
-## Removing item in list
+## Removing item from list
 Remove an existing language to the list.
 ```
 languages = ["C", "C++", "Python", "Javascript", "Golang"]
