@@ -136,3 +136,7 @@ print(has_java)
 **Result**
 ![checking item in list python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/checking_item_list.png)
 
+**Thoughts**
+Here, we get True returned if an item is found in the list and False if not found.
+
+This is very useful.
