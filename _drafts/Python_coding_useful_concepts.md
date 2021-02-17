@@ -45,3 +45,12 @@ print ("Finished looping string")
 **Thoughts**
 Useful when doing analysis on components of a long string.
 
+## Lists and loops
+A list is made up of several objects quoted and separated by commas enclosed in square brackets.
+
+```
+ninja_turtles = ["Rafaello", "Donatello", "Michaelangelo", "Leonardo"]
+for turtles in ninja_turtles:
+    print (turtles)
+print ("and of course Master Splinter!")
+```
