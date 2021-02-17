@@ -70,5 +70,15 @@ for possibility in possibilities:
         break
     print(possibility)
 print("Loop finished")
-
 ```
+
+**Result**
+![halt loop python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/halting_loops.png)
+
+**Thoughts**
+This stops the loops when the particular item is found.
+
+However, we notice here that the last item is not being read.
+
+We'll do this in the next example.
+
