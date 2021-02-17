@@ -109,3 +109,6 @@ possibilities= ["A", "B", "C", "D", "", "E"]
 #if i want to reference C, i'll use 2, as we start with 0,1,2
 print (possibilities[2])
 ```
+
+**Result**
+![access items in list](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/acceess_item_list.png)
