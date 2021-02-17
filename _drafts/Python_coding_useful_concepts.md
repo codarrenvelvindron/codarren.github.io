@@ -29,3 +29,15 @@ print ("Finished looping count")
 **Thoughts**
 If you wanted to loop to the upper limit of 10 including 10 itself, you need to specify the upper limit as 11.
 
+This is useful in cases where we need to automate number generation.
+
+## Looping a string
+Here, we take a string of characters and we loop through it.
+```
+for x in "ELEPHANT":
+    print (x)
+print ("Finished looping string")
+```
+
+**Result**
+![loop string python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/looping_string.png)
