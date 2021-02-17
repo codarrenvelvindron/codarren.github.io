@@ -98,4 +98,6 @@ print("Loop finished")
 ![halt loop python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/continue_loops.png)
 
 **Thoughts**
-This 
+This continues looping the list, even when that certain empty item is found.
+
+The difference between this one and the above is that we replaced the 'break' with the 'continue' keyword.
