@@ -27,6 +27,7 @@ print ("Finished looping count")
 ![looping count python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/looping_count.png)
 
 **Thoughts**
+
 If you wanted to loop to the upper limit of 10 including 10 itself, you need to specify the upper limit as 11.
 
 This is useful in cases where we need to automate number generation.
@@ -43,6 +44,7 @@ print ("Finished looping string")
 ![loop string python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/looping_string.png)
 
 **Thoughts**
+
 Useful when doing analysis on components of a long string.
 
 ## Lists and loops
@@ -59,6 +61,7 @@ print ("and of course Master Splinter!")
 ![list loops python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/list_loops.png)
 
 **Thoughts**
+
 This is more useful than the previous concept, as lists can contain whole words.
 
 ## Halting/breaking loops
@@ -77,6 +80,7 @@ print("Loop finished")
 ![halt loop python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/halting_loops.png)
 
 **Thoughts**
+
 This stops the loops when the particular item is found.
 
 However, we notice here that the last item is not being read.
@@ -98,6 +102,7 @@ print("Loop finished")
 ![halt loop python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/continue_loops.png)
 
 **Thoughts**
+
 This continues looping the list, even when that certain empty item is found.
 
 The difference between this one and the above is that we replaced the 'break' with the 'continue' keyword.
@@ -114,6 +119,7 @@ print (possibilities[2])
 ![access items in list](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/acceess_item_list.png)
 
 **Thoughts**
+
 Referencing items by item number is easy when the list is short.
 
 But when the list is long, we need to use a different technique.
@@ -137,6 +143,7 @@ print(has_java)
 ![checking item in list python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/checking_item_list.png)
 
 **Thoughts**
+
 Here, we get True returned if an item is found in the list and False if not found.
 
 This is very useful as we can use the boolean result for something else.
@@ -160,6 +167,7 @@ if (has_java) == False:
 ![append item list python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/append_item_list.png)
 
 **Thoughts**
+
 Here, notice that quoting the "False" keywork won't work as the type is not the same. We're dealing with booleans here.
 
 ```
