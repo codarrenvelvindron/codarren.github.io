@@ -155,3 +155,6 @@ print(has_java)
 if (has_java) == False:
   languages.append("Java")
 ```
+
+**Result**
+![append item list python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/append_item_list.png)
