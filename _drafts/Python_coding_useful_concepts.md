@@ -25,3 +25,7 @@ print ("Finished looping count")
 
 **Result**
 ![looping count python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/looping_count.png)
+
+**Thoughts**
+If you wanted to loop to the upper limit of 10 including 10 itself, you need to specify the upper limit as 11.
+
