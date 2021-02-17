@@ -148,7 +148,7 @@ Here, we get True returned if an item is found in the list and False if not foun
 
 This is very useful as we can use the boolean result for something else.
 
-## Adding item in list
+## Adding item to list
 We'll build on the previous to add a non-existing language to the list
 ```
 languages = ["C", "C++", "Python", "Javascript", "Golang"]
