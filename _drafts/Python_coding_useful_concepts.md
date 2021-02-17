@@ -158,3 +158,13 @@ if (has_java) == False:
 
 **Result**
 ![append item list python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/append_item_list.png)
+
+**Thoughts**
+Here, notice that quoting the "False" keywork won't work as the type is not the same
+
+```
+>>> type(False)
+<class 'bool'>
+>>> type("False")
+<class 'str'>
+```
