@@ -160,7 +160,7 @@ has_java = "Java" in languages
 print(has_java)
 #if (has_java) == "False": --> won't work
 if (has_java) == False:
-  languages.append("Java")
+    languages.append("Java")
 print (languages)
 ```
 
@@ -191,5 +191,9 @@ print(has_java)
 #if (has_java) == "False": --> won't work
 if (has_java) == False:
     languages.append("Java")
+print (languages)
+
+#remove language C++
+languages.remove("C++")
 print (languages)
 ```
