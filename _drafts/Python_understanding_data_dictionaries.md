@@ -93,7 +93,7 @@ print (students.get('cvelvindron', 'Unknown?'))
 
 **Adding or updating dictionary data**
 ```
-#Syntax: dictionaryname.update(key, value)
-students.update('cvelvindron','Codax Devildron')
+#Syntax: dictionaryname.update({key : value})
+students.update('cvelvindron':'Codax Devildron')
 print (students.get('cvelvindron', 'Unknown?'))
 ```
