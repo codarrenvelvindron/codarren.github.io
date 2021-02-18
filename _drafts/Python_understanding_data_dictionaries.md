@@ -60,3 +60,12 @@ print ('cvelvindron' in students)
 False
 True
 ```
+
+**Get data from dict**
+```
+#Syntax: dictionaryname.get(key)
+#exist
+print (students.get(cvelvindron))
+#not exist
+print (students.get(manone))
+```
