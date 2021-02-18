@@ -46,3 +46,9 @@ The equivalent in SQL would be:
 select * from students where id='cvelvindron';
 ```
 
+**Length of dictionary**
+```
+#len(dictionaryname)
+len(students)
+```
+```
