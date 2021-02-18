@@ -27,3 +27,6 @@ students = {
 }
 print (students)
 ```
+
+**Output**
+![create dictionary python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/create_dict.png)
