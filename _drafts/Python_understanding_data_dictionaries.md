@@ -90,3 +90,9 @@ students[cvelvindron] = 'Codarren Valaydon Velvindron'
 print (students.get('cvelvindron', 'Unknown?'))
 ```
 ![change dict value python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/change_dict_value_python.png)
+
+**Adding or updating dictionary data**
+```
+#Syntax: dictionaryname.update(key, value)
+
+```
