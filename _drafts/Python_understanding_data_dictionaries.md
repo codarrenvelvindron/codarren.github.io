@@ -97,3 +97,5 @@ print (students.get('cvelvindron', 'Unknown?'))
 students.update('cvelvindron':'Codax Devildron')
 print (students.get('cvelvindron', 'Unknown?'))
 ```
+![update key value python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/update_key_value_2.png)
+
