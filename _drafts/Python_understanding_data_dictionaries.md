@@ -79,3 +79,4 @@ print (students.get('cvelvindron', 'Unknown?'))
 #not exist
 print (students.get('manone', 'Unknown?'))
 ```
+![custom message data dictionary](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/custom_message_data_dict.png)
