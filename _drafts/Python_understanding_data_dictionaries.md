@@ -87,4 +87,5 @@ Here, we added 'Unknown?' instead of the default 'None'.
 ```
 #Syntax: dictionaryname[key] = newvalue
 students[cvelvindron] = 'Codarren Valaydon Velvindron'
+print (students['cvelvindron'])
 ```
