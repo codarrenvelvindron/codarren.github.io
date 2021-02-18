@@ -69,3 +69,4 @@ print (students.get(cvelvindron))
 #not exist
 print (students.get(manone))
 ```
+![get data from dictionary](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/get_data_from.png)
