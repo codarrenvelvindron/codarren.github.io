@@ -4,6 +4,7 @@ title: 'Day 49: Python understanding data dictionaries'
 published: true
 ---
 ## Data Dictionary
+![python featured logo](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/python-logo.png)
 
 We touch the concept of associative arrays today.
 
@@ -81,3 +82,29 @@ print (students.get('cvelvindron', 'Unknown?'))
 #not exist
 print (students.get('manone', 'Unknown?'))
 ```
+Here, we added 'Unknown?' instead of the default 'None'.
+
+![custom message data dictionary](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/custom_message_data_dict.png)
+
+**Changing the value of a key**
+```
+#Syntax: dictionaryname[key] = newvalue
+students[cvelvindron] = 'Codarren Valaydon Velvindron'
+print (students.get('cvelvindron', 'Unknown?'))
+```
+![change dict value python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/change_dict_value_python.png)
+
+**Adding or updating dictionary data**
+```
+#Syntax: dictionaryname.update({key:value})
+students.update('cvelvindron':'Codax Devildron')
+print (students.get('cvelvindron', 'Unknown?'))
+```
+![update key value python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/update_key_value_2.png)
+
+## That's all folks!
+
+## Credits
+[python featured logo](https://howtolearn.me/wp-content/uploads/2014/04/python-logo.png)
+
+## \ Codarren /
