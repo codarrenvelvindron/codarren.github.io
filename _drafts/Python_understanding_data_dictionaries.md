@@ -65,8 +65,17 @@ True
 ```
 #Syntax: dictionaryname.get(key)
 #exist
-print (students.get(cvelvindron))
+print (students.get('cvelvindron'))
 #not exist
-print (students.get(manone))
+print (students.get('manone'))
 ```
 ![get data from dictionary](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/get_data_from.png)
+
+**Get data from dict with custom error**
+```
+#Syntax: dictionaryname.get(key, custommessage)
+#exist
+print (students.get('cvelvindron', 'Unknown?'))
+#not exist
+print (students.get('manone', 'Unknown?'))
+```
