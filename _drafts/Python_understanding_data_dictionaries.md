@@ -35,3 +35,9 @@ print (students)
 We can see the concept of key-value pair.
 
 cvelvindron is my key (and as such, it is unique.
+
+**To see values of a key**
+```
+#print (dictionaryname['key'])
+print(students['cvelvindron'])
+```
