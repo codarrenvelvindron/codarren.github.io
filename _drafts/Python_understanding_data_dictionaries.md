@@ -82,3 +82,9 @@ print (students.get('manone', 'Unknown?'))
 Here, we added 'Unknown?' instead of the default 'None'.
 
 ![custom message data dictionary](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/custom_message_data_dict.png)
+
+**Changing the value of a key**
+```
+#Syntax: dictionaryname[key] = newvalue
+students[cvelvindron] = 'Codarren Valaydon Velvindron'
+```
