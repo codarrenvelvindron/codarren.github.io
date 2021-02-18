@@ -50,5 +50,6 @@ select * from students where id='cvelvindron';
 ```
 #len(dictionaryname)
 len(students)
+==> 4
 ```
-```
+
