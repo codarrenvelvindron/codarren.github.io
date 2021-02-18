@@ -25,4 +25,5 @@ students = {
 'rvazilito': 'Razor Vazilito',
 'harvshrew': 'Harv Shrew',
 }
+print (students)
 ```
