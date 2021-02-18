@@ -2,6 +2,7 @@
 published: false
 ---
 ## Data Dictionary
+![python featured logo](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/python-logo.png)
 
 We touch the concept of associative arrays today.
 
@@ -100,5 +101,8 @@ print (students.get('cvelvindron', 'Unknown?'))
 ![update key value python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/update_key_value_2.png)
 
 ## That's all folks!
+
+## Credits
+[python featured logo](https://howtolearn.me/wp-content/uploads/2014/04/python-logo.png)
 
 ## \ Codarren /
