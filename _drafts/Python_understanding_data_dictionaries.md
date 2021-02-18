@@ -41,3 +41,5 @@ cvelvindron is my key (and as such, it is unique.
 #print (dictionaryname['key'])
 print(students['cvelvindron'])
 ```
+The equivalent in SQL would be:
+select * from students where id='cvelvindron'
