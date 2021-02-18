@@ -30,3 +30,8 @@ print (students)
 
 **Output**
 ![create dictionary python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/create_dict.png)
+
+**Thoughts**
+We can see the concept of key-value pair.
+
+cvelvindron is my key (and as such, it is unique.
