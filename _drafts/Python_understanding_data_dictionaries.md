@@ -95,5 +95,5 @@ print (students.get('cvelvindron', 'Unknown?'))
 ```
 #Syntax: dictionaryname.update(key, value)
 students.update('cvelvindron','Codax Devildron')
-
+print (students.get('cvelvindron', 'Unknown?'))
 ```
