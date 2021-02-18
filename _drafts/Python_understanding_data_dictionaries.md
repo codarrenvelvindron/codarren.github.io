@@ -53,3 +53,10 @@ len(students)
 ==> 4
 ```
 
+**Check if exists**
+```
+print ('smell' in students)
+print ('cvelvindron' in students)
+False
+True
+```
