@@ -15,3 +15,8 @@ This is the concept we're touching today using the date command.
 
 ## Code
 <script src="https://gist.github.com/codarrenvelvindron/869f841a5326f92dbbe32987bbff4c2d.js"></script>
+
+## \ Codarren /
+
+## Credits
+[stackoverflow question](https://stackoverflow.com/questions/1819187/test-a-file-date-with-bash)
