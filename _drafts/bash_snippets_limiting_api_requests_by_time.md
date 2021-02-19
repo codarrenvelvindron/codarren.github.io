@@ -16,15 +16,18 @@ It's usually about "x seconds ago".
 This is the concept we're touching today using the date command.
 
 ## Purpose
-A file could be the output of an API request.
+On all public APIs, the number of requests you can make is limited.
 
-When API requests are limited, you might want to limit them based on the last time the API request was run.
+This is done to prevent abusive/idiotic use of APIs.
 
-Before you launch another API request, it's important to check when the last api request was made.
 
-We could say one API request is to be made every 5 minutes.
+Let's say we are limited to one API request per 5 minutes (exagerrated)
 
-Then you would set the threshold to 300 (seconds).
+Then, we would set the threshold to 300 (seconds).
+
+And we'll be able to make a request every 300 seconds only.
+
+If we were to exceed this threshold, the API would just return us with an error message.
 
 ## Code
 <script src="https://gist.github.com/codarrenvelvindron/869f841a5326f92dbbe32987bbff4c2d.js"></script>
