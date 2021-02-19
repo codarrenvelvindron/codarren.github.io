@@ -53,15 +53,3 @@ curl: (6) Could not resolve host: your.api.url
 
 ## Credits
 [stackoverflow question](https://stackoverflow.com/questions/1819187/test-a-file-date-with-bash)
-
-## Results - below threshold
-```
-#Checking file at location /home/codax/Projects/bash/api/myfile.txt
---> /home/codax/Projects/bash/api/myfile.txt was modified 292 secs ago
---> File didnt exceed threshold-999, exiting
-```
-
-## \ Codarren /
-
-## Credits
-[stackoverflow question](https://stackoverflow.com/questions/1819187/test-a-file-date-with-bash)
