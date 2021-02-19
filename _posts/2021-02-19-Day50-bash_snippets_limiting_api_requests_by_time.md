@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 50: bash snippets file last modified'
+title: 'Day 50: bash snippets limiting api requests by time'
 published: true
 ---
 ## Snippets
