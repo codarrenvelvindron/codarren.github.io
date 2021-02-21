@@ -5,19 +5,23 @@ published: false
 
 In python, a lambda function relates to the concept of anonymous functions.
 
-## Example
+## Normal function
 
 To understand how lambda functions work.
 
 We'll be using the concept of a normal function.
 
+In the function below, we have a function that converts a string to uppercase.
 ```
 #!/usr/bin/python3
 
 def makeuppercase(yourstring):
     """ To convert string to all uppercase """
-    return yourstring.lower()
+    return yourstring.upper()
 
-animal_names = ['Fievel', 'Buck', 'Lassie', 'Zedicus']
-animal_names.sort(key=makeuppercase)
+print (makeuppercase('Fievel'))
 ```
+
+**Result**
+![function uppercase python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/make_upper_py.png)
+
