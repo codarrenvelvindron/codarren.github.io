@@ -9,7 +9,7 @@ In python, a lambda function relates to the concept of anonymous functions.
 
 To understand how lambda functions work.
 
-We'll be using the concept of a normal function.
+We'll contrast with a normal function.
 
 In the function below, we have a function that converts a string to uppercase.
 ```
