@@ -2,6 +2,7 @@
 published: false
 ---
 ## Lambda
+![lambda function python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/lambda_func_py.png)
 
 In python, a lambda function relates to the concept of anonymous functions.
 
