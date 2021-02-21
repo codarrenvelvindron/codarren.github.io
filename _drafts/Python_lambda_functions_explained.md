@@ -92,3 +92,6 @@ print (animal_names)
 
 
 ## \ Codarren /
+
+## Credits
+[modified example from python all in one for dummies](https://marvito.store/product/python-all-in-one-for-dummies-for-dummies-computertech-ebook-8696893/?utm_source=Bing%20Shopping&utm_campaign=Marvito-BingShop-231020&utm_medium=cpc&utm_term=49421&msclkid=79c149fc97fc1c6cff7f29ce378efd0f)
