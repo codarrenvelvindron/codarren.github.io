@@ -5,11 +5,26 @@ published: false
 
 In python, a lambda function relates to the concept of anonymous functions.
 
+## Problem
+We want to sort a list in alphabetical order.
+
+```
+animal_names = ['Fievel', 'Buck', 'lasSie', 'Zedicus']
+animal_names.sort()
+```
+Easy enough right?
+
+**Result**
+```
+['Buck', 'Fievel', 'Zedicus', 'lasSie']
+```
+The issue here is that due to case differences, we are unable to sort them alphabetically.
+
 ## Normal function
 
 To understand how lambda functions work.
 
-We'll contrast with a normal function.
+We'll contrast with a normal function to solve the issue above
 
 In the function below, we have a function that converts a string to uppercase.
 ```
@@ -19,9 +34,31 @@ def makeuppercase(yourstring):
     """ To convert string to all uppercase """
     return yourstring.upper()
 
-print (makeuppercase('Fievel'))
+animal_names = ['Fievel', 'Buck', 'lasSie', 'Zedicus']
+animal_names.sort(key=makeuppercase)
+
+print (animal_names)
 ```
 
 **Result**
-![function uppercase python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/make_upper_py.png)
+```
+['Buck', 'Fievel', 'lasSie', 'Zedicus']
+```
+Because, it first transforms all elements to uppercase, it is able to sort them properly.
 
+## Lambda function
+Because our previous function uses only one line of code.
+
+We can convert it to a lambda function instead, which does just that.
+
+The syntax for a lambda function is:
+```
+lambda parameters : expression
+```
+
+We can replace the lambda parameters with what we used in the previous function.
+```
+lambda yourstring : yourstring.upper()
+```
+
+Since, the function has been stripped from its name, it's now an anonymous (lambda) function.
