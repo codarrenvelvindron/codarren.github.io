@@ -62,3 +62,33 @@ lambda yourstring : yourstring.upper()
 ```
 
 Since, the function has been stripped from its name, it's now an anonymous (lambda) function.
+
+## Putting it together
+```
+animal_names = ['Fievel', 'Buck', 'lasSie', 'Zedicus']
+animal_names.sort (key = lambda yourstring : yourstring.lower())
+print(animal_names)
+```
+
+**Result**
+```
+['Buck', 'Fievel', 'lasSie', 'Zedicus']
+```
+
+## Making lambda less anonymous
+They are supposed to be, but don't need to be :).
+
+```
+make_uppercase = lambda yourstring : yourstring.lower()
+
+animal_names.sort(key=make_uppercase)
+print (animal_names)
+```
+
+**Result**
+```
+['Buck', 'Fievel', 'lasSie', 'Zedicus']
+```
+
+
+## \ Codarren /
