@@ -102,6 +102,7 @@ Once our class is complete, we'll create a new forex transaction.
 
 Starting with ***$100***
 ```
+# Create an instance from a class, here we have transact
 transact = Forex('$1000', 'MUR')
 print (transact.claimed_input())
 print (transact.act_open_drawer())
@@ -125,7 +126,8 @@ print (transact.check_safe_balance())
 ## Creating a MASSIVE transaction
 Let's go with ***$10000***
 ```
-transact = Forex('$10000', 'MUR')
+# Create another instance of the class, transact2!
+transact2 = Forex('$10000', 'MUR')
 print (transact.claimed_input())
 print (transact.act_open_drawer())
 print (transact.count_money())
