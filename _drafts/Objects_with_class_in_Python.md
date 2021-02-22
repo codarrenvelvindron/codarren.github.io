@@ -2,6 +2,7 @@
 published: false
 ---
 ## Do you know what class means ?
+![python objects with class](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/generalbytes_bitcoin_atm_d56a7433ab.jpg)
 
 If you have class, it means you are a true Gentleman/Lady.
 
@@ -146,3 +147,6 @@ Sorry, we don't have enough funds
 ```
 
 ## \ Codarren /
+
+## Credits
+[Featured image bitcoin ATM london](https://coinatmradar.com/images/generalbytes/generalbytes_bitcoin_atm_d56a7433ab.jpg)
