@@ -60,6 +60,7 @@ I noticed frequently that many of my past searches on google weren't giving me t
 So, I compared the two until I found the answer.
 
 Btw, I encourage you to use ecosia, every 45 searches you make, plants a tree!
+
 ## It's all about precision
 On google search if i'm looking for "an api client for python for some product"
 
