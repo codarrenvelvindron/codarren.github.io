@@ -59,7 +59,6 @@ I noticed frequently that many of my past searches on google weren't giving me t
 
 So, I compared the two until I found the answer.
 
-Btw, I encourage you to use ecosia, every 45 searches you make, plants a tree!
 
 ## It's all about precision
 On google search if i'm looking for "an api client for python for some product"
@@ -71,5 +70,9 @@ On bing I would have to type: "api client python product"
 Just one word, changes everything and returns exactly the same result.
 
 Everytime I search, I try to be as precise as I can on a search query.
+
+Btw, I encourage you to use [ecosia](https://www.ecosia.org/), every 45 searches you make, plants a tree!
+
+This way you can have an impact, and improve your search precision along the way :)
 
 ## \ Codarren /
