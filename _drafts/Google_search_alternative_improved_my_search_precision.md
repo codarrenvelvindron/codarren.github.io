@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## I switched searched engines
+## I switched search engines
 ![ecosia search engine](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/ecosia_search.png)
 
 One month ago, I started using [ecosia - the green search engine](https://blog.codarren.com/Day17-Ecosia_a_green_search_engine/).
