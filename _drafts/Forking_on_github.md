@@ -23,7 +23,7 @@ They forked Mysql and created MariaDB.
 The original authors then kept MariaDB open source so we end-users would be able to use it for free (forever !!!)
 
 ## Why did I fork ?
-Well, I have become very interested in REST apis lately. (see [this article](https://blog.codarren.com/Day40-Beginners_guide_REST_API_calls/).
+Well, I have become very interested in REST apis lately. (see [this article](https://blog.codarren.com/Day40-Beginners_guide_REST_API_calls/).)
 
 I recently came across [this project](https://github.com/matveyco/cex.io-api-python), which aims at making an api client for the CEX.io platform.
 
