@@ -84,7 +84,7 @@ Notice the exist_ok parameter, which we prevent any complain if the directory al
 
 ## __gen_date function
 
-```
+```python
     def __gen_date(self):
         """ To generate date for logfile """
         now = datetime.now()
