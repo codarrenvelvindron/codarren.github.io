@@ -137,3 +137,13 @@ We simply generate a timestamp for our log.
         f.write(f'{textual}\n')
         f.close
 ```
+Our final function (method), where we create a folder, create a log file and generate a timestamp for each log entry.
+
+Here, I am using a space as a separator, but you may use a semicolumn, in case of a .csv.
+
+## Usage
+Everything is well detailed on the [repo that i just created](https://github.com/codarrenvelvindron/AppLogger-python).
+
+And don't forget to star the repo if it was useful to you :) !
+
+## \ Codarren /
