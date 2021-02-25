@@ -4,7 +4,7 @@ published: false
 ## I made my own app logger in Python
 ![app logger](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/applogger_python.png)
 
-And you can too !
+And you can too ! Or you can just use what I already built :)
 
 Here's how.
 
