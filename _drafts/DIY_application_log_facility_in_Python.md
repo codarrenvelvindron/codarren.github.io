@@ -2,9 +2,11 @@
 published: false
 ---
 ## I made my own app logger in Python
+![app logger](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/applogger_python.png)
 
 And you can too !
 
+Here's how.
 
 ## Why ?
 Python does have a logging for error messages.
