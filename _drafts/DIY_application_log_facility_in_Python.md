@@ -30,7 +30,7 @@ Basically, it's a logging facility.
 4. Each action should have a unique timestamp.
 
 ## Class creation
-```
+```python
 import os
 from datetime import datetime
 
@@ -51,7 +51,7 @@ datetime --> For generating current dates and formatting variables
 
 
 ## Class init method
-```
+```python
     def __init__(self, logname):
         """ Init for class """
         self.__logname = logname
@@ -60,7 +60,7 @@ Here, I am taking logname as an argument (user provided).
 
 ## __make_folder function
 
-```
+```python
     def __make_folder(self):
         cwd = os.getcwd()
         dirname = self.__logname + "_logs"
@@ -91,7 +91,7 @@ This justs gives us the current date, stored in the global variable.
 
 ## __gen_log function
 
-```
+```python
     def __gen_log(self):
         """ Create log with with date and extension """
         self.__gen_date()
@@ -115,7 +115,7 @@ If the file exists, we continue without doing anything.
 
 ## __gen_timestamp function
 
-```
+```python
     def __gen_timestamp(self):
         self.__timestamp = datetime.now()
 ```
