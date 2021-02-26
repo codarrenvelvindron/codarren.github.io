@@ -12,7 +12,7 @@ Strings are everywhere in python.
 And we're not talking about that other piece of clothing.
 
 ## The old way of doing things
-Remember the days of the %d for 'digits' and %s for 'strings' ?
+Remember the days of the %d for 'decimals' and %s for 'strings' ?
 
 Well, if you didn't know, those days are gone.
 
