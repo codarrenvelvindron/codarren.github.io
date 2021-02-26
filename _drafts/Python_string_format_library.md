@@ -2,6 +2,7 @@
 published: false
 ---
 ## .format
+![python format](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/python_format.png)
 
 Yes, we're talking about that one.
 
