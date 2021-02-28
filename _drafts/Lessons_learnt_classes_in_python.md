@@ -79,7 +79,8 @@ __varY = ''
         self.value1 = value1
         self.value2 = value2
       
-    def __activate_user(self):
+    def __activate_user(self): #Activate user in dashboard
+        """ Activate user for all user activations """
         self.__varX = '{}{}'.format('my super var', varX)
 ```
 The purpose of the other methods are to change/return values based on inputs.
@@ -92,4 +93,4 @@ A nice trick is to just put the methodname and write 'pass' in the method body.
 
 That methodname must be descriptive enough to define what that function is for.
 
-Also, even though
+To go quicker, write all the methodnames and what they will do, this will help you later with what you want to do.
