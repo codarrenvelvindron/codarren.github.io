@@ -2,6 +2,7 @@
 published: false
 ---
 ## Deep in
+![featured image class](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/Kids_in_class.width-800.jpg)
 
 This past few weeks, I have been on a python marathon.
 
@@ -32,10 +33,11 @@ class Classname:
 __varX = ''
 __varZ = ''
 __varY = ''
-
-#Here i am using double underscores to differentiate those global variables
-#from local variables (inside functions
 ```
+**Takeaways**
+Here i am using double underscores to differentiate those global variables
+from local variables (inside functions
+
 The general idea for global variables are the things that will be used in more than one function.
 
 ## The init method for the class
@@ -94,3 +96,13 @@ A nice trick is to just put the methodname and write 'pass' in the method body.
 That methodname must be descriptive enough to define what that function is for.
 
 To go quicker, write all the methodnames and what they will do, this will help you later with what you want to do.
+
+## Bye!
+
+Until next time, have a great Sunday !
+
+
+## \ Codarren/
+
+## Credits
+[Featured image](https://turntable.kagiso.io/images/Kids_in_class.width-800.jpg)
