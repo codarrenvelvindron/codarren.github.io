@@ -50,6 +50,11 @@ Up to 50 passwords on the free plan.
 
 I prefer Dashlane and 50 passwords is more than enough for me.
 
+Allows you to generate a 'complex' password for each site.
+
+Use it as a browser extension.
+
+
 ## Remember only ONE password
 Do you think you can do that ?
 
