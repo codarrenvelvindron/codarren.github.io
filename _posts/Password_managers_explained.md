@@ -45,6 +45,7 @@ Offers unlimited password storage on multiple devices.
 One of the best free password managers out there.
 
 [**Dashlane**](https://www.dashlane.com/) 
+
 Up to 50 passwords on the free plan.
 
 I prefer Dashlane and 50 passwords is more than enough for me.
