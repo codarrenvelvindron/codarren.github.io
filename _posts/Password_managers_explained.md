@@ -54,6 +54,7 @@ Allows you to generate a 'complex' password for each site.
 
 Use it as a browser extension.
 
+Take the passwords anywhere you go on your mobile thanks to the mobile app.
 
 ## Remember only ONE password
 Do you think you can do that ?
