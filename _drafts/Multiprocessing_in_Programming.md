@@ -3,6 +3,7 @@ published: false
 ---
 ## Multi Processing
 ![featured image](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/processors-smartphones.jpg)
+
 Processing using several processors (or processes)
 
 ## What ?
