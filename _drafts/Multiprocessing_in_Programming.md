@@ -36,6 +36,14 @@ Consumer CPUs use different technologies that do the same thing: AMD (SMT) and I
 
 They function on their own as separate CPUs.
 
+## Tip
+Before you start coding, and introduce parallelism, make sure to check the physical CPUs present on your current build.
+
+Some errors might be due to you not having enough cores.
+
+We'll cover more about the practical part in the next python tutorial.
+
 ## \ Codarren /
+
 ## Credits
 [Multithreading](https://www.tomshardware.com/reviews/cpu-computing-thread-definition,5765.html)
