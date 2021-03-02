@@ -47,3 +47,5 @@ We'll cover more about the practical part in the next python tutorial.
 
 ## Credits
 [Multithreading](https://www.tomshardware.com/reviews/cpu-computing-thread-definition,5765.html)
+
+[Featured image](https://ronnie05.files.wordpress.com/2013/09/processors-smartphones.jpg)
