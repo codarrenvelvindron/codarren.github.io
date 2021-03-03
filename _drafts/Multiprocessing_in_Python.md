@@ -65,3 +65,6 @@ Python supports renaming the import to a shorter one using the 'as' keyword.
 
 ## Credits
 [featured multiprocessing image](https://venturebeat.com/wp-content/uploads/2016/02/multi-core-cpu.shutterstock_251423881.jpg?w=1000&strip=all)
+
+[things i wished i knew](https://www.cloudcity.io/blog/2019/02/27/things-i-wish-they-told-me-about-multiprocessing-in-python/)
+
