@@ -3,6 +3,8 @@ published: false
 ---
 ## We already introed about it
 
+![multiprocessing python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/multi-core-cpu.shutterstock_251423881.webp)
+
 In case you [missed it](https://blog.codarren.com/Day61-Multiprocessing_in_Programming/).
 
 ## In python !
@@ -59,3 +61,4 @@ Here we are importing the multiprocessing module.
 It's a long name.
 
 Python supports renaming the import to a shorter one using the 'as' keyword.
+
