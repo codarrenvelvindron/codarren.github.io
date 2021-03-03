@@ -114,8 +114,55 @@ Here, we are spawning only one process to the nameprinter method.
 
 ## We'll heat things up now
 ```
+from multiprocessing import Process
+import multiprocessing as mp
+import time
 
+def nameprinter(name,sleeptime):
+    print ('Starting to print names')
+    print ('{} {}'.format('Hello',name))
+    time.sleep(sleeptime)
+    print('Finished printing names')
+
+def main():
+    print('{}:{}'.format('Number of cores detected',mp.cpu_count()))
+    p1 = Process(target=nameprinter, args=('Pong',3))
+    p1.start()
+
+    p2 = Process(target=nameprinter, args=('Pingu',2))
+    p2.start()
+
+    p3 = Process(target=nameprinter, args=('Pongo',1))
+    p3.start()
+
+    p1.join()
+    p2.join()
+    p3.join()
 ```
+
+Here, we are spawning 3 processes with variable sleep times.
+
+**Result**
+```
+Number of cores detected:2
+Starting to print names
+Hello Pong
+Starting to print names
+Hello Pongo
+Starting to print names
+Hello Pingu
+Finished printing names
+Finished printing names
+Finished printing names
+Finished main
+```
+
+**Takeaways**
+We can see that even though Pingu has a sleep time of 2 seconds, Pongo got output first.
+
+This shows clearly that these processes are running in parallel.
+
+## Have fun going parallel !!!
 
 ## Credits
 [featured multiprocessing image](https://venturebeat.com/wp-content/uploads/2016/02/multi-core-cpu.shutterstock_251423881.jpg?w=1000&strip=all)
