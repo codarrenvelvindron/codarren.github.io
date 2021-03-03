@@ -69,7 +69,53 @@ It synchronizes the execution of threads so that only one native thread can exec
 
 This is the mechanism used in the python Threading module.
 
+## Important stuff!
+To have a working multiprocessing program, make sure that you are using the main guard.
 
+```
+if __name__ == '__main__':
+    main()
+```
+The multiprocessing code must be placed in the main() method of your program.
+
+## Let's do an example
+```
+from multiprocessing import Process
+import multiprocessing as mp
+import time
+
+def nameprinter():
+    print ('Starting to print names')
+    print ('{}:{}'.format('Name','Johns'))
+    print('Finished priniting names')
+
+def main():
+    print('{}:{}'.format('Number of cores detected',mp.cpu_count()))
+    p = Process(target=nameprinter)
+    p.start()
+    p.join()
+
+if __name__ == '__main__':
+    print ('starting main')
+    main()
+    print('Main Finished')
+```
+
+**Result**
+```
+starting main
+Number of cores detected:2
+Starting to print names
+Name:Johns
+Finished printing names
+Main Finished
+```
+Here, we are spawning only one process to the nameprinter method.
+
+## We'll heat things up now
+```
+
+```
 
 ## Credits
 [featured multiprocessing image](https://venturebeat.com/wp-content/uploads/2016/02/multi-core-cpu.shutterstock_251423881.jpg?w=1000&strip=all)
