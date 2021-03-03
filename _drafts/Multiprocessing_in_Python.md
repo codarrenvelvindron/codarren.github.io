@@ -62,6 +62,8 @@ It's a long name.
 
 Python supports renaming the import to a shorter one using the 'as' keyword.
 
+## Python Global Interpreter Lock(GIL)
+
 
 ## Credits
 [featured multiprocessing image](https://venturebeat.com/wp-content/uploads/2016/02/multi-core-cpu.shutterstock_251423881.jpg?w=1000&strip=all)
