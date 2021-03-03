@@ -63,6 +63,12 @@ It's a long name.
 Python supports renaming the import to a shorter one using the 'as' keyword.
 
 ## Python Global Interpreter Lock(GIL)
+The Python GIL is a mechanism used in CPython(The version of python written in C and python).
+
+It synchronizes the execution of threads so that only one native thread can execute at a time, even if run on a multi-core processor.
+
+This is the mechanism used in the python Threading module.
+
 
 
 ## Credits
