@@ -49,7 +49,13 @@ import multiprocessing as mp
 
 print(mp.cpu_count())
 
-# OUTPUT
+# Output
 2
 ```
-Here is a trick that you will see many people use
+Here is a trick that you will see many people use.
+
+Here we are importing the multiprocessing module.
+
+It's a long name.
+
+Python supports renaming the import to a shorter one using the 'as' keyword.
