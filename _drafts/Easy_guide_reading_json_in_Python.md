@@ -147,3 +147,5 @@ It's very easy to navigate through.
 [python docs json](https://docs.python.org/3/library/json.html)
 
 [example docs](https://www.freecodecamp.org/news/python-read-json-file-how-to-load-json-from-a-file-and-parse-dumps/)
+
+[Featured image - json power rangers](http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-jason.jpg)
