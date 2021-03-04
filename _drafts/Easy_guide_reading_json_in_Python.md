@@ -76,4 +76,69 @@ Command: jq '.' pizzas.json
 }
 
 ```
-## Checking the size of the json file
+## json module to the rescue
+There is a native python module called json.
+
+We'll first import it and load our .json file.
+```
+import json
+
+with open("pizzas.json") as file:
+    data = json.load(file)
+```
+
+## Python dict conversion
+The above command: json.load converts our .json file to a python dict.
+
+## Let's have fun now!
+### Length of json file
+
+```
+import json
+
+with open("pizzas.json") as file:
+    data = json.load(file)
+    print (len(data))
+    #Result: 1
+```
+The length gives us a result of 1 as it is taking from the root node (or root key)
+
+To get the number of nodes associated with 'pizza'
+
+We change our command to include pizzas
+
+```
+    print (len(data["pizzas"]))
+    #Result: 2
+
+```
+
+## Showing values of keys
+Python dicts use something called key-value pairs.
+
+Now, we want to get the first element of the dictionary.
+
+Remember that arrays, lists and dictionaries always start with first element **0**!
+
+```
+    print (data["pizzas"][0])
+
+#Result: {'name': 'Kebab King', 'size': ['small', 'medium', 'large'], 'price': ['200', '350', '550']}
+
+```
+
+## Going deeper
+Now, I want some more precise information.
+
+I have to navigate through the keys.
+
+Say I want the price of a Kebab King size small
+
+```
+    print (data["pizzas"][0]["price"][0])
+```
+It's very easy to navigate through.
+
+## See you tomorrow!
+
+## \ Codarren /
