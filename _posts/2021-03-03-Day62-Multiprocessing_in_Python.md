@@ -62,7 +62,7 @@ Here we are importing the multiprocessing module.
 
 It's a long name.
 
-Python supports renaming the import to a shorter one using the 'as' keyword.
+Python supports aliasing the import to a shorter one using the 'as' keyword.
 
 ## Python Global Interpreter Lock(GIL)
 The Python GIL is a mechanism used in CPython(The version of python written in C and python).
@@ -140,6 +140,11 @@ def main():
     p1.join()
     p2.join()
     p3.join()
+
+    print('Finished main')
+
+if __name__ == '__main__':
+    main()
 ```
 
 Here, we are spawning 3 processes with variable sleep times.
