@@ -2,6 +2,7 @@
 published: false
 ---
 ## It can be hard
+![reading python easy json](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/mmpr-rg-jason.jpg)
 
 To dig for gold with a fork.
 
