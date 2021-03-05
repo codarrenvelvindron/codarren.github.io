@@ -59,4 +59,10 @@ I highly recommend and it comes from someone that always bought high end phones.
 
 I'll gladly buy these budget phones anytime!
 
-Motorola is doing a great job.
+If like me, you are not an avid user of mobile phones.
+
+But use them really when needed, and that may be long marathons.
+
+You'll be delighted by its capabilities.
+
+## \ Codarren /
