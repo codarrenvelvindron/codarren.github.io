@@ -125,7 +125,32 @@ for i in range(0,maxlen):
         print ('{} {}'.format('Bid', bid))
         print ('{} {}'.format('Ask', ask))
 ```
+
+**Result**
+```
+Size is:50
+FUN:USD found! at position:47
+Price:0.03199
+Low 0.02936
+High 0.0325
+Bid 0.03144
+Ask 0.03144
+
+
+#Searching for BTT:USD
+
+Size is:50
+BTT:USD found! at position:10
+Price:0.0012489
+Low 0.0011805
+High 0.00125
+Bid 0.0012331
+Ask 0.0012331
+```
+
 All the explanation is in the comments.
+
+Instead of using the keys to reference to items, we are using indexes of each item to reference to it.
 
 I hope you enjoyed this little article.
 
