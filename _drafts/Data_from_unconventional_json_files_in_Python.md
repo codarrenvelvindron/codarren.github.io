@@ -150,7 +150,7 @@ Ask 0.0012331
 
 All the explanation is in the comments.
 
-Instead of using the keys to reference to items, we are using indexes of each item to reference to it.
+In essence, instead of using keys to reference items, we are using indexes of each item to reference to it.
 
 I hope you enjoyed this little article.
 
