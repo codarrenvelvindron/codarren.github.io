@@ -3,6 +3,8 @@ published: false
 ---
 ## Unconventional files
 
+![python json files](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/python-logo.png)
+
 There are .json files that comes in all shapes and sizes.
 
 And the structure differs from the classic scheme.
