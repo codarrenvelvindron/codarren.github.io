@@ -8,6 +8,8 @@ published: true
 
 If they don't have any particular standard that they follow.
 
+If you missed [my regex primer, this can be  a great beginner guide!](https://blog.codarren.com/Day21-Beginner_guide_to_regex/)
+
 I'll explain using the data below.
 
 ## Sample .json file
