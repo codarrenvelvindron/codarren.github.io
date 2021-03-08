@@ -8,6 +8,15 @@ published: true
 
 The most volumetric item on a website is an image.
 
+## Before you start
+It'd be nice to know the performance gain before and after optimization.
+
+Head to [GTMetrix](https://gtmetrix.com) to find out.
+
+After the optimization is done, check again your result using gtmetrix.
+
+My score rose from 81 to 95%
+
 ## Impact
 
 Image optimization can have a huge impact on your website!
