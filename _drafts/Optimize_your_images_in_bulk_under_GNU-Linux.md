@@ -2,6 +2,7 @@
 published: false
 ---
 ## Website slow performance?
+![linux optimize png jpeg](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/154px-Tux-simple.svg.png)
 
 The most volumetric item on a website is an image.
 
