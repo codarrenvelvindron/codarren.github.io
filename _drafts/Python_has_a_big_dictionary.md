@@ -14,4 +14,4 @@ We'll take another practical look at it today.
 
 [w3school ref](https://www.w3schools.com/python/python_dictionaries.asp)
 
-
+[w3school tuples](https://www.w3schools.com/python/python_tuples.asp)
