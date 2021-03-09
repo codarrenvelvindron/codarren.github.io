@@ -6,6 +6,33 @@ published: false
 
 We'll take another practical look at it today.
 
+## Definition
+A dictionary is a data store that stores data in key-value pairs.
+
+A dictionary is ordered(as of python 3.7, earlier versions are unordered)
+
+## Creating a dictionary
+```
+print ('0. Dictionaries are created using curly braces and are of class dict')
+my_dict = {}
+print (type(my_dict))
+```
+
+***Result***
+```
+0. Dictionaries are created using curly braces and are of type dict
+<class 'dict'>
+```
+A dictionary is created by using curly braces,
+
+Here we are creating an empty dictionary.
+
+## Adding data
+```
+print ('1. Dictionaries are created by using key-value pairs, separated by commas')
+my_dict = {'name' : 'Barry', 'hero' : 'flash', 'speciality' : 'speed'}
+print (my_dict)
+```
 
 ## \ Codarren ?
 
