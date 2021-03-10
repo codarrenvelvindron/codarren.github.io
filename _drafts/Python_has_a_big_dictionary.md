@@ -76,6 +76,24 @@ my_dict['Clark'] = {'fullname': 'Clark Kent', 'hero' : 'Superman', 'speciality' 
 print (my_dict)
 ```
 
+## Getting the values from keys
+```
+print (my_dict['Barry'])
+#OUTPUT--> {'fullname': 'Barry Allen', 'hero': 'The Flash', 'speciality': 'Speed'}
+
+print (my_dict['Barry']['fullname'])
+#OUTPUT--> Barry Allen
+
+print (my_dict['Barry']['hero'])
+#OUTPUT--> The Flash
+```
+
+## Conclusion
+Dictionaries can be used to store a very large amount of temporary data.
+
+Ideal for cases where we need some data put away and we only need it for immediate processing and we don't necessarily need to keep it to file.
+
+Once you figure out the key that you want, the values and other sub-keys can be many !
 
 ## \ Codarren /
 
