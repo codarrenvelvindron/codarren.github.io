@@ -40,8 +40,44 @@ print (my_dict)
 {'name': 'Barry', 'hero': 'flash', 'speciality': 'speed'}
 ```
 
+## Adding more data?
+```
+print ('2. Would this work?')
+my_dict['name'] = 'Clark'
+my_dict['hero'] = 'Superman'
+my_dict['speciality'] = ' strength'
+print(my_dict)
 
-## \ Codarren ?
+```
+No !
+
+## Rethinking this
+It's important to understand that dictionaries are made up of key value pairs.
+
+And you can add as much data as you require.
+
+The important thing is to figure out what piece of data should be the key.
+```
+print ('3. Rethinking the key first')
+my_dict = {}
+my_dict['Barry'] = {'fullname' : 'Barry Allen', 'hero' : 'The Flash', 'speciality' : 'Speed'}
+print (my_dict)
+
+```
+
+## Really adding more data
+```
+my_dict = {}
+my_dict['Barry'] = {'fullname' : 'Barry Allen', 'hero' : 'The Flash', 'speciality' : 'Speed'}
+print (my_dict)
+
+print ('4. Adding more data')
+my_dict['Clark'] = {'fullname': 'Clark Kent', 'hero' : 'Superman', 'speciality' : 'Strength'}
+print (my_dict)
+```
+
+
+## \ Codarren /
 
 ## Credits
 [python dictionary techbeamers](https://www.techbeamers.com/python-dictionary/)
