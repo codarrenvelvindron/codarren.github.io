@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 69: We got it all wrong'
+title: 'Day 68: We got it all wrong'
 published: true
 ---
 ## Yes, we do
