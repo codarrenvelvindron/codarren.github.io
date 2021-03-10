@@ -2,7 +2,7 @@
 published: false
 ---
 ## Yes, we do
-
+![covid19 vaccine](https://raw.githubusercontent.com/codarrenvelvindron/codarrenvelvindron.github.io/master/images/covid19-cdc-unsplash.jpg)
 Here's why.
 
 ## We want to go back.
@@ -59,3 +59,30 @@ Are you doing the things that you want ?
 Is your life heading your way ?
 
 If it isn't, make it so.
+
+## Covid19 made us cook at home.
+We forgot the fundamentals of why we work.
+
+We are not working to buy a Porsche or a Ferrari or a BMW or a Mercedes, or some other fancy car.
+
+We work to feed ourselves.
+
+We spend most of our time eating.
+
+Yes we do and it's a pleasure to do so everyday.
+
+It is! when you are not being served the same food everyday.
+
+When you are not wasting a fortune for a meal that is just too salty too tasty and makes you sick the next day.
+
+## A word
+Before we criticize everything that we believe shouldn't be in our life, let's think again.
+
+We may die of covid19 tomorrow, but if we have to die, who are we to complain ?
+
+But before we die, let us do everything we wished we did and die a hero!
+
+## \ Codarren /
+
+## Credits
+[Covid19 featured image](https://ec.europa.eu/programmes/creative-europe/sites/default/files/covid19-cdc-unsplash.jpg)
