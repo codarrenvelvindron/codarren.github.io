@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 70: Python has a big dictionary'
+title: 'Day 69: Python has a big dictionary'
 published: true
 ---
 ## Python Dictionary
