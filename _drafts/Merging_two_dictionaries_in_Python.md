@@ -2,6 +2,7 @@
 published: false
 ---
 ## Dictionaries again!
+![python merge two dictionaries](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/python-logo.png)
 
 Yes, and in Python it's possible to merge them.
 
@@ -31,6 +32,16 @@ hero_ability["flash"] = {'primary' : 'speed', 'secondary' : 'time travel'}
 
 #Merge them
 for hero in hero_data:
+    print ('{}\n{}'.format('hero data before', hero_data[hero]))
+    print ('{}\n{}'.format('hero ability before', hero_ability[hero]))
     hero_data[hero].update(hero_ability[hero])
-    print (hero_data[hero])
+    print ('\n{}\n{}'.format('hero data after merge', hero_data[hero]))
 ```
+I added the print statements to illustrate the results.
+
+But the syntax to merge dictionaryX with dictionaryY is simply: 
+```
+dictionaryX.update(dictionaryY)
+```
+
+## \ Codarren /
