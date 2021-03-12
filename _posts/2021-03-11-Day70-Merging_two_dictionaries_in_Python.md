@@ -23,7 +23,7 @@ So if both dictionary have the same key, the merging process can be done easily 
 
 ## Let's do this!
 
-```
+```python
 #Create two empty dictionaries:
 hero_data = {}
 hero_ability = {}
