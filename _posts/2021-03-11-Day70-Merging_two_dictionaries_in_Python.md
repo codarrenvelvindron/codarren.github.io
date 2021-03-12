@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 71: Merging two dictionaries in Python'
+title: 'Day 70: Merging two dictionaries in Python'
 published: true
 ---
 ## Dictionaries again!
