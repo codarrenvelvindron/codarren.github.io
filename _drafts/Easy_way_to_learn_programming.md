@@ -4,6 +4,7 @@ published: false
 ## Coding
 
 ![learn coding](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/how_to_type_faster_thumb800.jpg)
+
 Or Programming, whatever you want to call it is a beautiful thing.
 
 If you don't feel that way, you may be doing it wrong!
