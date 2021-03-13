@@ -2,6 +2,7 @@
 published: false
 ---
 ## Errors
+![error handling python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/Common_Sitemaps_Errors_and_How_to_Fix_Them.jpg)
 
 Errors can be very time-consuming to resolve, if you can't interprete them.
 
@@ -73,3 +74,6 @@ c = ''
 ## Have fun error handling !
 
 ## \ Codarren /
+
+## Credits
+[Featured error](https://dynomapper.com/images/Common_Sitemaps_Errors_and_How_to_Fix_Them.jpg)
