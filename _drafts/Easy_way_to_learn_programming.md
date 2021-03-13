@@ -3,6 +3,7 @@ published: false
 ---
 ## Coding
 
+![learn coding](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/how_to_type_faster_thumb800.jpg)
 Or Programming, whatever you want to call it is a beautiful thing.
 
 If you don't feel that way, you may be doing it wrong!
@@ -66,3 +67,6 @@ Have some daily mantra and speak to your computer.
 ## Have a nice Saturday!
 
 ## \ Codarren /
+
+## Credits
+[type faster featured image](https://www.techadvisor.co.uk/cmsdata/features/3651757/how_to_type_faster_thumb800.jpg)
