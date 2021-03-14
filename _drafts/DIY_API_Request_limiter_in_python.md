@@ -201,6 +201,8 @@ Instead of using approximate percentage to 0 decimal places, we'll be using the 
 **From this**
 
 ```
+    approx_percentage = '{:.0f}'.format(percentage)
+    approx_percentage = int(approx_percentage)
     if (approx_percentage >= 100): #if we have a match on the interval specified or above, return 1
         result = 1
     elif (approx_percentage <= 99): #percentage can be modified to accept delays
@@ -210,6 +212,8 @@ Instead of using approximate percentage to 0 decimal places, we'll be using the 
 **To this**
 
 ```
+    approx_percentage = '{:.2f}'.format(percentage)
+    approx_percentage = float(approx_percentage)
     if (approx_percentage >= 100.00):
         result = 1
     elif (approx_percentage < 100.00)
