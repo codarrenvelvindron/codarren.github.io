@@ -190,7 +190,7 @@ api_request_launched!
 ```
 
 ## Making it more strict
-Here we are accepting 4minutes 59 seconds as an acceptable risk.
+Here we are accepting 4minutes 59 seconds as an acceptable risk. (highly unlikely)
 
 It is possible to modify the request limiter to be more strict.
 
