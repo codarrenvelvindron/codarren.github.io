@@ -210,9 +210,9 @@ Instead of using approximate percentage to 0 decimal places, we'll be using the 
 **To this**
 
 ```
-    if (approx_percentage >= 100.0):
+    if (approx_percentage >= 100.00):
         result = 1
-    elif (approx_percentage < 100.0)
+    elif (approx_percentage < 100.00)
         result = 0
 ```
 
