@@ -216,6 +216,18 @@ Instead of using approximate percentage to 0 decimal places, we'll be using the 
         result = 0
 ```
 
+***Results***
+```
+Interval to check set to:5 minutes
+Convert these minutes to seconds:300 seconds
+Seconds. Elapsed: 299.0
+Real. Percentage 99.66666666666667
+Approx. Percentage 99.67
+
+Last request launch exceeds interval_to_check
+Do Nothing
+```
+
 ***Notes***
 
 - Here we have increase the tolerance to accept 98% to 102% match
