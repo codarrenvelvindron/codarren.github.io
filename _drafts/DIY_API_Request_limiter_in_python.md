@@ -230,6 +230,6 @@ Do Nothing
 
 ***Notes***
 
-- Here we have increase the tolerance to accept 98% to 102% match
+- Here we have decreased the tolerance to accept only 100.00 or more.
 
-- Delays are now accepted up to
+- Starting 1 second earlier is no longer accepted
