@@ -41,9 +41,9 @@ def calculate_time_diff(old,new,interval): #Calculates time deviation from inter
     approx_percentage = '{:.0f}'.format(percentage)
     approx_percentage = int(approx_percentage)
     result = 0
-    if (approx_percentage == 100): #if we have a match on the interval specified, return 1
+    if (approx_percentage >= 100): #if we have a match on the interval specified or above, return 1
         result = 1
-    elif (approx_percentage <= 99) or (approx_percentage >=100): #percentage can be modified to accept delays
+    elif (approx_percentage <= 99): #percentage can be modified to accept delays
         result = 0
     else:                           #if we got any other response, it's considered as an exception
         result = 500 
@@ -61,25 +61,25 @@ def calculate_time_diff(old,new,interval): #Calculates time deviation from inter
 interval_to_check = 5 #in minutes
 
 # Below are testing values to check
-# 1 minute later
-#time1 = "2021-03-14 07:25:02.105544"
-#time2 = "2021-03-14 07:31:02.105544"
+# 1 minute earlier
+time1 = "2021-03-14 07:25:02.105544"
+time2 = "2021-03-14 07:29:02.105544"
 
-# 15 seconds later
+# 15 seconds earlier
 #time1 = "2021-03-14 09:25:02.105544"
-#time2 = "2021-03-14 09:30:17.105544"
+#time2 = "2021-03-14 09:29:47.105544"
 
-# 4 seconds later
+# 4 seconds earlier
 #time1 = "2021-03-14 09:25:02.105544"
-#time2 = "2021-03-14 09:30:06.105544"
+#time2 = "2021-03-14 09:29:58.105544"
 
-# 2 seconds later
+# 2 seconds earlier
 #time1 = "2021-03-14 09:25:02.105544"
-#time2 = "2021-03-14 09:30:04.105544"
+#time2 = "2021-03-14 09:30:00.105544"
 
-# 1 second later
+# 1 second earlier
 #time1 = "2021-03-14 09:25:02.105544"
-#time2 = "2021-03-14 09:30:03.105544"
+#time2 = "2021-03-14 09:30:01.105544"
 
 #Real application api values for 5 minute intervals
 #time1 = "2021-03-14 09:15:02.385396"
@@ -116,76 +116,66 @@ By uncommenting part of the code, we launch the requests
 
 **Our update frequency here is 5 minutes**
 
-### 1 minute later (6 minutes)
+### 1 minute earlier (4 minutes)
 ```
 time1 = "2021-03-14 07:25:02.105544"
-time2 = "2021-03-14 07:31:02.10554
+time2 = "2021-03-14 07:29:02.105544"
 ```
 ***Result***
 ```
 Interval to check set to:5 minutes
 Convert these minutes to seconds:300 seconds
-Seconds. Elapsed: 360.0
-Real. Percentage 120.0
-Approx. Percentage 120
+Seconds. Elapsed: 240.0
+Real. Percentage 80.0
+Approx. Percentage 80
 
 Last request launch exceeds interval_to_check
 Do Nothing
 ```
 
-### 15 seconds later (5minutes 15seconds)
+### 15 seconds earlier (4minutes 45seconds)
 ```
 time1 = "2021-03-14 09:25:02.105544"
-time2 = "2021-03-14 09:30:17.105544"
+time2 = "2021-03-14 09:29:47.105544"
+
 ```
 
 ***Result***
 ```
 Interval to check set to:5 minutes
 Convert these minutes to seconds:300 seconds
-Seconds. Elapsed: 315.0
-Real. Percentage 105.0
-Approx. Percentage 105
+Seconds. Elapsed: 285.0
+Real. Percentage 95.0
+Approx. Percentage 95
 
 Last request launch exceeds interval_to_check
 Do Nothing
+
 ```
 
-### 4 seconds later (5minutes 4seconds)
+### 4 seconds earlier (4minutes 56seconds)
 ```
-time1 = "2021-03-14 09:25:02.105544"
-time2 = "2021-03-14 09:30:06.105544"
+Interval to check set to:5 minutes
+Convert these minutes to seconds:300 seconds
+Seconds. Elapsed: 298.0
+Real. Percentage 99.33333333333333
+Approx. Percentage 99
+
 ```
 
 ***Result***
 ```
 Interval to check set to:5 minutes
 Convert these minutes to seconds:300 seconds
-Seconds. Elapsed: 304.0
-Real. Percentage 101.33333333333334
-Approx. Percentage 101
+Seconds. Elapsed: 285.0
+Real. Percentage 95.0
+Approx. Percentage 95
 
 Last request launch exceeds interval_to_check
 Do Nothing
+
 ```
 
-### 1 second later (5 minutes 1 second)
-```
-time1 = "2021-03-14 09:25:02.105544"
-time2 = "2021-03-14 09:30:03.105544"
-```
-
-***Result***
-```
-Interval to check set to:5 minutes
-Convert these minutes to seconds:300 seconds
-Seconds. Elapsed: 301.0
-Real. Percentage 100.33333333333334
-Approx. Percentage 100
-
-Last request launch matches interval_to_check
-api_request_launched!
-```
 
 ### -1 to +1 second range (~5 minutes)
 ```
@@ -199,28 +189,30 @@ Last request launch matches interval_to_check
 api_request_launched!
 ```
 
-## Making it more tolerant
-In case many things are being done between these API request launch (very unlikely)
+## Making it more strict
+Here we are accepting 4minutes 59 seconds as an acceptable risk.
 
-It is possible to modify the request limiter to be more tolerant.
+It is possible to modify the request limiter to be more strict.
 
-We need to change the part below
+We need to change from int to float.
+
+Instead of using approximate percentage to 0 decimal places, we'll be using the approx percentage approximated to 2 dp.
 
 **From this**
 
 ```
-    if (approx_percentage == 100): #if we have a match on the interval specified, return 1
+    if (approx_percentage >= 100): #if we have a match on the interval specified or above, return 1
         result = 1
-    elif (approx_percentage <= 99) or (approx_percentage >=100): #percentage can be modified to accept delays
+    elif (approx_percentage <= 99): #percentage can be modified to accept delays
         result = 0
 ```
 
 **To this**
 
 ```
-    if (approx_percentage >= 98) and (approx_percentage <= 102): #if we have a match on the interval specified, return 1
+    if (approx_percentage >= 100.0):
         result = 1
-    elif (approx_percentage < 97) or (approx_percentage > 103): #percentage can be modified to accept delays
+    elif (approx_percentage < 100.0)
         result = 0
 ```
 
