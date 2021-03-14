@@ -194,7 +194,7 @@ Here we are accepting 4minutes 59 seconds as an acceptable risk.
 
 It is possible to modify the request limiter to be more strict.
 
-We need to change from int to float.
+We need to incease the precision from int to float.
 
 Instead of using approximate percentage to 0 decimal places, we'll be using the approx percentage approximated to 2 dp.
 
