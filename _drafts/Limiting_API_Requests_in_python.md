@@ -54,12 +54,49 @@ def calculate_time_diff(old,new,interval): #Calculates time deviation from inter
 
 ### Testing the code
 ```
-#we set the API launch interval and check the time
+
+#we set the API launch interval frequency
 interval_to_check = 5 #in minutes
 
+# Below are testing values to check
+# 1 minute later
+#time1 = "2021-03-14 07:25:02.105544"
+#time2 = "2021-03-14 07:31:02.105544"
+
+# 15 seconds later
+#time1 = "2021-03-14 09:25:02.105544"
+#time2 = "2021-03-14 09:30:17.105544"
+
+# 4 seconds later
+#time1 = "2021-03-14 09:25:02.105544"
+#time2 = "2021-03-14 09:30:06.105544"
+
+# 2 seconds later
+#time1 = "2021-03-14 09:25:02.105544"
+#time2 = "2021-03-14 09:30:04.105544"
+
+# 1 second later
+#time1 = "2021-03-14 09:25:02.105544"
+#time2 = "2021-03-14 09:30:03.105544"
+
+#Real application api values for 5 minute intervals
+#time1 = "2021-03-14 09:15:02.385396"
+#time2 = "2021-03-14 09:20:01.886873"
+
+#time1 = "2021-03-14 09:20:01.886873"
+#time2 = "2021-03-14 09:25:02.251402"
+
+#time1 = "2021-03-14 09:25:02.251402"
+#time2 = "2021-03-14 09:30:02.493466"
+
+#time1 = "2021-03-14 09:30:02.493466"
+#time2 = "2021-03-14 09:35:01.607366"
+
 #check the interval
-#arguments time1=old time time2=new time interval_to_check = API launch frequency
 check_time = calculate_time_diff(time1,time2,interval_to_check)
+
+def launch_api_request(): #this is your API request
+    print('api_request_launched!')
 
 if (check_time == 1):
     print ("\nLast request launch matches interval_to_check")
