@@ -25,6 +25,8 @@ The code for the actual time difference calculator is shown below
 #By Codarren Velvindron
 #Date:14/03/2021
 
+from datetime import datetime
+
 def calculate_time_diff(old,new,interval): #Calculates time deviation from interval
     """ if we deviate from 100% too much, we don't launch API requests """
     dt_first = datetime.strptime(old, '%Y-%m-%d %H:%M:%S.%f')
@@ -43,4 +45,28 @@ def calculate_time_diff(old,new,interval): #Calculates time deviation from inter
     else:                           #if we got any other response, it's considered as an exception
         result = 500 
     return result
+```
+
+***Notes***
+- Inputs: takes as inputs the old timestamp, the new timestamp and the API launch frequency
+- Outputs: Gives 1 for a success, 0 if the result deviates from the launch frequency, and 500 for any other exception
+
+### Testing the code
+```
+#we set the API launch interval and check the time
+interval_to_check = 5 #in minutes
+
+#check the interval
+#arguments time1=old time time2=new time interval_to_check = API launch frequency
+check_time = calculate_time_diff(time1,time2,interval_to_check)
+
+if (check_time == 1):
+    print ("\nLast request launch matches interval_to_check")
+    launch_api_request()
+elif (check_time == 0):
+    print ("\nLast request launch exceeds interval_to_check")
+    print ("Do Nothing")
+else:
+    print("\nAn exception was caught")
+    print ("We don't know what is happening")
 ```
