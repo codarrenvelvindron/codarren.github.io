@@ -23,6 +23,7 @@ The code for the actual time difference calculator is shown below
 #API limiter
 #A demonstration of how you can limit api requests based on a a count in minutes
 #By Codarren Velvindron
+#License: MIT
 #Date:14/03/2021
 
 from datetime import datetime
