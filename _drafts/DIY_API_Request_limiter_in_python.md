@@ -3,6 +3,8 @@ published: false
 ---
 ## API requests are costly
 
+![python merge two dictionaries](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/python-logo.png)
+
 If you don't respect limits, your account might be blocked temporarily or even banned.
 
 ## Basics of API rate limiting
@@ -216,7 +218,7 @@ We need to change the part below
 **To this**
 
 ```
-    if (approx_percentage >= 98) or (approx_percentage <= 102): #if we have a match on the interval specified, return 1
+    if (approx_percentage >= 98) and (approx_percentage <= 102): #if we have a match on the interval specified, return 1
         result = 1
     elif (approx_percentage < 97) or (approx_percentage > 103): #percentage can be modified to accept delays
         result = 0
@@ -226,4 +228,4 @@ We need to change the part below
 
 - Here we have increase the tolerance to accept 98% to 102% match
 
--
+- Delays are now accepted up to
