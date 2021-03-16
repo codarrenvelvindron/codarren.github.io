@@ -20,7 +20,7 @@ So today, we'll talk about understanding errors to start with.
 And then the critical thinking behind correcting them.
 
 ## I'll make it easy!
-### We got a piece of code
+### We got an error message thrown by python
 
 ```
 Traceback (most recent call last):
