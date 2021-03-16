@@ -76,7 +76,7 @@ These are my actual parameter names.
 - As if there is a problem with the server, my program shouldn't crash like that.
 
 
-#### 2. Let's keep reading from this bottom error to top.
+#### 2. Let's keep reading from this from top to bottom.
 We'll split the rest of the error to make it easier to understand
 
 ##### Upper block --> Furthest module from the error
