@@ -71,7 +71,7 @@ These are my actual parameter names.
 
 - I can already say that 100% this is a server error [See why?](https://blog.codarren.com/Day26-http_response_status_codes_explained/)
 
-- So I already know that, I'm not dealing with this server problems properly.
+- So I already know that, I'm not dealing with server problems properly.
 
 - As if there is a problem with the server, my program shouldn't crash like that.
 
