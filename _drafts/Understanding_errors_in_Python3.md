@@ -49,3 +49,21 @@ raceback (most recent call last):
     raise HTTPError(req.full_url, code, msg, hdrs, fp)
 urllib.error.HTTPError: HTTP Error 502: Bad Gateway
 ```
+
+#### 1. Actual error = bottom
+```
+  File "/usr/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 502: Bad Gateway
+```
+- 1st line: we can see that the error lies in the request.py, which is the python request module
+
+- 2nd line: That module is raising an HTTPError, with the parameters i fed into it.
+
+- 3rd line: And the actual error is an HTTP Error 502 : Bad gateway
+
+***Notes***
+
+- Since the actual issue is an HTTP error and the error code is a 502.
+
+- I can already say that 100% this is a server error [(full summary of http errors here)](https://blog.codarren.com/Day26-http_response_status_codes_explained/)
