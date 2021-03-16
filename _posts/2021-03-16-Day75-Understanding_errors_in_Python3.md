@@ -110,7 +110,7 @@ Traceback (most recent call last):
     return self.api_call('archived_orders', {}, 1, couple)
   ```
   
-  ##### Intermediate block --> The actual code we have to modify <--
+##### Intermediate block --> The actual code we have to modify <--
   - This is a module for making API calls
   
   - Since it's closer to the actual python module error at the bottom.
@@ -122,7 +122,7 @@ Traceback (most recent call last):
   File "/newapi.py", line 46, in __post
   ```
   
-  ##### Lower Intermediate block --> python library that raised the error
+##### Lower Intermediate block --> python library that raised the error
 
  - In this block we're still saying that the reported error concerns
  
@@ -140,7 +140,7 @@ Traceback (most recent call last):
   File "/usr/lib/python3.9/urllib/request.py", line 494, in _call_chain
     result = func(*args)
   ```
-  ##### Lower Block --> Actual error !
+##### Lower Block --> Actual error !
 ```
   #--> ACTUAL ERROR <--
   File "/usr/lib/python3.9/urllib/request.py", line 641, in http_error_default
