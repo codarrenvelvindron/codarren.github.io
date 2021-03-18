@@ -70,16 +70,17 @@ Let's take an example:
 ## Someone is wrong, what should you do about it ?
 In a limited world, you might have 2 choices.
 1. Tell that person they are wrong: " Wrong,this pen is blue"
+```
+In that scenario, you should be prepared for a whole lot of opposition.
 
-- In that scenario, you should be prepared for a whole lot of opposition.
-
-- This will go on until he/she accepts that this pen is actually blue.
-
+This will go on until he/she accepts that this pen is actually blue.
+```
 2. Accept that person's opinion and walk away.
+```
+If that person is happy with a blue pen that is red.
 
-- If that person is happy with a blue pen that is red.
-
-- Then who am I to judge ?
+Then who am I to judge ?
+```
 
 ## The choice is yours
 Everyone has their own truth.
