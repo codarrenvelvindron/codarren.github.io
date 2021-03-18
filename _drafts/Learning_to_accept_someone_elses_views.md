@@ -68,8 +68,35 @@ Let's take an example:
 - "This pen is **blue**"
 
 ## Someone is wrong, what should you do about it ?
+In a limited world, you might have 3 choices.
+1. Tell that person they are wrong: " Wrong,this pen is blue"
+
+- In that scenario, you should be prepared for a whole lot of opposition.
+- This will go on until he/she accepts that this pen is actually blue.
+
+2. Accept that person's opinion and walk away.
+
+- If that person is happy with a blue pen that is red.
+- Then who am I to judge ?
+
+## The choice is yours
+Everyone has their own truth.
+
+There is no universal truth.
+
+What makes someone happy may make someone else sad.
+
+Your truth may sound like a lie to someone else.
+
+The secret to your own freedom is letting go of everything.
+
+## Time to act, not react
+Before believing you understood the previous phrase, look those two words in the dictionary.
+
+And understand the difference between the two.
 
 
+## \ Codarren /
 
 ## Credits
 [featured image from xkcd](https://imgs.xkcd.com/comics/duty_calls.png)
