@@ -88,7 +88,17 @@ Then who am I to judge ?
 ```
 
 ## The choice is yours
-Everyone has their own truth.
+```
+The above example can be further perverted:
+
+Someone is gay and you believe everyone should be straight.
+
+Now try making a gay person straight.
+
+You might succeed (literally)
+```
+
+The point is everyone has their own truth.
 
 There is no universal truth.
 
@@ -103,8 +113,7 @@ Before believing you understood the previous phrase, look those two words in the
 
 And understand the difference between the two.
 
-Don't worry, be happy ! :)
-
+Have a great day guys ! :)
 
 ## \ Codarren /
 
