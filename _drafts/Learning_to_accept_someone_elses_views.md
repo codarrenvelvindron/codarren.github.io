@@ -111,8 +111,7 @@ Before believing you understood the previous phrase, look those two words in the
 
 And understand the difference between the two.
 
-Don't worry, be happy ! :)
-
+Have a great day guys ! :)
 
 ## \ Codarren /
 
