@@ -86,7 +86,12 @@ Then who am I to judge ?
 ```
 
 ## The choice is yours
-Everyone has their own truth.
+```
+The above example can be further perverted:
+
+Someone is gay and you believe everyone should be straight.
+```
+The point is everyone has their own truth.
 
 There is no universal truth.
 
