@@ -71,6 +71,7 @@ Let's take an example:
 
 ## Someone is wrong, what should you do about it ?
 In a limited world, you might have 2 choices.
+
 1. Tell that person they are wrong: " Wrong,this pen is blue"
 
 ```
