@@ -91,6 +91,7 @@ The above example can be further perverted:
 
 Someone is gay and you believe everyone should be straight.
 ```
+
 The point is everyone has their own truth.
 
 There is no universal truth.
