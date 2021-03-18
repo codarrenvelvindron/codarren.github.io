@@ -38,7 +38,7 @@ At this age, I understood that this was no longer acceptable.
 
 So, instead of fighting, I was talking people down instead.
 
-There was still a lot of fighting going on in fact but it just switched to from physical to verbal.
+There was still a lot of fighting going on in fact but it just switched from physical to verbal.
 
 
 ## All about feeling
