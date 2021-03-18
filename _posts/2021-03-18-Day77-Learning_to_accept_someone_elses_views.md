@@ -105,14 +105,16 @@ There is no universal truth.
 
 What makes someone happy may make someone else sad.
 
+What you see as a nightmare might be someone else's dream.
+```
+- I saw myself driving a Toyota Vitz. God what a nightmare ! I'm a Mercedes guy!
+
+- I hope one day I get the keys to a Toyota Vitz, it's so beautiful and fuel-efficient too !
+```
+
 Your truth may sound like a lie to someone else.
 
 The secret to your own freedom is letting go of everything.
-
-## Time to act, not react
-Before believing you understood the previous phrase, look those two words in the dictionary.
-
-And understand the difference between the two.
 
 Have a great day guys ! :)
 
