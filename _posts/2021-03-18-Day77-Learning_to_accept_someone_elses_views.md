@@ -114,6 +114,8 @@ What you see as a nightmare might be someone else's dream.
 
 Your truth may sound like a lie to someone else.
 
+At the end of the day, a car is just a means of transport.
+
 The secret to your own freedom is letting go of everything.
 
 Have a great day guys ! :)
