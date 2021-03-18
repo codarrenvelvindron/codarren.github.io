@@ -90,6 +90,8 @@ Then who am I to judge ?
 The above example can be further perverted:
 
 Someone is gay and you believe everyone should be straight.
+
+Now try making a gay person straight.
 ```
 
 The point is everyone has their own truth.
