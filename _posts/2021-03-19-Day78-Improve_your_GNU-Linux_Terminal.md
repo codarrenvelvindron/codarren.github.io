@@ -1,4 +1,6 @@
 ---
+layout: post
+title: 'Day 78: Improve your GNU-Linux Terminal'
 published: true
 ---
 ## There's always a bigger fish
