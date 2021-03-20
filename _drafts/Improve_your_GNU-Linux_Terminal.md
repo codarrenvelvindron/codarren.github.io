@@ -31,3 +31,45 @@ This command allows me to see all files in a directory
 - With the newer files at the bottom
 
 - And the oldest files towards the top
+
+I can abbreviate it to 'll' instead of typing 'ls -lrth' using alases.
+
+```
+#Open a bash terminal
+#We check if we are really using bash
+ps -p $$ 
+
+#  PID TTY          TIME CMD
+# 1960 pts/3    00:00:00 bash
+# If we are the instructions below will work for you.
+
+#We open the bash run commands file
+vim ~/.bashrc
+
+#We add the alias
+alias ll='ls -lrth'
+
+#Save and log back in
+```
+
+We can now use the alias on all our terminals.
+
+But it is important to logout so that the bashrc file will be reloaded
+
+Once logged back in, try to type ll in the terminal.
+
+### Terminal colors
+The primary advantage of having colored terminals is that it increases readability of text.
+
+For example, on the new webserver that I am connecting right now, the files and folders are of the same color (gret).
+
+And of course it becomes harder to differentiate files from folders.
+
+So I will make folders green.
+
+
+
+## Credits
+[bashrc](https://superuser.com/questions/173165/what-does-the-rc-in-bashrc-etc-mean)
+
+[shell check](https://www.cyberciti.biz/tips/how-do-i-find-out-what-shell-im-using.html)
