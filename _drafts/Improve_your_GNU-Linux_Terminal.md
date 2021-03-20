@@ -73,3 +73,5 @@ So I will make folders green.
 [bashrc](https://superuser.com/questions/173165/what-does-the-rc-in-bashrc-etc-mean)
 
 [shell check](https://www.cyberciti.biz/tips/how-do-i-find-out-what-shell-im-using.html)
+
+[Set custom colors](https://www.howtogeek.com/307899/how-to-change-the-colors-of-directories-and-files-in-the-ls-command/)
