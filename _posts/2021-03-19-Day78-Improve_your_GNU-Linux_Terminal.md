@@ -63,7 +63,7 @@ Once logged back in, try to type ll in the terminal.
 ### Terminal colors
 The primary advantage of having colored terminals is that it increases readability of text.
 
-For example, on the new webserver that I am connecting right now, the files and folders are of the same color (gret).
+For example, on the new webserver that I am connecting right now, the files and folders are of the same color (grey).
 
 And of course it becomes harder to differentiate files from folders.
 
