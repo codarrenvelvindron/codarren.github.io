@@ -108,6 +108,8 @@ It also works on DB prompts !
 ## Happy Saturday!
 Even though this post is for friday!
 
+## \ Codarren /
+
 ## Credits
 [bashrc](https://superuser.com/questions/173165/what-does-the-rc-in-bashrc-etc-mean)
 
