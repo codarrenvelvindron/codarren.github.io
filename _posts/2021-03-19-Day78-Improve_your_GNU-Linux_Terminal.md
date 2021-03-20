@@ -67,7 +67,7 @@ For example, on the new webserver that I am connecting right now, the files and 
 
 And of course it becomes harder to differentiate files from folders.
 
-So I will make folders green.
+So I will set the terminal colors in auto mode.
 
 ```
 #We first check the colors that are currently set
