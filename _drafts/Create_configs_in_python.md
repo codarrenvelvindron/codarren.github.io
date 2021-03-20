@@ -16,7 +16,7 @@ And this is the config file.
 
 ## Let's do this !
 ### Creating a conf
-```
+```cfg
 #We just create a conf with sections and key value pairs
 [program1]
 launch_frequency = 0.5
@@ -29,7 +29,7 @@ update_frequency = 1
 The values are read as you would in a dictionary.
 
 We use the configparser module.
-```
+```python
 import configparser
 
 sample_config='config.cfg'
