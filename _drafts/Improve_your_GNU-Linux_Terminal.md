@@ -67,7 +67,44 @@ And of course it becomes harder to differentiate files from folders.
 
 So I will make folders green.
 
+```
+#We first check the colors that are currently set
+echo $LS_COLORS
 
+#In my case it returns an empty line
+#Meaning no custom colors are set.
+
+#Modify ~/.bashrc again
+export LS_OPTIONS='--color=auto'
+eval "`dircolors`"
+alias ll='ls -lrth $LS_OPTIONS'
+```
+
+**Before**
+
+![terminal colors linux](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/before_ll.png)
+
+**After**
+
+![terminal colors after linux](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/after_ll.png)
+
+
+### Disconnecting
+How do you disconnect from a terminal ?
+
+There are multiple commands: exit, logout, etc..
+
+But one shortcut is : 
+```
+CTRL d
+```
+Which immediately disconnects you from the terminal.
+
+It also works on DB prompts !
+
+
+## Happy Saturday!
+Even though this post is for friday!
 
 ## Credits
 [bashrc](https://superuser.com/questions/173165/what-does-the-rc-in-bashrc-etc-mean)
