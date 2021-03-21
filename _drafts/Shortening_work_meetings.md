@@ -82,4 +82,4 @@ If you have nothing else to say, free the people. Please.
 ## \ Codarren /
 
 ## Credits
-[Featured image boring meeting](https://i1.wp.com/www.toleranca.eu/wp-content/uploads/2019/03/shutterstock_643104079.jpg?w=2200&ssl=1)
+[Featured image boring meeting](http://thinkbedoleadership.com/wp-content/uploads/2016/09/boring-meeting10-560x270.jpg)
