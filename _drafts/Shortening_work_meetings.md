@@ -2,6 +2,7 @@
 published: false
 ---
 ## Looonnnnnng meetings
+[shorten work meetings](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/shutterstock_643104079.webp)
 
 We have all been involved in meetings in one way or another.
 
@@ -79,3 +80,6 @@ This leaves a longing feeling of productiveness in people's minds.
 If you have nothing else to say, free the people. Please.
 
 ## \ Codarren /
+
+## Credits
+[Featured image boring meeting](https://i1.wp.com/www.toleranca.eu/wp-content/uploads/2019/03/shutterstock_643104079.jpg?w=2200&ssl=1)
