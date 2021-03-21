@@ -2,7 +2,7 @@
 published: false
 ---
 ## Looonnnnnng meetings
-[shorten work meetings](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/shutterstock_643104079.webp)
+[shorten work meetings](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/boring-meeting10-560x270.jpg)
 
 We have all been involved in meetings in one way or another.
 
