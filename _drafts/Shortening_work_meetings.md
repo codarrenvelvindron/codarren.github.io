@@ -77,7 +77,7 @@ They will be late for their next meeting, and as a meeting organiser, it is your
 ### 6. Finish early
 There is nothing more gratifying that a meeting planned for 30 minutes that finishes within 15 minutes.
 
-This leaves a longing feeling of productiveness in people's minds.
+This leaves a longing feeling of productiveness in everyone's mind.
 
 If you have nothing else to say, free the people. Please.
 
