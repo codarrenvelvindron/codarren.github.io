@@ -72,6 +72,8 @@ Your maths is incorrect.
 
 And know that everything that the participants planned for after your meeting is getting spoiled.
 
+They will be late for their next meeting, and as a meeting organiser, it is your fault.
+
 ### 6. Finish early
 There is nothing more gratifying that a meeting planned for 30 minutes that finishes within 15 minutes.
 
