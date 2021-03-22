@@ -41,7 +41,7 @@ with term.location(0, term.height - 15):
 ```
 The term.height is a special variable for the height of the terminal.
 
-- 1 sends it at the bottom.
+Minus one sends it at the bottom.
 
 ## Here's how it looks like
 ![python blessings](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/python_blessings.png)
