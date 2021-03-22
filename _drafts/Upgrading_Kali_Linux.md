@@ -87,6 +87,16 @@ uname -a
 Linux 5.10.0-kali4-amd64 #1 SMP Debian 5.10.19-1kali1 (2021-03-03) x86_64 GNU/Linux
 
 ```
+
+### Rolling back changes to cache
+***Only if you got the same space issue as me***
+```
+sudo rm -i /var/cache/apt
+
+sudo cp -rp /home/apt-cache/apt /var/cache
+
+rm -rf /home/apt-cache
+```
 ## \ Codarren /
 
 ## Credits
