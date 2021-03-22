@@ -20,7 +20,7 @@ uname -a
 
 ***Output***
 ```
-5.9.0-kali1-amd64 #1 SMP Debian 5.9.1-1kali2 (2020-10-29) x86_64 GNU/Linux
+Linux 5.9.0-kali1-amd64 #1 SMP Debian 5.9.1-1kali2 (2020-10-29) x86_64 GNU/Linux
 ```
 
 ## Upgrade packages
@@ -77,6 +77,16 @@ sudo apt dist-upgrade
 sudo apt autoremove
 ```
 
+## Check new version
+```
+uname -a
+```
+
+***Output***
+```
+Linux 5.10.0-kali4-amd64 #1 SMP Debian 5.10.19-1kali1 (2021-03-03) x86_64 GNU/Linux
+
+```
 ## \ Codarren /
 
 ## Credits
