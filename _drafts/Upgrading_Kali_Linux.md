@@ -34,6 +34,7 @@ In case you get this error like me, you do not need to repartition.
 A simple fix would be creating a symbolic link to your larger partition.
 
 - Create a new directory on your larger partition, in my case /home/
+
 ```
 df -h
 #/dev/mapper/ichmachine--vg-var   2.3G  1.1G  1.1G  50% /var
