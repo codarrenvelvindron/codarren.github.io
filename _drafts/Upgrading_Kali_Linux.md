@@ -1,9 +1,15 @@
 ---
 published: false
 ---
-## A New Post
+## Kali Linux
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+This is an OS centered around security.
+
+And weirdly enough, there are not too much information on doing stuff on it.
+
+It's important to know that Kali is Debian-based.
+
+Since it is debian-based, all/most debian commands and packages should work on it.
 
 
 ## Check current version
@@ -68,3 +74,8 @@ sudo apt dist-upgrade
 ```
 sudo apt autoremove
 ```
+
+## \ Codarren /
+
+## Credits
+[featured image](https://i.stack.imgur.com/Gns38.png)
