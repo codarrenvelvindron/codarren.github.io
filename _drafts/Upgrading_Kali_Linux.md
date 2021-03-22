@@ -2,6 +2,7 @@
 published: false
 ---
 ## Kali Linux
+![upgrading kali linux](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/Gns38.png)
 
 This is an OS centered around security.
 
