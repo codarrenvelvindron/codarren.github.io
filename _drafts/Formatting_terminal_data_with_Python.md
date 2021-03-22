@@ -39,9 +39,11 @@ with term.location(0, term.height - 15):
     print ("More middle text")
     print ("MAIN Text")
 ```
-The term.height is a special variable for the height of the terminal.
+- The term.height is a special variable for the height of the terminal.
 
-Minus one sends it at the bottom.
+- Minus one sends it at the bottom.
+
+- Terminal text can take colors but they are limited
 
 ## Here's how it looks like
 ![python blessings](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/python_blessings.png)
