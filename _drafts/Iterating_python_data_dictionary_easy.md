@@ -30,6 +30,19 @@ for k,v in dictionary.items():
         #do something
 ```
 
+## Adding dictionary items from one dictionary to another
+If you need to add only certain items that respect certain criterias from one dictionary to another.
+
+Use the code below:
+```
+dict1 = {'name':'Birdy','age':'10'}
+dict2 = {}
+
+for k,v in dict1.items():
+    if ('condition' in v):
+        dict2[k] = v
+print (dict2)
+```
 ## Stuck
 If you are stuck with a non-working loop that seems to return the same values multiple times.
 
