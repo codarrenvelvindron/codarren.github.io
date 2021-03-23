@@ -36,7 +36,7 @@ If you are stuck with a non-working loop that seems to return the same values mu
 It's probably your approach that is wrong.
 
 
-## \Codarren/
+## \ Codarren /
 
 ## Credits
 [python reference dictionaries](https://docs.python.org/3/tutorial/datastructures.html)
