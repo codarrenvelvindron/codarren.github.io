@@ -15,11 +15,11 @@ This is the first way I tried to do it.
 And it does work when you don't have too many key-value pairs.
 ```
 for key in dictionary:
-    if (key == 'myval'):
-        #do stuff with it
+    if (key == 'mykey'):
+        #do stuff with the values
 ```
 
-## Correct approach
+## Better approach
 For larger data dictionaries, with multiple key value pairs, it's better to make use of:
 the items method.
 
