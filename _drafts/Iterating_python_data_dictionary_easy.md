@@ -2,6 +2,7 @@
 published: false
 ---
 ## This is my 4th post about Data Dictionaries
+![python data dictionary iterating](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/python-logo.png)
 
 I must admit, there is always more to data dictionaries in python.
 
