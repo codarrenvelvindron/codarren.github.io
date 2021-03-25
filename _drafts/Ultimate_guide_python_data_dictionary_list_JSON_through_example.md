@@ -166,3 +166,8 @@ for i in range(0, size):
 ```
 
 ***Sample Output***
+```
+BTT USD 50
+BTT EUR 50
+BTT BTC 0.0001
+```
