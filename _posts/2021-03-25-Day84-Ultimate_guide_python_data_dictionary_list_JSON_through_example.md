@@ -109,7 +109,7 @@ print (pairs)
 ```
 
 ***Sample output of values of pairs list***
-```
+```python
 [{'symbol1': 'BTC', 'symbol2': 'USD', 'pricePrecision': 1, 'minLotSize': 0.0004, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '3500', 'maxPrice': '350000'}, {'symbol1': 'ETH', 'symbol2': 'USD', 'pricePrecision': 2, 'minLotSize': 0.012, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '26.41', 'maxPrice': '10000'}, {'symbol1': 'BCH', 'symbol2': 'USD', 'pricePrecision': 2, 'minLotSize': 0.02, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '43.40', 'maxPrice': '8192'}, {'symbol1': 'DASH', 'symbol2': 'USD', 'pricePrecision': 3, 'minLotSize': 0.065, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '12.98', 'maxPrice': '4096'}, {'symbol1': 'LTC', 'symbol2': 'USD', 'pricePrecision': 3, 'minLotSize': 0.08, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '7.73', 'maxPrice': '2048'}, {'symbol1': 'XRP', 'symbol2': 'USD', 'pricePrecision': 5, 'minLotSize': 11, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '0.0347', 'maxPrice': '10'}, {'symbol1': 'XLM', 'symbol2': 'USD', 'pricePrecision': 5, 'minLotSize': 32, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '0.002', 'maxPrice': '10'},
 ```
 - The values of pairs is a list
@@ -117,7 +117,7 @@ print (pairs)
 - Why ? if you look upwards, you will see pairs starts with a square bracket`
 
 - If you don't believe me try:
-```
+```python
 print (type(pairs))
 #it will return <class 'list'>
 ```
@@ -129,7 +129,7 @@ print (type(pairs))
 
 - So we read it as an index
 
-```
+```python
 size = len(pairs)
 print(size)
 #size is 190
@@ -156,7 +156,7 @@ for i in range(0, size):
 
 - Now, we just need to read some cryptos from that dictionary
 
-```
+```python
 #Say we are looking for BTT in particular
 #we now loop through it
 for i in range(0, size):
