@@ -171,3 +171,7 @@ BTT USD 50
 BTT EUR 50
 BTT BTC 0.0001
 ```
+
+## Full code
+
+<script src="https://gist.github.com/codarrenvelvindron/82533ac33721260182749f25ba92f126.js"></script>
