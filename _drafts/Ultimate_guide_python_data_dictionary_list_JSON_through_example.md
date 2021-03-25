@@ -2,6 +2,7 @@
 published: false
 ---
 ## JSON can be entangled into some nested gooodness
+![python data dictionary list json](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/llustration-of-an-entangled-polymer-solution-Typical-configuration-of-a-tracer-filament.png)
 
 Mmmmm...
 
@@ -175,3 +176,12 @@ BTT BTC 0.0001
 ## Full code
 
 <script src="https://gist.github.com/codarrenvelvindron/82533ac33721260182749f25ba92f126.js"></script>
+
+
+## \ Codarren /
+
+## Credits
+[Featured image](https://www.researchgate.net/figure/llustration-of-an-entangled-polymer-solution-Typical-configuration-of-a-tracer-filament_fig1_322937710)
+
+[python data structures](https://docs.python.org/3/tutorial/datastructures.html)
+
