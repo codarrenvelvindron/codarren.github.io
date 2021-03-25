@@ -69,7 +69,7 @@ __convert_to_dict(filename,crypto_dictionary)
 #Our global crypto_dictionary is now updated.
 ```
 
-** Sample of dictionary output **
+***Sample of dictionary output***
 ```python
 {'e': 'currency_limits', 'ok': 'ok', 'data': {'pairs': [{'symbol1': 'BTC', 'symbol2': 'USD', 'pricePrecision': 1, 'minLotSize': 0.0004, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '3500', 'maxPrice': '350000'}, {'symbol1': 'ETH', 'symbol2': 'USD', 'pricePrecision': 2, 'minLotSize': 0.012, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '26.41', 'maxPrice': '10000'}, {'symbol1': 'BCH', 'symbol2': 'USD', 'pricePrecision': 2, 'minLotSize': 0.0
 ```
@@ -88,7 +88,7 @@ data_dict = crypto_dictionary['data']
 print (data_dict)
 ```
 
-*** Sample Output of data_dict ***
+***Sample Output of data_dict***
 ```python
 {'pairs': [{'symbol1': 'BTC', 'symbol2': 'USD', 'pricePrecision': 1, 'minLotSize': 0.0004, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '3500', 'maxPrice': '350000'}, {'symbol1': 'ETH', 'symbol2': 'USD', 'pricePrecision': 2, 'minLotSize': 0.012, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '26.41', 'maxPrice': '10000'}, {'symbol1': 'BCH', 'symbol2': 'USD', 'pricePrecision': 2, 'minLotSize': 0.02, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '43.40', 'maxPrice': '8192'}, {'symbol1': 'DASH', 'symbol2': 'USD', 'pricePrecision': 3, 'minLotSize': 0
 ```
@@ -105,7 +105,7 @@ pairs = data_dict['pairs']
 print (pairs)
 ```
 
-*** Sample output of values of pairs list ***
+***Sample output of values of pairs list***
 ```
 [{'symbol1': 'BTC', 'symbol2': 'USD', 'pricePrecision': 1, 'minLotSize': 0.0004, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '3500', 'maxPrice': '350000'}, {'symbol1': 'ETH', 'symbol2': 'USD', 'pricePrecision': 2, 'minLotSize': 0.012, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '26.41', 'maxPrice': '10000'}, {'symbol1': 'BCH', 'symbol2': 'USD', 'pricePrecision': 2, 'minLotSize': 0.02, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '43.40', 'maxPrice': '8192'}, {'symbol1': 'DASH', 'symbol2': 'USD', 'pricePrecision': 3, 'minLotSize': 0.065, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '12.98', 'maxPrice': '4096'}, {'symbol1': 'LTC', 'symbol2': 'USD', 'pricePrecision': 3, 'minLotSize': 0.08, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '7.73', 'maxPrice': '2048'}, {'symbol1': 'XRP', 'symbol2': 'USD', 'pricePrecision': 5, 'minLotSize': 11, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '0.0347', 'maxPrice': '10'}, {'symbol1': 'XLM', 'symbol2': 'USD', 'pricePrecision': 5, 'minLotSize': 32, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '0.002', 'maxPrice': '10'},
 ```
@@ -127,5 +127,42 @@ print (type(pairs))
 - So we read it as an index
 
 ```
+size = len(pairs)
+print(size)
+#size is 190
+
+#we now loop through it
+#Remember, indexes always start with zero, so we go from 0 to 190
+for i in range(0, size):
+    print (pairs[i])
+```
+
+***Sample output of values contents***
+```python
+{'symbol1': 'BTC', 'symbol2': 'USD', 'pricePrecision': 1, 'minLotSize': 0.0004, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '3500', 'maxPrice': '350000'}
+{'symbol1': 'ETH', 'symbol2': 'USD', 'pricePrecision': 2, 'minLotSize': 0.012, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '26.41', 'maxPrice': '10000'}
+{'symbol1': 'BCH', 'symbol2': 'USD', 'pricePrecision': 2, 'minLotSize': 0.02, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '43.40', 'maxPrice': '8192'}
+{'symbol1': 'DASH', 'symbol2': 'USD', 'pricePrecision': 3, 'minLotSize': 0.065, 'minLotSizeS2': 10, 'maxLotSize': None, 'minPrice': '12.98', 'maxPrice': '4096'}
+```
+- Now that's more like it!
+
+- We now have a clean dictionary
+
+## Read from dat dictionary !
+- Oh yeah, job just got easier now.
+
+- Now, we just need to read some cryptos from that dictionary
 
 ```
+#Say we are looking for BTT in particular
+#we now loop through it
+for i in range(0, size):
+    #print (pairs[i])
+    crypto = pairs[i]['symbol1']
+    market = pairs[i]['symbol2']
+    maxprice = pairs[i]['maxPrice']
+    if ('BTT' in crypto):
+        print (crypto,market,maxprice)
+```
+
+***Sample Output***
