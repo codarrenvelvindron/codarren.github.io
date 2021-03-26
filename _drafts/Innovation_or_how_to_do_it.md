@@ -2,6 +2,8 @@
 published: false
 ---
 ## A recurrent question
+![innovation](https://raw.githubusercontent.com/codarrenvelvindron/codarrenvelvindron.github.io/master/images/Meditation-1.webp)
+
 I admit it, I get ideas daily.
 
 New ideas daily.
