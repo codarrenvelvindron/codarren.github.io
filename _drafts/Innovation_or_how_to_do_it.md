@@ -29,6 +29,8 @@ For me, it's normal.
 
 But there are some particular situations that allow them to come more easily
 
+And situations where i don't get any !
+
 And today I'll be sharing that with you.
 
 ## 1. Sleep
