@@ -107,3 +107,6 @@ To favor innovation, your mind must be in a healthy place.
 It's all that is required.
 
 ## \ Codarren /
+
+## Credits
+[Featured image](https://content.thriveglobal.com/wp-content/uploads/2020/11/Meditation-1.jpg?w=350)
