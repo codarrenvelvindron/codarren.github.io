@@ -60,6 +60,7 @@ This didn't work, I was shocked.
 The solution was just to convert the list (which was in string format) to a list using the json library.
 
 ```
+import json
 json.loads(mylist)
 ```
 That solution was ridiculously simple and somehow took me an hour to find out...
