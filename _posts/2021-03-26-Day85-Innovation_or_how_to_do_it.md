@@ -15,7 +15,7 @@ Innovation and invention are closely related.
 
 But they are different things.
 
-Innovation is about improving that is.
+Innovation is about improving what is.
 
 Invention is about creation of what never was.
 
