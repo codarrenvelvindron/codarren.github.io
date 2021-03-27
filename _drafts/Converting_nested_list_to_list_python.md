@@ -65,6 +65,6 @@ json.loads(mylist)
 ```
 That solution was ridiculously simple and somehow took me an hour to find out...
 
-You are most welcome !
+And you are welcome !
 
 ## \ Codarren /
