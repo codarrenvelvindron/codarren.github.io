@@ -4,6 +4,7 @@ title: 'Day 87: forget screen use TMUX GNU-Linux'
 published: true
 ---
 ## Screen
+![tmux linux screen](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/tmux_1.png)
 
 GNU/Linux screen is used to keep your SSH sessions active.
 
