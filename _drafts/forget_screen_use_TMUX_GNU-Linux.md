@@ -67,3 +67,7 @@ So we'll leave this intro open for now.
 Have a nice Sunday !
 
 ## \ Codarren /
+
+## Credits
+
+[tmux cheatsheet](https://tmuxcheatsheet.com/)
