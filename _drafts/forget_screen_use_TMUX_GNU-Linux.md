@@ -7,7 +7,8 @@ GNU/Linux screen is used to keep your SSH sessions active.
 
 But it's not the only tool out there.
 
-We also have tmux.
+We also have tmux -terminal multiplexer.
+
 
 ## Here's why you should start using TMUX
 
