@@ -16,7 +16,7 @@ We also have tmux -terminal multiplexer.
 
 ### 1. Tmux has a wicked interface
 
-![tmux linux screen](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/tmux_1.png)
+
 
 Unlike screen which leaves a lot of guessing.
 
