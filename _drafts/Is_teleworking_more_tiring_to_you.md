@@ -2,6 +2,7 @@
 published: false
 ---
 ## Really?
+![teleworking featured](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/efficiency.png)
 
 Then, like me, you have probably been doing it wrong.
 
