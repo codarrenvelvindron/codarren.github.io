@@ -2,7 +2,7 @@
 published: false
 ---
 ## Do it your way.
-
+![Coding your way python](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/python-logo.png)
 
 Why? Because at least you're doing it.
 
