@@ -3,6 +3,7 @@ published: false
 ---
 ## Do it your way.
 
+
 Why? Because at least you're doing it.
 
 ## 7,7 Billion
@@ -52,6 +53,14 @@ Start blogging about what you're working on !
 Chances are, you'll become even better as what you're
 doing since there is some additional thinking in explaining
 it to someone else.
+
+
+### 5. Choose a language you like.
+Mine is python.
+
+It's easy for me to code in python.
+
+Life's too short to code in a language you don't like !
 
 
 ## \ Codarren /
