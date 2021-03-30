@@ -67,3 +67,5 @@ Enjoy time time really, it won't come back.
 
 ## Credits
 [workaholic 10 signs](https://www.european-business.com/listicles/0010-ten-signs-that-you-are-a-workaholic)
+
+[Featured xkcd image](https://imgs.xkcd.com/comics/efficiency.png)
