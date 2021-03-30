@@ -10,7 +10,7 @@ If you feel like you are working more while teleworking.
 
 You probably are.
 
-If you are working more, you may be what people call a workaholic.
+If you are working more, you may be what people call a [workaholic](https://www.european-business.com/listicles/0010-ten-signs-that-you-are-a-workaholic).
 
 ## Workaholic
 A person with excessive devotion to work.
