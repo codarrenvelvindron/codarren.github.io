@@ -49,3 +49,29 @@ It's just pointless for us to rush to supermarkets all at once.
 
 Supermarket in alphabetical order is definitely a keeper.
 
+### 3. Grow --> For eating and for the environemnt
+Our land is meant for planting.
+
+It's time to grow, make the butterflies and bees happy.
+
+I am starting to see bees around the house. (a rare sight!)
+
+We need the bees to pollinate our crops and give us food.
+
+And the bees need us to plant for them.
+
+
+## Be contributors
+I am trying to make a case for us humans.
+
+But the truth is, we are not really important for this ecosystem.
+
+If all humans were to die tomorrow, the planet would thrive.
+
+Trees,plants and animals will be happier.
+
+Make a difference, everything starts with us.
+
+Or everything could also end without us.
+
+## \ Codarren /
