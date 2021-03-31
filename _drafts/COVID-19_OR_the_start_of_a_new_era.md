@@ -79,3 +79,6 @@ Make a difference, everything starts with us.
 Or everything could also end without us.
 
 ## \ Codarren /
+
+## Credits
+[Featured image](https://media.cntraveler.com/photos/554a497929d479ab28bfb03b/master/w_1600%2Cc_limit/spring_flowers_2015_longwood_cr_Longwood%2520Gardens%2520L%2520Albee.jpg)
