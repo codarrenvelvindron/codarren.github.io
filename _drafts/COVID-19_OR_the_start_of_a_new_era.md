@@ -36,6 +36,8 @@ Even less, concentrated in buildings containing thousands of us.
 
 Leave that for people who really need it, like construction workers, etc...
 
+Companies will save on that rent money.
+
 ### 2. Supermarket --> Alphabetical order
 This was a great measure by the Government of Mauritius and worth all applaud.
 
