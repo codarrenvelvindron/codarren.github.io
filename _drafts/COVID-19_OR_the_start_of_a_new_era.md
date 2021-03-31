@@ -17,7 +17,9 @@ We are not some chosen people, and there is no such thing as a Covid-free island
 
 There were people who were silently infected and maybe were not even aware.
 
-That is my belief.
+The vaccine is only effective if we count strains out.
+
+[An interesting article here](https://www.healthline.com/health/how-many-strains-of-covid-are-there)
 
 ## Now starts a new era.
 
