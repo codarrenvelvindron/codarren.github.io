@@ -2,6 +2,7 @@
 published: false
 ---
 ## Never seen or heard before
+![covid a new era](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/spring_flowers_2015_longwood_cr_Longwood%2520Gardens%2520L%2520Albee.webp)
 
 Today,31/03/2020, in Mauritius it was announced that we are going into a month of confinement.
 
