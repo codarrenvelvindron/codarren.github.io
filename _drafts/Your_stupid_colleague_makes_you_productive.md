@@ -45,11 +45,11 @@ of the bigger issue.
 ***Win-Win !***
 
 ### 3. Life would be hell without them
-Right now, you believe that life is hell without them.
+Right now, you believe that life is hell with them.
 
 Understand that without them, nobody would take on the additional work.
 
-And even though they are not resolving it in due time, they still
+And even though they are not resolving it in due time if not at all, they still
 show up to work everyday.
 
 Without them, the additional work would be your responsibility.
