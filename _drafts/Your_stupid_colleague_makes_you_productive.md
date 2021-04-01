@@ -27,7 +27,7 @@ or an Albert Einstein, where are you situated ?
 ### 1. They believe everything is possible.
 Yes, they don't usually see the real impact of what they are saying.
 
-As a matter of fact, they will sugggest things they can't do.
+As a matter of fact, they will suggest things they can't do.
 
 But, being the person that can do it, even the impossible becomes possible.
 
