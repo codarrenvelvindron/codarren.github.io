@@ -61,3 +61,8 @@ Or for an additional bonus ?
 
 Yes, the competition is weak.
 
+
+## \ Codarren /
+
+## Credits
+[Intelligence wiki](https://en.wikipedia.org/wiki/Intelligence)
