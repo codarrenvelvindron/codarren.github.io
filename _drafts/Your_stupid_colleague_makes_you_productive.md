@@ -65,7 +65,7 @@ Yes, the competition is weak.
 ### 5. They only understand simple terms.
 The real mastery over understanding.
 
-***Is being able to understand something complex in simple terms***
+***Is being able to explain something complex in simple terms***
 
 This means that to explain something to them, you have to improve
 your own explanation, condense and rework it.
