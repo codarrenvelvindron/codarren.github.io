@@ -2,6 +2,7 @@
 published: false
 ---
 ## Stupidity
+![stupid colleagues](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/basic-laws-of-human-stupidity-1024x439.png)
 
 Today we'll talk about stupidity.
 
