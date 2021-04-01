@@ -61,6 +61,20 @@ Or for an additional bonus ?
 
 Yes, the competition is weak.
 
+### 5. They only understand simple terms.
+The real mastery over understanding.
+
+***Is being able to understand something complex in simple terms***
+
+This means that to explain something to them, you have to improve
+your own explanation, condense and rework it.
+
+Teaching something to someone helps you understand it even better!
+
+## What you should do tomorrow ?
+Be thankful for that colleague to be part of your life.
+
+Without him/her, you would probably be less of a complete person today.
 
 ## \ Codarren /
 
