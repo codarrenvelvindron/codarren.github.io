@@ -66,3 +66,5 @@ Yes, the competition is weak.
 
 ## Credits
 [Intelligence wiki](https://en.wikipedia.org/wiki/Intelligence)
+
+[Featured image](https://intoactioncoaching.de/wp-content/uploads/2020/03/basic-laws-of-human-stupidity-1024x439.png)
