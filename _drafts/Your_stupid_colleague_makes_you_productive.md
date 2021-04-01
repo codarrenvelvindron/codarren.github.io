@@ -56,5 +56,5 @@ Who do you think will be considered for that raise ?
 
 Or for an additional bonus ?
 
-The competition is weak.
+Yes, the competition is weak.
 
