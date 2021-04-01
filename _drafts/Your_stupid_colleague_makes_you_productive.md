@@ -39,7 +39,10 @@ you will be called upon to help.
 When you are called upon, this gives you the opportunity to 
 learn something new, or to cement your own growing knowledge!
 
-Win-Win
+Some touch-up work for you without actually taking the burden
+of the bigger issue.
+
+***Win-Win !***
 
 ### 3. Life would be hell without them
 Right now, you believe that life is hell without them.
