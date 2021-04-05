@@ -39,6 +39,8 @@ If you don't have it, try sunglasses if you don't mind onlookers :)
 ## 2. Movement
 Yes, we were not meant to be sitting in front of a computer screen all day long.
 
+One of the conditions you can have is [sciatica](https://www.mayoclinic.org/diseases-conditions/sciatica/symptoms-causes/syc-20377435)
+
 ### Take regular breaks.
 
 Don't just stay in one place doing nothing.
@@ -83,8 +85,6 @@ Abusing the spine will lead to movement impairment.
 Most of the time,you will see yourself going down on your chair.
 
 This is very bad for the spine.
-
-
 
 Be aware of your current position on your chair at all times.
 
