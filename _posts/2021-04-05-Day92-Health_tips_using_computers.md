@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'Day 95: Health tips using computers'
+title: 'Day 92: Health tips using computers'
 published: true
 ---
 ## From a computer user
+![health tips using computers](https://raw.githubusercontent.com/codarrenvelvindron/codarrenvelvindron.github.io/master/images/achy-wrists.jpg)
 
 Got my first computer in 1996.
 
