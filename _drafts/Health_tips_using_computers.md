@@ -75,14 +75,16 @@ Do the stretch as much as you can !
 ## 4. Back
 The back can become quite painful if not taken care of.
 
+The spinal cord is the column of nerves that connects your brain to the rest of the body.
+
+Abusing the spine will lead to movement impairment.
+
 ### Stay straight !
 Most of the time,you will see yourself going down on your chair.
 
 This is very bad for the spine.
 
-The spinal cord is the column of nerves that connects your brain to the rest of the body.
 
-Abusing the spine will lead to movement impairment.
 
 Be aware of your current position on your chair at all times.
 
