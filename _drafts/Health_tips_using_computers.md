@@ -41,6 +41,8 @@ Yes, we were not meant to be sitting in front of a computer screen all day long.
 
 One of the conditions you can have is [sciatica](https://www.mayoclinic.org/diseases-conditions/sciatica/symptoms-causes/syc-20377435)
 
+Sciatica is very painful and prevents you from walking properly.
+
 ### Take regular breaks.
 
 Don't just stay in one place doing nothing.
