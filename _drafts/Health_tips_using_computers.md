@@ -92,3 +92,8 @@ Be aware of your current position on your chair at all times.
 
 Correct it when the spine is not straight.
 
+
+### Do some yoga poses
+[Sphinx pose](https://www.yogajournal.com/poses/sphinx-pose/) - Breathe in and out slowly, letting your spine rest on the ground for every exhalation.
+
+[Child pose - Balasana](https://www.yogajournal.com/poses/child-s-pose/) - This is a very relaxing pose for the whole body.
