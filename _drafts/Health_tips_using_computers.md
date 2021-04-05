@@ -97,3 +97,17 @@ Correct it when the spine is not straight.
 [Sphinx pose](https://www.yogajournal.com/poses/sphinx-pose/) - Breathe in and out slowly, letting your spine rest on the ground for every exhalation.
 
 [Child pose - Balasana](https://www.yogajournal.com/poses/child-s-pose/) - This is a very relaxing pose for the whole body.
+
+
+
+## We live in a physical world
+And as such everything is movement.
+
+Without this body, we cannot live freely.
+
+So, please take care of it.
+
+## \ Codarren /
+
+## Credits
+[featured image wrists](https://www.highspeedtraining.co.uk/hub/wp-content/uploads/2015/06/achy-wrists.jpg)
