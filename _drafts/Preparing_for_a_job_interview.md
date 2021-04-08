@@ -66,7 +66,7 @@ than some genius know-nothing, but know all.
 
 Even if you don't know certain things, that is perfectly OK!
 
-We know when you are lying,so don't pretend to know, please.
+We can tell when you are lying,so don't pretend to know, please.
 
 This is at best annoying, at worse, a waste of time.
 
