@@ -64,7 +64,7 @@ As interviewers, our job is to make sure you are a fit for the job.
 
 Even if you don't know certain things, that is perfectly OK!
 
-We know when you don't know,so don't pretend to know, please...
+We know when you are lying,so don't pretend to know, please...
 
 ## Good luck!
 
