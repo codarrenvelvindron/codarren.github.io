@@ -3,6 +3,7 @@ published: false
 ---
 ## Intro
 ![Preparing for a job interview](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/000028497_900x500_c.jpg)
+
 This is mainly aimed at people just out of college/university that are going to try for a job.
 
 By the end of this article, you won't be trying, you will be ready for the job interview.
