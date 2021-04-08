@@ -61,7 +61,8 @@ That's ok, it's not a test or an exam.
 
 It's just an interview.
 
-As interviewers, our job is to make sure you are a fit for the job.
+I personally always appreciate a candidate that says "I don't know"
+than some genius know-nothing, but know all.
 
 Even if you don't know certain things, that is perfectly OK!
 
