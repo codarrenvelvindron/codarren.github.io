@@ -65,4 +65,9 @@ As interviewers, our job is to make sure you are a fit for the job.
 Even if you don't know certain things, that is perfectly OK!
 
 
+## Good luck!
 
+## \ Codarren /
+
+## Credits
+[featured image](https://infos.emploipublic.fr/mediatheque_edito/7/9/4/000028497_900x500_c.jpg)
