@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 98: Preparing for a job interview'
+title: 'Day 93: Preparing for a job interview'
 published: true
 ---
 ## Intro
