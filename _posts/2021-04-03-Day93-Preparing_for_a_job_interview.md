@@ -51,7 +51,7 @@ As wanted as you are for the interview, it's important to be on time.
 
 This is a sign of respect for people who have accepted to take a chance on you.
 
-For us interviewers, he have very tight schedules.
+For us interviewers, we have very tight schedules.
 
 If someone is late for the interview, that's already a very bad first impression.
 
