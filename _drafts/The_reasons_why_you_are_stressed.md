@@ -23,6 +23,7 @@ You can blame it on your family, your colleagues, your wife or husband.
 
 **You** have an ego that prevents you from accepting reality.
 
+**Your** mind is not still.
 
 ## Is someone annoying you ?
 Make him/her disappear (I'm not saying crime).
