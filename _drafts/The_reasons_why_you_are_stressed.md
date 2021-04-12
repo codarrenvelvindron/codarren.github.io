@@ -2,6 +2,7 @@
 published: false
 ---
 ## Stress
+![stress](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/pexels-photo-3807738-300x200.jpeg)
 
 That invisible, inexistant condition that is driving us mad.
 
