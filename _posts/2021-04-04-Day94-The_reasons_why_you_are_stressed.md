@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 102: The reasons why you are stressed'
+title: 'Day 94: The reasons why you are stressed'
 published: true
 ---
 ## Stress
