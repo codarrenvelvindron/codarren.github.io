@@ -75,5 +75,4 @@ Then accept it.
 ## \ Codarren /
 
 ## Credits
-
-![stressed featured image](https://www.stress.org/wp-content/uploads/2020/06/pexels-photo-3807738-300x200.jpeg)
+[stressed featured image](https://www.stress.org/wp-content/uploads/2020/06/pexels-photo-3807738-300x200.jpeg)
