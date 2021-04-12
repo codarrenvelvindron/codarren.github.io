@@ -59,7 +59,7 @@ Can you make people stop talking ?
 
 ## Accept what we cannot change.
 
-This is something that completely changed my life.
+This is a sentence that completely changed my life.
 
 If something is not going your way, and you are unable to change it.
 
