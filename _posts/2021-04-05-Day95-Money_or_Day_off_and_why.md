@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 104: Money or Day off and why'
+title: 'Day 95: Money or Day off and why'
 published: true
 ---
 ## Temptation
