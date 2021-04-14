@@ -31,7 +31,7 @@ If the reason you are loved is not you.
 Then, what is the worth of that love ?
 
 **Family**
-Can you buy a people around you ?
+Can you buy people around you ?
 
 I'm serious.
 
