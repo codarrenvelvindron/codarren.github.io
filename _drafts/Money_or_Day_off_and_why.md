@@ -2,6 +2,7 @@
 published: false
 ---
 ## Temptation
+![time and money](https://github.com/codarrenvelvindron/codarrenvelvindron.github.io/raw/master/images/getty_image_time_money.png)
 
 Money in any form it comes is always tempting.
 
