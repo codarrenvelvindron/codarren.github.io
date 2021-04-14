@@ -6,7 +6,7 @@ published: false
 
 Money in any form it comes is always tempting.
 
-To the materialist at least or maybe the ones with projects of 'grandeur'
+To the materialist at least or maybe the ones with projects of 'grandeur'...
 
 ## Money Fascination
 
