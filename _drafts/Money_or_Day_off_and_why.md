@@ -64,6 +64,9 @@ If time is well spent, you can do many things in that time.
 
 Things that a day's work will never give you.
 
+Enjoy your time on this planet, tomorrow is another day...
+
+
 ## "Lost time is never found again." – Benjamin Franklin.
 
 ## \ Codarren /
