@@ -68,17 +68,30 @@ Yes, the earth is warming up but we failed to notice.
 
 Afterall, that's what air conditioning is for right?
 
+## What we need to understand ?
+'The three letter words of the genetic code are the same in every creature – CGA mean arginine and GCG means alanine in bats, beetles, beech trees, bacteria, even in archaebacteria living in boiling temps in sulphurous springs, or viruses - wherever in the world, whatever animal, plant, bug, you look at, if it is alive it will use the same dictionary and know the same code.
+
+All life is one. Seaweed is your distant cousin, and anthrax one of your advanced realtives. The unity of life is an empirical fact.’ 
+
+~ Matt Ridley, Genome: The Autobiography of a Species in 23 Chapters, Fourth Estate, 2000
+
 ## What should we do from now on?
 ### 1. Stay at home as much as possible.
 Use our cars only if necessary.
 
+Who likes being stuck in traffic anyway?
+
 ### 2. Work from home.
 If you have the choice of working from home, take it.
 
-### 3. Slow down the 'developments'
-I'm not saying don't build your house.
+You are getting valuable time with your family!
 
-Build it and keep the trees.
+Why not start exercising ?
+
+### 3. Slow down the 'developments'
+Build your house, renovate but keep the trees and garden.
+
+Encourage other people to keep their beautiful garden.
 
 ### 4. Plant trees and crops
 Trees allow us to breathe.
@@ -87,17 +100,13 @@ Crops allow us to survive.
 
 Yes,we do need them to live.
 
-### 5. Use our money for good
+### 5. The purpose of money is survival.
 We have more money than our grandparents or our parents.
 
-But what do we do with it? 
+Are we abusing the fast foods? 
 
-Are we over-consuming stuff ?
-
-Are our bellies too full ?
-
-When will it be enough ?
-
+Try cooking your own food.
+If you don't know how to cook, now is the time to learn.
 
 ## Think before we act
 We have that tendency of thinking that we can do anything.
@@ -130,3 +139,5 @@ Yes, our planet that we are destroying.
 [earth energy off balance](https://climate.nasa.gov/news/3072/direct-observations-confirm-that-humans-are-throwing-earths-energy-budget-off-balance/)
 
 [humans cooling down](https://www.scientificamerican.com/article/are-human-body-temperatures-cooling-down/)
+
+[all life is one](http://www.thehumangenome.co.uk/THE_HUMAN_GENOME/All_life_is_one.html)
