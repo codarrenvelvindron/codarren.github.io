@@ -90,7 +90,7 @@ Yes, our planet that we are destroying.
 
 
 ## Credits
-[Featured image](https://data.giss.nasa.gov/gistemp/graphs_v4/)
+[Featured image NASA](https://data.giss.nasa.gov/gistemp/graphs_v4/)
 
 [GISTEMP](https://data.giss.nasa.gov/gistemp/maps/)
 
