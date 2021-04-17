@@ -72,8 +72,12 @@ I'm not saying don't build your house.
 
 Build it and keep the trees.
 
-### 4. Plant trees
-They allow us to breathe.
+### 4. Plant trees and crops
+Trees allow us to breathe.
+
+Crops allow us to survive.
+
+Yes,we do need to eat them to live.
 
 ## Think before we act
 We have that tendency of thinking that we can do anything.
