@@ -61,6 +61,12 @@ Is this the reason why we are being ejected by any means possible from our own p
 
 Think about it.
 
+## Our body temperatures decreased
+Compared to previous generations, we have a [lower body temp](https://www.scientificamerican.com/article/are-human-body-temperatures-cooling-down/).
+
+Yes, the earth is warming up but we failed to notice.
+
+Afterall, that's what air conditioning is for right?
 
 ## What should we do from now on?
 ### 1. Stay at home as much as possible.
