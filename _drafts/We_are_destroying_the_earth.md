@@ -51,7 +51,7 @@ It is safe to assume that the coronavirus has forced us to slow down.
 And this has had a positive impact on global temperature.
 
 ## Human-made stuff outweighs all life on earth.
-Did you know that all the bullshit we created now outweighs all life on earth?
+Did you know that all the useless stuff we created now [outweighs all life on earth](https://www.scientificamerican.com/article/human-made-stuff-now-outweighs-all-life-on-earth/)?
 
 Is this the reason why we are being ejected by any means possible from our own planet?
 
