@@ -119,3 +119,5 @@ Yes, our planet that we are destroying.
 [earth energy off balance](https://climate.nasa.gov/news/3072/direct-observations-confirm-that-humans-are-throwing-earths-energy-budget-off-balance/)
 
 [humans cooling down](https://www.scientificamerican.com/article/are-human-body-temperatures-cooling-down/)
+
+[human history timeline](https://www.southampton.ac.uk/~cpd/history.html)
