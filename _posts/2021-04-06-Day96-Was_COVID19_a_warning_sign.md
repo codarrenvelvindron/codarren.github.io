@@ -108,6 +108,9 @@ If we all contribute at least a little to this goal, we can still save the plane
 
 Yes, our planet that we are destroying.
 
+## My friends, future generations depend on us for survival.
+
+## \ Codarren /
 
 ## Credits
 [Featured image NASA](https://data.giss.nasa.gov/gistemp/graphs_v4/)
