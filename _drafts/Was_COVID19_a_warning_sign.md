@@ -77,7 +77,19 @@ Trees allow us to breathe.
 
 Crops allow us to survive.
 
-Yes,we do need to eat them to live.
+Yes,we do need them to live.
+
+### 5. Use our money for good
+We have more money than our grandparents or our parents.
+
+But what do we do with it? 
+
+Are we over-consuming stuff ?
+
+Are our bellies too full ?
+
+When will it be enough ?
+
 
 ## Think before we act
 We have that tendency of thinking that we can do anything.
