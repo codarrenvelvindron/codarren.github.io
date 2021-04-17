@@ -90,6 +90,8 @@ Yes, our planet that we are destroying.
 
 
 ## Credits
+[Featured image](https://data.giss.nasa.gov/gistemp/graphs_v4/)
+
 [GISTEMP](https://data.giss.nasa.gov/gistemp/maps/)
 
 [2020 andd 2016 hottest years](https://www.giss.nasa.gov/research/news/20210114/)
