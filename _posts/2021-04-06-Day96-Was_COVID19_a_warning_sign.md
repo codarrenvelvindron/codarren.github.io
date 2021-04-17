@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 108: Was COVID19 a warning sign'
+title: 'Day 96: Was COVID19 a warning sign'
 published: true
 ---
 ## I woke up abruptly tonight
